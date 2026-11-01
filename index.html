@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SERIKI BIBLE RSE</title>
+<meta name="description" content="La référence RSE et développement durable : réglementation, CSRD, taxonomie, reporting, métier et cours du master.">
+<meta name="theme-color" content="#0F5B3E">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon-48.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="splash" aria-hidden="true"><div class="splc"><div class="splcard"><img class="spllogo" src="icons/logo-complet.webp" alt="" width="520" height="545"></div><div class="splesp"><i style="background:#3FA37A"></i><i style="background:#E07A50"></i><i style="background:#5B8FDB"></i><i style="background:#E0A84F"></i></div></div></div></div>
+<script>try{if(sessionStorage.getItem('splash')){var s=document.getElementById('splash');s.parentNode.removeChild(s);}}catch(e){}</script>
+<div class="app">
+<div id="backdrop" aria-hidden="true"></div>
+<aside id="side">
+  <button class="menu-close" id="closeMenu" aria-label="Fermer le menu">Fermer ✕</button>
+  <div class="brand">
+    <a class="logo" href="#accueil" aria-label="SERIKI BIBLE RSE, accueil"><img class="logofull" src="icons/logo-complet.webp" alt="SERIKI BIBLE RSE, stratégie durable. Apprendre. Maîtriser. Agir. Réussir." width="520" height="545"></a>
+    <span class="stamp">À jour au 1er novembre 2026</span>
+  </div>
+  <nav id="nav"></nav>
+  <a class="savechip" href="#donnees"><span class="dot"></span>Enregistré sur cet appareil · Sauvegarder</a>
+  <div class="sidefoot"><a href="#infos">À propos</a> · <a href="#infos" data-jump="ml">Mentions légales</a> · <a href="#infos" data-jump="conf">Confidentialité</a></div>
+</aside>
+<main>
+  <div class="topbar">
+    <span class="netbadge" id="netBadge" hidden>Hors ligne</span>
+    <button class="menu-btn" id="menuBtn" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="side">Menu</button>
+    <div class="histbtns"><button class="navbtn" id="btnBack" aria-label="Retour" title="Retour"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>Retour</span></button><button class="navbtn" id="btnFwd" aria-label="Suivant" title="Suivant"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></button></div>
+    <div class="search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Rechercher : CSRD, scope 3, DNSH, plan de vigilance, VSME…" aria-label="Rechercher dans SERIKI BIBLE RSE" autocomplete="off">
+      <div class="results" id="results" role="listbox"></div>
+    </div>
+    <button class="navbtn voixbtn" id="voixBtn" aria-label="Écouter cette page" title="Écouter cette page"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5L6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg></button>
+    <button class="navbtn themebtn" id="themeBtn" aria-label="Changer de thème (clair ou sombre)" title="Thème clair ou sombre"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+  </div>
+  <div class="content" id="content">
+
+<!-- ============ ACCUEIL ============ -->
+<section class="view" id="accueil" data-title="Accueil">
+  <div id="dash"></div>
+  <div id="dashActu"></div>
+  <div class="eyebrow" style="margin-top:34px">L'ESSENTIEL RSE · NOVEMBRE 2026</div>
+  <h2>Ce qu'il faut savoir aujourd'hui</h2>
+  <p class="lead">La RSE a changé de visage en 2025-2026 : le paquet européen « Omnibus » a fortement réduit le nombre d'entreprises soumises au reporting obligatoire, mais la pression du terrain (clients, banques, appels d'offres, salariés, juges) n'a pas baissé. Le chargé de mission RSE n'est plus seulement un rédacteur de rapport : il pilote une transformation et sait prouver ce qu'il avance.</p>
+
+  <div class="tiles">
+    <div class="tile"><div class="big">1 000 + 450 M€</div><div class="lbl">Seuils cumulatifs de la CSRD (salariés et chiffre d'affaires net) depuis l'Omnibus I</div></div>
+    <div class="tile"><div class="big">5 000 + 1,5 Md€</div><div class="lbl">Seuils de la directive européenne sur le devoir de vigilance (CSDDD), application 2029</div></div>
+    <div class="tile"><div class="big">≈ –61 %</div><div class="lbl">Datapoints obligatoires en moins dans les ESRS révisés (« ESRS 2026 »)</div></div>
+    <div class="tile"><div class="big">500</div><div class="lbl">Salariés : le seuil du bilan GES réglementaire (BEGES) reste inchangé en France</div></div>
+  </div>
+
+  <h3>Les 8 faits marquants à connaître</h3>
+  <div class="grid two" id="faits"></div>
+
+  <div class="callout">
+    <strong>Points à surveiller dans les prochains mois</strong>
+    Loi française de transposition de l'Omnibus (date limite : 19 mars 2027) ; choix entre ESRS actuels et ESRS révisés pour l'exercice 2026 ; trilogues sur la révision de SFDR (accord visé fin 2026) ; projet de loi sur la transparence salariale ; appel de TotalEnergies dans l'affaire du devoir de vigilance climatique ; normes européennes d'assurance limitée attendues.
+  </div>
+
+  <h3>Comment utiliser cette application</h3>
+  <div class="grid">
+    <div class="card"><h4>Pour réviser le master</h4><p>L'espace <a href="#cours">Mes cours</a> rassemble chaque matière : fichiers, l'essentiel de chaque cours, notions, chiffres, quiz, exercices corrigés et notes personnelles.</p></div>
+    <div class="card"><h4>Pour apprendre</h4><p>Commencez par les Fondamentaux puis l'Histoire. Chaque texte réglementaire est résumé en fiche : qui est concerné, quand, quoi faire, et ce que vous y apportez en tant que RSE.</p></div>
+    <div class="card"><h4>Pour agir</h4><p>Les onglets Méthodes et Modèles donnent des pas-à-pas et des textes prêts à adapter : politique RSE, note au CODIR, questionnaire fournisseur, fiche indicateur…</p></div>
+    <div class="card"><h4>Pour vérifier</h4><p>L'outil « Suis-je concerné ? » croise effectif, chiffre d'affaires et situation de l'entreprise pour lister ses obligations. Le calculateur taxonomie donne les ratios d'éligibilité et d'alignement.</p></div>
+  </div>
+</section>
+
+<!-- ============ FONDAMENTAUX ============ -->
+<section class="view" id="fondamentaux" data-title="Fondamentaux">
+  <div class="eyebrow">01 · LES BASES</div>
+  <h2>Fondamentaux de la RSE et du développement durable</h2>
+  <p class="lead">Avant les textes et les normes, il faut maîtriser les concepts : c'est ce vocabulaire qui permet de parler juste face à un comité de direction, un auditeur ou un fournisseur.</p>
+  <div class="grid two" id="fondaGrid"></div>
+
+  <h3>Les 7 questions centrales de l'ISO 26000</h3>
+  <p class="prose">La norme ISO 26000 (2010) est la référence internationale qui définit la responsabilité sociétale. Elle n'est pas certifiable, mais elle structure la plupart des démarches et des labels français (Engagé RSE d'AFNOR, label Lucie).</p>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Question centrale</th><th>Ce que cela recouvre concrètement</th></tr></thead>
+    <tbody id="iso26000"></tbody>
+  </table></div>
+
+  <h3>RSE, ESG, développement durable : ne pas confondre</h3>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Terme</th><th>Point de vue</th><th>Usage typique</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Développement durable</strong></td><td>Projet de société (Brundtland, 1987)</td><td>Politiques publiques, ODD, collectivités</td></tr>
+      <tr><td><strong>RSE / RSO</strong></td><td>Contribution volontaire et réglementée de l'entreprise au développement durable</td><td>Stratégie d'entreprise, démarche interne, labels</td></tr>
+      <tr><td><strong>ESG</strong></td><td>Critères Environnement, Social, Gouvernance vus par l'investisseur</td><td>Notation, finance durable, SFDR, agences de notation</td></tr>
+      <tr><td><strong>Durabilité (sustainability)</strong></td><td>Terme réglementaire européen</td><td>CSRD : « informations en matière de durabilité »</td></tr>
+      <tr><td><strong>Impact</strong></td><td>Effets mesurables, positifs ou négatifs, sur les personnes et la planète</td><td>Société à mission, ESS, investissement à impact</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>Les 17 Objectifs de développement durable (ONU, 2015)</h3>
+  <p class="prose">Agenda 2030 adopté par 193 États. Les entreprises s'en servent pour relier leurs actions à un cadre universel. Bonne pratique : ne retenir que 3 à 6 ODD réellement liés à l'activité, et éviter le « ODD-washing » qui consiste à cocher les 17.</p>
+  <div class="filters" id="oddList"></div>
+</section>
+
+<!-- ============ HISTOIRE ============ -->
+<section class="view" id="histoire" data-title="Histoire">
+  <div class="eyebrow">02 · HISTORICITÉ</div>
+  <h2>Cinquante ans de RSE, de Stockholm à l'Omnibus</h2>
+  <p class="lead">Comprendre d'où viennent les textes permet d'anticiper où ils vont. La tendance de fond va de l'engagement volontaire vers l'obligation, avec en 2025-2026 un mouvement de simplification qui réduit le périmètre sans supprimer les principes.</p>
+  <div class="filters" id="tlFilters">
+    <button class="chip on" data-f="all">Tout</button>
+    <button class="chip" data-f="monde">Monde</button>
+    <button class="chip" data-f="ue">Union européenne</button>
+    <button class="chip" data-f="fr">France</button>
+  </div>
+  <div class="timeline" id="timeline"></div>
+</section>
+
+<!-- ============ UE ============ -->
+<section class="view" id="europe" data-title="Réglementation UE">
+  <div class="eyebrow">03 · CADRE EUROPÉEN</div>
+  <h2>Les textes européens qui s'imposent aux entreprises</h2>
+  <p class="lead">Le Pacte vert (2019) a produit un ensemble cohérent : on mesure (CSRD), on classe (taxonomie), on surveille sa chaîne de valeur (CSDDD), on informe les investisseurs (SFDR) et les consommateurs (ECGT). L'Omnibus I, en vigueur depuis le 18 mars 2026, en réduit le périmètre.</p>
+  <div class="grid two" id="euGrid"></div>
+</section>
+
+<!-- ============ FRANCE ============ -->
+<section class="view" id="france" data-title="Réglementation France">
+  <div class="eyebrow">04 · CADRE FRANÇAIS</div>
+  <h2>Les obligations françaises, souvent plus anciennes et plus larges</h2>
+  <p class="lead">La France a souvent devancé l'Europe : reporting extra-financier dès 2001, devoir de vigilance en 2017, bilan carbone obligatoire depuis 2010. Une entreprise sortie de la CSRD reste soumise à beaucoup de ces textes.</p>
+  <div class="grid two" id="frGrid"></div>
+</section>
+
+<!-- ============ CSRD / ESRS ============ -->
+<section class="view" id="csrd" data-title="CSRD et ESRS">
+  <div class="eyebrow">05 · LE CŒUR DU REPORTING</div>
+  <h2>CSRD et ESRS : comprendre et produire le rapport de durabilité</h2>
+  <p class="lead">La CSRD dit qui doit publier et comment le rapport est contrôlé ; les ESRS disent quoi publier. Même pour une entreprise non soumise, cette grille est devenue le langage commun des grands donneurs d'ordre et des banques.</p>
+
+  <h3>Qui, quand ? Le calendrier après l'Omnibus</h3>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Catégorie</th><th>Critères</th><th>Premier exercice</th><th>Publication</th></tr></thead>
+    <tbody>
+      <tr><td>Vague 1 (ex-NFRD)</td><td>Entités d'intérêt public de plus de 500 salariés, déjà soumises à la DPEF</td><td class="num">2024</td><td class="num">2025</td></tr>
+      <tr><td>Vague 1 sous les nouveaux seuils</td><td>Les États membres peuvent les dispenser pour 2025 et 2026 ; en France, cela dépend de la loi de transposition</td><td class="num">—</td><td class="num">à confirmer</td></tr>
+      <tr><td>Vague 2 (grandes entreprises)</td><td>Plus de 1 000 salariés <strong>et</strong> plus de 450 M€ de CA net (critères cumulatifs)</td><td class="num">2027</td><td class="num">2028</td></tr>
+      <tr><td>PME cotées</td><td>Sorties définitivement du périmètre obligatoire</td><td class="num">—</td><td class="num">—</td></tr>
+      <tr><td>Groupes non européens</td><td>Plus de 450 M€ de CA dans l'UE et filiale ou succursale significative</td><td class="num">2028</td><td class="num">2029</td></tr>
+    </tbody>
+  </table></div>
+  <div class="callout b"><strong>En France</strong>La CSRD d'origine a été transposée par l'ordonnance du 6 décembre 2023 (Code de commerce, articles L. 232-6-3 et suivants). La loi DDADUE n° 2025-391 du 30 avril 2025 a reporté les vagues 2 et 3. La transposition de l'Omnibus doit intervenir avant le 19 mars 2027 : tant qu'elle n'est pas votée, vérifiez la rédaction en vigueur du Code de commerce avant toute décision.</div>
+
+  <h3>L'architecture des ESRS</h3>
+  <p class="prose">Douze normes en quatre familles. Les ESRS révisés (règlement délégué (UE) 2026/1563, adopté le 3 juillet 2026 et publié au Journal officiel le 21 septembre 2026) conservent cette architecture, suppriment les datapoints volontaires et réduisent d'environ 61 % les datapoints obligatoires. Ils s'appliquent aux exercices ouverts à compter du 1er janvier 2027, avec une application anticipée possible dès 2026.</p>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Norme</th><th>Thème</th><th>Contenu clé à maîtriser</th></tr></thead>
+    <tbody id="esrsTable"></tbody>
+  </table></div>
+
+  <h3>La double matérialité, pas à pas</h3>
+  <p class="prose">Un sujet est matériel s'il l'est d'un point de vue d'impact (effets de l'entreprise sur les personnes et l'environnement) <strong>ou</strong> d'un point de vue financier (effets des enjeux de durabilité sur la performance de l'entreprise). Seuls les sujets matériels sont publiés.</p>
+  <ol class="steps" id="dmSteps"></ol>
+  <div class="callout g"><strong>Ce qui change avec les ESRS 2026</strong>L'analyse peut être conduite en « top-down », au niveau des grands thèmes, sans descendre systématiquement au sous-sous-thème. Les informations non matérielles ne doivent en principe pas être publiées. Pour l'exercice 2026, trois options : ESRS existants, ESRS révisés par anticipation, ou ESRS existants avec certains allègements des révisés. La version appliquée doit être indiquée dans le rapport.</div>
+
+  <h3>Les autres règles à connaître</h3>
+  <div class="grid" id="csrdRules"></div>
+</section>
+
+<!-- ============ TAXONOMIE ============ -->
+<section class="view" id="taxonomie" data-title="Taxonomie verte">
+  <div class="eyebrow">06 · CLASSER LES ACTIVITÉS</div>
+  <h2>La taxonomie européenne</h2>
+  <p class="lead">Règlement (UE) 2020/852 : un dictionnaire officiel qui dit quelles activités économiques sont « durables sur le plan environnemental ». Il sert à mesurer la part verte du chiffre d'affaires, des investissements (CapEx) et de certaines dépenses (OpEx).</p>
+
+  <h3>Les 6 objectifs environnementaux</h3>
+  <div class="tiles" id="taxoObj"></div>
+
+  <h3>Éligible n'est pas aligné</h3>
+  <div class="grid two">
+    <div class="card"><h4>Activité éligible</h4><p>L'activité figure dans les actes délégués (Climat 2021/2139, Environnement 2023/2486), avec un code et une description. Exemple : « construction de bâtiments neufs », « fabrication d'équipements pour l'hydrogène ».</p></div>
+    <div class="card"><h4>Activité alignée</h4><p>L'activité éligible remplit trois conditions cumulatives : contribution substantielle à au moins un objectif (critères techniques), absence de préjudice important aux cinq autres (DNSH, « Do No Significant Harm »), et respect des garanties minimales (OCDE, ONU, OIT, droits humains, corruption, fiscalité, concurrence).</p></div>
+  </div>
+
+  <h3>Méthode de calcul en 7 étapes</h3>
+  <ol class="steps">
+    <li><strong>Cartographier les activités</strong> de l'entreprise à partir de la comptabilité analytique et des codes NACE.</li>
+    <li><strong>Appliquer le seuil de matérialité de 10 %</strong> : les activités qui, cumulées, pèsent moins de 10 % du CA, des CapEx ou des OpEx peuvent ne pas être analysées (simplification obligatoire à partir de l'exercice 2026, facultative pour 2025).</li>
+    <li><strong>Identifier les activités éligibles</strong> avec la boussole taxonomie de la Commission (EU Taxonomy Navigator).</li>
+    <li><strong>Tester la contribution substantielle</strong> : critères techniques chiffrés (ex. émissions en gCO₂e/kWh, performance énergétique d'un bâtiment).</li>
+    <li><strong>Tester le DNSH</strong> sur les cinq autres objectifs (étude de vulnérabilité climatique, gestion de l'eau, déchets, pollution, biodiversité).</li>
+    <li><strong>Vérifier les garanties minimales</strong> au niveau de l'entreprise (politiques droits humains, anticorruption, conformité fiscale).</li>
+    <li><strong>Calculer et publier les KPI</strong> dans les modèles de tableaux simplifiés, sans double comptage, avec une note méthodologique.</li>
+  </ol>
+
+  <h3>Calculateur de ratios</h3>
+  <div class="card" id="taxoCalcCard">
+    <p>Saisissez vos montants (en k€). Exemple pré-rempli : une entreprise de BTP.</p>
+    <form class="tool" id="taxoForm" onsubmit="return false">
+      <label for="tx_ca">CA total<input type="number" id="tx_ca" value="120000" min="0"></label>
+      <label for="tx_cae">CA éligible<input type="number" id="tx_cae" value="54000" min="0"></label>
+      <label for="tx_caa">CA aligné<input type="number" id="tx_caa" value="21600" min="0"></label>
+      <label for="tx_cx">CapEx total<input type="number" id="tx_cx" value="9000" min="0"></label>
+      <label for="tx_cxe">CapEx éligible<input type="number" id="tx_cxe" value="5200" min="0"></label>
+      <label for="tx_cxa">CapEx aligné<input type="number" id="tx_cxa" value="3100" min="0"></label>
+    </form>
+    <div id="taxoOut"></div>
+  </div>
+
+  <div class="callout"><strong>Statut au 31 octobre 2026</strong>L'acte délégué de simplification (adopté le 4 juillet 2025, publié au Journal officiel de l'UE le 8 janvier 2026) introduit le seuil de 10 %, réduit fortement le nombre de données des tableaux de reporting et simplifie le DNSH « pollution ». Les établissements financiers bénéficient d'un report de certains indicateurs. La taxonomie ne s'impose qu'aux entreprises dans le champ de la CSRD, mais les banques l'utilisent de plus en plus pour leurs financements.</div>
+</section>
+
+<!-- ============ REPORTING & CARBONE ============ -->
+<section class="view" id="reporting" data-title="Reporting et carbone">
+  <div class="eyebrow">07 · MESURER</div>
+  <h2>Reporting, indicateurs et bilan carbone</h2>
+  <p class="lead">Un bon reporting repose sur trois choses : un périmètre clair, des définitions d'indicateurs écrites, et une piste d'audit qui permet de remonter de chaque chiffre publié jusqu'à sa source.</p>
+
+  <h3>Les 3 scopes du GHG Protocol</h3>
+  <div class="grid">
+    <div class="card"><div class="meta"><span class="pill">Scope 1</span></div><h4>Émissions directes</h4><p>Combustion sur site (chaudières, fours), flotte de véhicules détenue, fuites de fluides frigorigènes, procédés industriels.</p></div>
+    <div class="card"><div class="meta"><span class="pill b">Scope 2</span></div><h4>Énergie achetée</h4><p>Électricité, chaleur, vapeur, froid. Deux méthodes à publier : « location-based » (mix moyen du réseau) et « market-based » (contrats et garanties d'origine).</p></div>
+    <div class="card"><div class="meta"><span class="pill o">Scope 3</span></div><h4>Chaîne de valeur</h4><p>15 catégories : 8 en amont (achats, immobilisations, transport amont, déchets, déplacements, trajets domicile-travail…) et 7 en aval (transport aval, utilisation et fin de vie des produits vendus, investissements…). Souvent 70 à 90 % du total.</p></div>
+  </div>
+
+  <h3>Calendrier type d'un cycle de reporting annuel</h3>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Période (exercice civil)</th><th>Étape</th><th>Livrable</th></tr></thead>
+    <tbody>
+      <tr><td class="num">Juin – juillet N</td><td>Mise à jour de la double matérialité, revue des indicateurs, formation des contributeurs</td><td>Protocole de reporting v. N</td></tr>
+      <tr><td class="num">Septembre N</td><td>Pré-clôture : collecte à fin août, tests avec l'auditeur (CAC ou OTI)</td><td>Rapport de pré-audit</td></tr>
+      <tr><td class="num">Octobre – novembre N</td><td>Rédaction des narratifs (politiques, actions, cibles), revue juridique</td><td>Premier jet du rapport</td></tr>
+      <tr><td class="num">Janvier N+1</td><td>Collecte annuelle définitive, contrôles de cohérence, calcul GES</td><td>Base de données consolidée</td></tr>
+      <tr><td class="num">Février N+1</td><td>Audit final, balisage numérique (XBRL), validation par le comité d'audit</td><td>Rapport certifié</td></tr>
+      <tr><td class="num">Mars – avril N+1</td><td>Arrêté par le conseil, publication avec le rapport de gestion, assemblée générale</td><td>Rapport de durabilité publié</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>Indicateurs incontournables par pilier</h3>
+  <div class="grid" id="kpiGrid"></div>
+
+  <h3>Fiabiliser la donnée</h3>
+  <div class="grid two">
+    <div class="card"><h4>Le protocole de reporting</h4><p>Document de référence qui fixe, pour chaque indicateur : définition, unité, périmètre, fréquence, source, responsable de la donnée, méthode de calcul, contrôles. C'est le premier document que demande l'auditeur.</p></div>
+    <div class="card"><h4>Les contrôles</h4><p>Contrôle de cohérence d'une année sur l'autre (écart supérieur à 10 % à justifier), rapprochement avec la comptabilité et la paie, double validation (contributeur puis valideur), conservation des pièces justificatives.</p></div>
+  </div>
+</section>
+
+<!-- ============ NORMES & LABELS ============ -->
+<section class="view" id="normes" data-title="Normes et labels">
+  <div class="eyebrow">08 · RÉFÉRENTIELS</div>
+  <h2>Normes, standards, labels et notations</h2>
+  <p class="lead">Les clients et investisseurs demandent des preuves. Savoir quel référentiel répond à quelle demande évite de disperser les efforts.</p>
+  <div class="filters" id="normFilters"></div>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Référentiel</th><th>Type</th><th>À quoi il sert</th><th>Pour qui</th></tr></thead>
+    <tbody id="normTable"></tbody>
+  </table></div>
+</section>
+
+<!-- ============ SECTEURS ============ -->
+<section class="view" id="secteurs" data-title="Secteur par secteur">
+  <div class="eyebrow">09 · SECTEUR PAR SECTEUR</div>
+  <h2>Enjeux, textes et indicateurs par secteur</h2>
+  <p class="lead">Les ESRS sectoriels ont été abandonnés par l'Omnibus, mais les enjeux restent très différents d'un secteur à l'autre. Voici, pour chaque grand secteur, ce qui est réellement matériel, les textes spécifiques et les indicateurs attendus.</p>
+  <div id="sectorList"></div>
+</section>
+
+<!-- ============ MÉTIER ============ -->
+<section class="view" id="metier" data-title="Le métier">
+  <div class="eyebrow">10 · LE MÉTIER</div>
+  <h2>Chargé de mission, chef de projet, responsable RSE</h2>
+  <p class="lead">Le poste est transversal : il n'a souvent aucune autorité hiérarchique sur ceux qui détiennent les données et les leviers d'action (achats, RH, production, finance). Sa réussite repose sur la crédibilité technique et sur la capacité à embarquer.</p>
+
+  <h3>Les postes et leurs différences</h3>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Poste</th><th>Rôle</th><th>Expérience</th><th>Rattachement fréquent</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Alternant / assistant RSE</strong></td><td>Collecte de données, veille, supports de sensibilisation, appui au reporting</td><td>En formation</td><td>Responsable RSE</td></tr>
+      <tr><td><strong>Chargé de mission RSE</strong></td><td>Déploie le plan d'action, anime les correspondants, prépare le reporting et les questionnaires clients (EcoVadis, CDP)</td><td>0 – 4 ans</td><td>Responsable RSE ou direction générale (PME)</td></tr>
+      <tr><td><strong>Chargé / chef de projet RSE</strong></td><td>Pilote un chantier précis : bilan carbone, analyse de double matérialité, achats responsables, label</td><td>2 – 6 ans</td><td>Direction RSE, finance ou opérations</td></tr>
+      <tr><td><strong>Responsable RSE</strong></td><td>Construit la stratégie et la feuille de route, arbitre, porte le sujet au CODIR</td><td>5 – 10 ans</td><td>Direction générale</td></tr>
+      <tr><td><strong>Directeur RSE / CSO</strong></td><td>Membre ou proche du comité exécutif, intègre la durabilité au modèle d'affaires et à la gouvernance</td><td>10 ans et plus</td><td>Président ou directeur général</td></tr>
+      <tr><td><strong>Analyste ESG / reporting</strong></td><td>Données, indicateurs, taxonomie, relation avec les auditeurs et les agences de notation</td><td>0 – 6 ans</td><td>Direction financière</td></tr>
+    </tbody>
+  </table></div>
+  <p class="prose">Rémunération indicative en France : de l'ordre de 35 à 43 k€ bruts annuels pour un cadre débutant selon les fiches métiers spécialisées, avec une forte variation selon la taille de l'entreprise, le secteur et la région.</p>
+
+  <h3>Ce que les entreprises attendent concrètement</h3>
+  <div class="grid two" id="attentes"></div>
+
+  <h3>Compétences : la grille complète</h3>
+  <div class="grid" id="skills"></div>
+
+  <h3>Les 90 premiers jours dans un poste RSE</h3>
+  <div class="grid">
+    <div class="card"><div class="meta"><span class="pill">Jours 1 – 30</span></div><h4>Comprendre</h4><p>Rencontrer chaque direction (achats, RH, finance, production, commercial, juridique). Lister les obligations applicables. Récupérer l'existant : bilans GES, rapports, questionnaires clients, certifications. Repérer les données déjà disponibles.</p></div>
+    <div class="card"><div class="meta"><span class="pill b">Jours 31 – 60</span></div><h4>Diagnostiquer</h4><p>Produire un diagnostic de maturité (forces, écarts, risques). Lancer ou mettre à jour la cartographie des parties prenantes et l'analyse de matérialité. Identifier trois victoires rapides visibles.</p></div>
+    <div class="card"><div class="meta"><span class="pill o">Jours 61 – 90</span></div><h4>Proposer</h4><p>Présenter au CODIR une feuille de route à 3 ans avec 5 à 8 objectifs chiffrés, un budget, des responsables, et un comité de pilotage. Constituer le réseau de correspondants RSE.</p></div>
+  </div>
+
+  <h3>Préparer un entretien</h3>
+  <div id="interview"></div>
+
+  <h3>Ma montée en compétences</h3>
+  <div class="card">
+    <p>Cochez au fur et à mesure. La progression reste enregistrée dans ce navigateur.</p>
+    <div class="progress" id="ckProgress"></div>
+    <div class="bar"><span id="ckBar" style="width:0%"></span></div>
+    <div class="checklist" id="checklist"></div>
+  </div>
+</section>
+
+<!-- ============ MÉTHODES ============ -->
+<section class="view" id="methodes" data-title="Méthodes">
+  <div class="eyebrow">11 · COMMENT FAIRE</div>
+  <h2>Les méthodes, étape par étape</h2>
+  <p class="lead">Chaque fiche donne la séquence de travail, les livrables attendus et les pièges les plus fréquents sur le terrain.</p>
+  <div id="methodList"></div>
+</section>
+
+<!-- ============ MODÈLES ============ -->
+<section class="view" id="modeles" data-title="Modèles de rédaction">
+  <div class="eyebrow">12 · RÉDIGER</div>
+  <h2>Modèles prêts à adapter</h2>
+  <p class="lead">Remplacez les éléments entre crochets. Bouton « Copier » pour coller directement dans votre traitement de texte.</p>
+  <div class="callout g"><strong>Règles d'écriture RSE</strong>Un fait, un chiffre, une source. Pas d'adjectif sans preuve (« engagé », « vert », « responsable »). Toujours l'année de référence, le périmètre et l'unité. Dire aussi ce qui ne va pas : un rapport crédible montre les écarts et les plans d'action.</div>
+  <div id="tplList"></div>
+</section>
+
+<!-- ============ OUTILS ============ -->
+<section class="view" id="outils" data-title="Suis-je concerné ?">
+  <div class="eyebrow">13 · OUTIL</div>
+  <h2>Suis-je concerné ? Le vérificateur d'obligations</h2>
+  <p class="lead">Renseignez la situation d'une entreprise (ou d'une entreprise cible pour un entretien). L'outil liste les principales obligations RSE en France. Il donne une première orientation : il ne remplace pas une analyse juridique.</p>
+  <div class="card">
+    <form class="tool" id="chkForm" onsubmit="return false">
+      <label for="c_eff">Effectif moyen du groupe (monde)<input type="number" id="c_eff" value="1400" min="0"></label>
+      <label for="c_effFr">Effectif en France<input type="number" id="c_effFr" value="900" min="0"></label>
+      <label for="c_ca">Chiffre d'affaires net (M€)<input type="number" id="c_ca" value="520" min="0"></label>
+      <label class="chk"><input type="checkbox" id="c_siege" checked> Siège social en France</label>
+      <label class="chk"><input type="checkbox" id="c_cote"> Société cotée</label>
+      <label class="chk"><input type="checkbox" id="c_fin"> Banque, assurance ou gestion d'actifs</label>
+      <label class="chk"><input type="checkbox" id="c_tert" checked> Bâtiments tertiaires d'au moins 1 000 m²</label>
+      <label class="chk"><input type="checkbox" id="c_ao" checked> Répond à des marchés publics</label>
+      <label class="chk"><input type="checkbox" id="c_site"> Un site d'au moins 50 salariés</label>
+    </form>
+    <div class="verdicts" id="verdicts"></div>
+  </div>
+</section>
+
+<!-- ============ MES COURS ============ -->
+<section class="view" id="cours" data-title="Mon espace cours">
+  <div id="coursStatus"></div>
+  <div id="coursRoot"></div>
+</section>
+
+<!-- ============ PARCOURS ============ -->
+<section class="view" id="profil" data-title="Profil et compétences"><div id="profilRoot"></div></section>
+<section class="view" id="labo" data-title="Laboratoire de cas"><div id="laboRoot"></div></section>
+<section class="view" id="metiers" data-title="Fiches métiers"><div id="metiersRoot"></div></section>
+<section class="view" id="terrain" data-title="Sur le terrain"><div id="terrainRoot"></div></section>
+<section class="view" id="examen" data-title="Examen blanc"><div id="examRoot"></div></section>
+<section class="view" id="candidatures" data-title="Mes candidatures"><div id="candRoot"></div></section>
+<section class="view" id="cv" data-title="Mon CV et score ATS"><div id="cvRoot"></div></section>
+<section class="view" id="offre" data-title="Analyser une offre"><div id="offreRoot"></div></section>
+<section class="view" id="simulateur" data-title="Simulateur d'entretien"><div id="simRoot"></div></section>
+<section class="view" id="apprendre" data-title="Apprendre"><div id="apprendreRoot"></div></section>
+<section class="view" id="pratiquer" data-title="Agir"><div id="pratiquerRoot"></div></section>
+<section class="view" id="actualites" data-title="Actualités et agenda"><div id="actuRoot"></div></section>
+<section class="view" id="offres" data-title="Offres et alertes"><div id="offRoot"></div></section>
+<section class="view" id="entreprises" data-title="Annuaire des entreprises"><div id="entRoot"></div></section>
+<section class="view" id="infos" data-title="À propos et mentions légales">
+  <div class="eyebrow">À PROPOS</div>
+  <h2>À propos, mentions légales et confidentialité</h2>
+  <p class="lead">SERIKI BIBLE RSE est une application de référence sur la RSE et le développement durable : apprendre, agir, trouver sa place dans le métier et suivre l'actualité, au même endroit.</p>
+  <div class="filters"><a class="chip" href="#infos" data-jump="ml">Mentions légales</a><a class="chip" href="#infos" data-jump="conf">Confidentialité</a><a class="chip" href="#infos" data-jump="cgu">Conditions d'utilisation</a></div>
+  <h3 id="ml">Mentions légales</h3>
+  <div class="card prose">
+    <p><strong>Éditeur :</strong> Constantin SERIKI, [adresse postale ou ville], contact : [adresse électronique de contact].</p>
+    <p><strong>Directeur de la publication :</strong> Constantin SERIKI.</p>
+    <p><strong>Hébergeur :</strong> [nom, adresse et téléphone de l'hébergeur ; par exemple, pour une publication sur GitHub Pages : GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis].</p>
+    <p><strong>Propriété intellectuelle :</strong> les textes, guides, cas pratiques et la conception de l'application sont la propriété de leur auteur. Toute reproduction substantielle sans autorisation est interdite. Les noms d'entreprises, de normes, de labels et de plateformes cités appartiennent à leurs titulaires respectifs et ne sont mentionnés qu'à titre d'information.</p>
+  </div>
+  <h3 id="conf">Confidentialité et données personnelles</h3>
+  <div class="card prose">
+    <p><strong>Aucun compte, aucune collecte.</strong> L'application ne demande pas de créer de compte. Votre profil, vos cours, vos fichiers, vos notes, vos candidatures, votre CV, vos entreprises cibles et votre agenda sont enregistrés uniquement dans le navigateur de votre appareil. Ils ne sont envoyés à aucun serveur et l'éditeur n'y a pas accès.</p>
+    <p><strong>Pas de cookies de suivi ni de mesure d'audience.</strong> L'application n'utilise que le stockage local du navigateur, nécessaire à son fonctionnement.</p>
+    <p><strong>Services extérieurs appelés :</strong> les polices de caractères sont chargées depuis Google Fonts (votre adresse IP est alors transmise à Google) ; la recherche d'entreprises interroge l'API publique Recherche d'entreprises de l'État (seuls les termes recherchés sont transmis) ; les liens vers des plateformes d'emploi, des sources officielles ou des médias ouvrent des sites tiers soumis à leurs propres règles.</p>
+    <p><strong>Notifications :</strong> elles sont générées par l'application sur votre appareil, uniquement si vous les activez, et peuvent être coupées à tout moment dans les réglages du navigateur.</p>
+    <p><strong>Vos droits :</strong> vous pouvez exporter vos données (bouton « Sauvegarder mon espace ») ou les supprimer à tout moment en effaçant les données du site dans votre navigateur ou en désinstallant l'application. Pour toute question : [adresse électronique de contact].</p>
+  </div>
+  <h3 id="cgu">Conditions d'utilisation</h3>
+  <div class="card prose">
+    <p><strong>Objet.</strong> L'application fournit des informations, des méthodes et des outils sur la RSE et le développement durable. Son utilisation est gratuite et ouverte à tous.</p>
+    <p><strong>Information, pas conseil.</strong> Les contenus sont rédigés avec soin à partir de sources officielles et datés. Ils ne constituent ni un conseil juridique, ni un conseil financier, ni une certification de compétences. Les règles évoluent vite : vérifiez toujours la version en vigueur des textes (Légifrance, EUR-Lex) avant une décision engageante.</p>
+    <p><strong>Analyses automatiques.</strong> Les analyses de l'annuaire des entreprises, le score ATS, l'analyse d'offre et l'autodiagnostic sont des estimations calculées par l'application. Les actualités et offres signalées « veille automatique » proviennent de sources tierces et doivent être vérifiées à la source.</p>
+    <p><strong>Vos données.</strong> Vous êtes responsable des contenus que vous importez et de leur sauvegarde. Effacer les données du navigateur supprime votre espace s'il n'a pas été sauvegardé.</p>
+    <p><strong>Évolution.</strong> L'application et ces conditions peuvent évoluer. Elles sont soumises au droit français.</p>
+  </div>
+  <p class="foot">Dernière mise à jour de cette page : 1er novembre 2026.</p>
+</section>
+<section class="view" id="agenda" data-title="Mon agenda"><div id="agendaRoot"></div></section>
+<section class="view" id="comprendre" data-title="Comprendre en profondeur"><div id="compRoot"></div></section>
+<section class="view" id="domaines" data-title="Les 12 domaines de la RSE"><div id="domRoot"></div></section>
+<section class="view" id="quiz" data-title="Quiz et révisions"><div id="qzRoot"></div></section>
+<section class="view" id="pcours" data-title="Parcours métiers"><div id="pcRoot"></div></section>
+<section class="view" id="ateliers" data-title="Ateliers climat et ressources"><div id="awRoot"></div></section>
+<section class="view" id="outilsm" data-title="Outils métiers"><div id="omRoot"></div></section>
+<section class="view" id="donnees" data-title="Mes données et sauvegarde"><div id="donRoot"></div></section>
+<section class="view" id="pilotage" data-title="Espace entreprise"><div id="pilotRoot"></div></section>
+<section class="view" id="boite" data-title="Boîte à outils projet"><div id="tbRoot"></div></section>
+<section class="view" id="diagnostic" data-title="Autodiagnostic RSE"><div id="diagRoot"></div></section>
+<section class="view" id="atelier" data-title="Atelier CSRD et vigilance"><div id="atRoot"></div></section>
+<section class="view" id="public" data-title="Espace public et associatif"><div id="puRoot"></div></section>
+<section class="view" id="audit" data-title="Audit et vérification"><div id="auRoot"></div></section>
+<section class="view" id="prestataires" data-title="Cabinets et prestataires RSE"><div id="prRoot"></div></section>
+<section class="view" id="demarrer" data-title="Démarrer la RSE de zéro"><div id="dzRoot"></div></section>
+<section class="view" id="engager" data-title="S'engager : associations et bénévolat"><div id="engRoot"></div></section>
+<section class="view" id="veille" data-title="Veille"><div id="veilleRoot"></div></section>
+<section class="view" id="carriere" data-title="Carrière"><div id="carriereRoot"></div></section>
+
+<!-- ============ GLOSSAIRE ============ -->
+<section class="view" id="glossaire" data-title="Glossaire">
+  <div class="eyebrow">14 · VOCABULAIRE</div>
+  <h2>Glossaire de A à Z</h2>
+  <p class="lead">Les sigles et termes que vous croiserez dans les offres d'emploi, les rapports et les réunions.</p>
+  <div class="search" style="max-width:420px;margin:10px 0 6px"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="gq" type="search" placeholder="Filtrer le glossaire" aria-label="Filtrer le glossaire"></div>
+  <dl id="glossary"></dl>
+</section>
+
+<!-- ============ SOURCES ============ -->
+<section class="view" id="sources" data-title="Sources officielles">
+  <div class="eyebrow">15 · ACCÉDER AUX TEXTES</div>
+  <h2>Où trouver les textes et les normes</h2>
+  <p class="lead">Faites toujours remonter une affirmation à sa source primaire. Voici les portails officiels à mettre dans vos favoris, ainsi qu'une méthode de veille.</p>
+  <div class="grid" id="srcGrid"></div>
+  <h3>Organiser sa veille en 30 minutes par semaine</h3>
+  <ol class="steps">
+    <li><strong>Lundi, 10 minutes :</strong> lettres d'information officielles (Portail RSE, EFRAG, Commission européenne, AMF) et une revue spécialisée.</li>
+    <li><strong>Mercredi, 10 minutes :</strong> actualité sectorielle de l'entreprise (fédération professionnelle, clients principaux, concurrents).</li>
+    <li><strong>Vendredi, 10 minutes :</strong> mise à jour d'un tableau de veille (texte, date, impact, action, responsable) et envoi d'une synthèse de 5 lignes aux personnes concernées.</li>
+  </ol>
+  <p class="foot">Contenu rédigé à partir des textes officiels et de sources spécialisées consultées le 31 octobre 2026. Les règles évoluent vite : vérifiez toujours la version en vigueur sur Légifrance ou EUR-Lex avant une décision engageante.</p>
+</section>
+
+  </div>
+</main>
+</div>
+<nav id="bottomnav" aria-label="Navigation principale"><a href="#accueil" data-g="accueil"><span class="bni"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/></svg></span><span>Accueil</span></a><a href="#apprendre" data-g="apprendre"><span class="bni"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5"/></svg></span><span>Apprendre</span></a><a href="#pratiquer" data-g="pratiquer"><span class="bni"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4l6 6-9 9H5v-6z"/><path d="M12 6l6 6"/></svg></span><span>Agir</span></a><a href="#carriere" data-g="carriere"><span class="bni"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"/></svg></span><span>Carrière</span></a><a href="#veille" data-g="veille"><span class="bni"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 12l5-3"/><circle cx="12" cy="12" r="1.5"/></svg></span><span>Veille</span></a></nav>
+<div class="toast" id="toast" role="status"></div>
+<div class="modal" id="modal" hidden><div class="box" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><h3 id="modalTitle"></h3><div id="modalBody"></div><div class="btns"><button class="btn ghost" id="modalCancel">Annuler</button><button class="btn" id="modalOk">Valider</button></div></div></div>
+
+
+<script src="js/app.js"></script>
+<script>if ("serviceWorker" in navigator) { window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {})); }</script>
+</body>
+</html>
