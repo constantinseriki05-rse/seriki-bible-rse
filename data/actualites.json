@@ -1,0 +1,281 @@
+{
+ "maj": "2026-11-01",
+ "note": "Les articles « curated: true » sont rédigés et vérifiés à la main. Les articles automatiques sont ajoutés chaque jour par le robot (tools/maj-actualites.mjs) à partir des flux de data/sources-actualites.json.",
+ "articles": [
+  {
+   "id": "pnue-ecart-emissions-2026",
+   "date": "2026-10-21",
+   "titre": "ONU : le monde sur une trajectoire de +2,6 °C même si les États tiennent leurs promesses",
+   "resume": "Le rapport annuel du PNUE sur l'écart entre les émissions et les objectifs climatiques estime le réchauffement à 2,6 °C d'ici 2100 si tous les engagements sont respectés. Il constate que le dépassement de 1,5 °C ne peut plus être évité et que les émissions liées au charbon, au pétrole et au gaz sont restées à des niveaux records en 2025. Pour revenir vers 1,5 °C, il faudrait baisser les émissions mondiales de 18 % d'ici 2030 et de 45 % d'ici 2035 par rapport à 2025.",
+   "zone": "Monde",
+   "theme": "Climat",
+   "importance": "haute",
+   "source": "PNUE, relayé par l'AFP",
+   "url": "https://www.connaissancedesenergies.org/afp/climat-le-monde-vers-un-rechauffement-de-26c-mais-il-est-encore-temps-dagir-selon-lonu-261021",
+   "impact": "Ce sont les chiffres que vos dirigeants entendront pendant la COP31. Utilisez-les pour justifier une trajectoire de réduction (SBTi, plan de transition) : l'effort demandé d'ici 2030 n'est plus de quelques pour cent par an mais d'environ 18 % en cinq ans.",
+   "curated": true
+  },
+  {
+   "id": "iea-electrification-cop31",
+   "date": "2026-10-15",
+   "titre": "AIE : un objectif « 35/35 » pour l'électrification, à la demande de la présidence de la COP31",
+   "resume": "À la demande de la présidence turque de la COP31, l'Agence internationale de l'énergie a publié mi-octobre un rapport sur l'électrification qui documente un objectif dit « 35/35 » : porter à 35 % la part de l'électricité dans la consommation finale d'énergie en 2035.",
+   "zone": "Monde",
+   "theme": "Énergie",
+   "importance": "normale",
+   "source": "Connaissance des Énergies (tribune de Christian de Perthuis)",
+   "url": "https://www.connaissancedesenergies.org/tribune/christian-de-perthuis/le-point-sur-les-emissions-a-la-veille-de-la-cop31",
+   "impact": "Dans un plan de transition, l'électrification des usages (chaleur, flotte, procédés) devient le levier attendu. Vérifiez la part d'électricité dans le mix énergétique de votre site : c'est un indicateur simple à suivre dans ESRS E1.",
+   "curated": true
+  },
+  {
+   "id": "sfdr-trilogues",
+   "date": "2026-10-08",
+   "titre": "SFDR 2.0 : le Parlement européen adopte sa position, les trilogues commencent",
+   "resume": "Le Parlement européen a adopté le 8 octobre sa position de négociation sur la révision du règlement SFDR, après le Conseil (mandat de juin 2026). Les trilogues entre Parlement, Conseil et Commission se sont ouverts en octobre. Les colégislateurs visent un accord politique d'ici fin 2026, mais plusieurs analystes jugent plus réaliste un accord en 2027. La révision crée des catégories de produits financiers (durable, transition, ESG).",
+   "zone": "UE",
+   "theme": "Finance durable",
+   "importance": "haute",
+   "source": "Economie Matin ; Clarity AI ; Linklaters",
+   "url": "https://www.economiematin.fr/?p=235021",
+   "impact": "Les banques et gestionnaires d'actifs vont redemander des données à leurs entreprises clientes pour classer leurs fonds. Si vous travaillez en entreprise, attendez-vous à des questionnaires investisseurs plus précis ; si vous visez la finance durable, c'est le dossier à suivre.",
+   "curated": true
+  },
+  {
+   "id": "amf-sfdr-2026",
+   "date": "2026-10-01",
+   "titre": "L'AMF publie ses conclusions sur la révision de SFDR",
+   "resume": "L'Autorité des marchés financiers a publié un rapport sur deux enjeux opérationnels de la révision de SFDR : la crédibilité des plans de transition et la prise en compte des principales incidences négatives (PAI).",
+   "zone": "France",
+   "theme": "Finance durable",
+   "importance": "normale",
+   "source": "AMF",
+   "url": "https://www.amf-france.org/fr/actualites-publications/publications/rapports-etudes-et-analyses/rapport-et-conclusions-sur-des-enjeux-operationnels-relatifs-la-revision-du-reglement-sfdr",
+   "impact": "Le régulateur français dit ce qu'il attend d'un plan de transition « crédible ». C'est une bonne grille de relecture pour le plan de transition de votre entreprise.",
+   "curated": true
+  },
+  {
+   "id": "ecgt-27-septembre",
+   "date": "2026-09-27",
+   "titre": "Allégations environnementales : la directive ECGT s'applique",
+   "resume": "Depuis le 27 septembre 2026, les règles issues de la directive européenne « Responsabiliser les consommateurs pour la transition verte » (ECGT) s'appliquent : interdiction des allégations environnementales génériques non démontrées (« respectueux de l'environnement », « vert »…) et des allégations de neutralité fondées uniquement sur la compensation carbone.",
+   "zone": "UE",
+   "theme": "Greenwashing",
+   "importance": "haute",
+   "source": "Directive (UE) 2024/825",
+   "url": "https://eur-lex.europa.eu/eli/dir/2024/825/oj",
+   "impact": "Relisez avec le marketing toutes les allégations « vert », « neutre en carbone » ou « éco » sur les emballages, le site et les publicités. Toute allégation doit être précise et prouvée ; sinon, retirez-la.",
+   "curated": true
+  },
+  {
+   "id": "esrs-revises-jo",
+   "date": "2026-09-21",
+   "titre": "Les ESRS révisés et la norme volontaire sont publiés au Journal officiel de l'UE",
+   "resume": "Les ESRS révisés (règlement délégué (UE) 2026/1563) et la norme volontaire de reporting de durabilité (règlement délégué (UE) 2026/1560, en vigueur depuis le 24 septembre) ont été publiés le 21 septembre 2026. Les ESRS révisés sont obligatoires pour les exercices ouverts à partir du 1er janvier 2027. Pour l'exercice 2026, les entreprises de la première vague choisissent entre les ESRS de 2023, les ESRS de 2023 avec allègements, ou l'application anticipée des ESRS révisés. Le plafond de la chaîne de valeur ne s'applique qu'à partir des exercices 2027.",
+   "zone": "UE",
+   "theme": "Reporting",
+   "importance": "haute",
+   "source": "IBR-IRE ; EUR-Lex",
+   "url": "https://www.ibr-ire.be/fr/actualites/news-detail/actualit-s-esg-16-30-septembre-2026",
+   "impact": "Décision à faire valider rapidement par la direction financière : quel référentiel pour le rapport 2026 ? Pour une PME hors CSRD, la norme volontaire devient la référence pour répondre aux questionnaires des banques et des grands clients.",
+   "curated": true
+  },
+  {
+   "id": "transparence-salariale-pjl",
+   "date": "2026-09-10",
+   "titre": "Transparence salariale : le projet de loi présenté en Conseil des ministres",
+   "resume": "Le gouvernement a présenté le 10 septembre 2026 le projet de loi transposant la directive (UE) 2023/970 sur la transparence des rémunérations, déposé le même jour à l'Assemblée nationale. La France a manqué la date limite de transposition du 7 juin 2026. Le texte réforme l'index de l'égalité professionnelle ; son adoption avant la suspension des travaux parlementaires fin février 2027 n'est pas garantie.",
+   "zone": "France",
+   "theme": "Social",
+   "importance": "haute",
+   "source": "Info.gouv ; L'Étudiant ; LCP",
+   "url": "https://www.letudiant.fr/jobsstages/on-vous-explique-a-quoi-servira-reellement-la-loi-sur-la-transparence-salariale.html",
+   "impact": "Préparez avec les RH un diagnostic des écarts de rémunération par catégorie d'emplois : c'est ce que la future loi exigera. En attendant, l'index actuel reste à publier.",
+   "curated": true
+  },
+  {
+   "id": "notation-esg-applicable",
+   "date": "2026-07-02",
+   "titre": "Le règlement européen sur les notations ESG devient applicable",
+   "resume": "Le règlement européen sur la transparence et l'intégrité des activités de notation ESG s'applique depuis le 2 juillet 2026. Les agences de notation ESG doivent être enregistrées auprès de l'ESMA, qui a lancé le processus d'enregistrement.",
+   "zone": "UE",
+   "theme": "Finance durable",
+   "importance": "normale",
+   "source": "IBR-IRE",
+   "url": "https://www.ibr-ire.be/fr/actualites/news-detail/actualit-s-esg-1-15-juillet-2026",
+   "impact": "Les notes ESG que reçoit votre entreprise (MSCI, Sustainalytics, etc.) deviennent plus transparentes : vous pouvez demander la méthode et contester une donnée erronée.",
+   "curated": true
+  },
+  {
+   "id": "totalenergies-vigilance",
+   "date": "2026-06-25",
+   "titre": "Devoir de vigilance : TotalEnergies condamné, l'entreprise fait appel",
+   "resume": "Le tribunal judiciaire de Paris a jugé le plan de vigilance de TotalEnergies incomplet faute d'intégrer les émissions liées à l'usage de ses produits (scope 3) et lui a laissé six mois pour le compléter. L'entreprise a fait appel le 27 juillet 2026.",
+   "zone": "France",
+   "theme": "Vigilance",
+   "importance": "haute",
+   "source": "Tribunal judiciaire de Paris",
+   "url": "",
+   "impact": "Le climat entre dans le plan de vigilance. Si votre entreprise y est soumise, vérifiez que la cartographie des risques couvre bien les impacts climatiques de la chaîne de valeur.",
+   "curated": true
+  },
+  {
+   "id": "iso14001-2026",
+   "date": "2026-04-15",
+   "titre": "La nouvelle version ISO 14001:2026 est publiée",
+   "resume": "L'ISO a publié le 15 avril 2026 la nouvelle version de la norme de système de management environnemental. Les entreprises certifiées disposent d'une période de transition pour migrer.",
+   "zone": "Monde",
+   "theme": "Normes",
+   "importance": "normale",
+   "source": "ISO",
+   "url": "https://www.iso.org/fr/standard/14001",
+   "impact": "Si votre site est certifié, planifiez la migration avec l'organisme certificateur et mettez à jour l'analyse du contexte, des risques et des opportunités.",
+   "curated": true
+  },
+  {
+   "id": "omnibus-vigueur",
+   "date": "2026-03-18",
+   "titre": "Omnibus I en vigueur : la CSRD recentrée sur les très grandes entreprises",
+   "resume": "La directive (UE) 2026/470, publiée le 26 février 2026, est en vigueur depuis le 18 mars 2026. Le reporting de durabilité obligatoire ne vise plus que les entreprises de plus de 1 000 salariés et 450 M€ de chiffre d'affaires ; environ 80 % des entreprises initialement visées sortent du champ. La France doit transposer avant le 19 mars 2027.",
+   "zone": "UE",
+   "theme": "Reporting",
+   "importance": "normale",
+   "source": "Journal officiel de l'UE",
+   "url": "https://eur-lex.europa.eu/",
+   "impact": "Moins d'obligations, mais pas moins de demandes : clients, banques et appels d'offres continuent d'exiger des données. Pour une PME, la norme volontaire est le bon cadre.",
+   "curated": true
+  }
+ ],
+ "agenda": [
+  {
+   "debut": "2026-11-01",
+   "fin": "2026-11-30",
+   "titre": "Mois de l'économie sociale et solidaire",
+   "lieu": "Partout en France",
+   "zone": "France",
+   "type": "Événement national",
+   "url": "https://www.lemois-ess.org/",
+   "resume": "Chaque novembre, des centaines d'événements pour découvrir l'ESS : portes ouvertes, forums, conférences."
+  },
+  {
+   "debut": "2026-11-09",
+   "fin": "2026-11-20",
+   "titre": "COP31 Climat",
+   "lieu": "Antalya, Turquie",
+   "zone": "Monde",
+   "type": "COP",
+   "url": "https://unfccc.int/fr/cop31",
+   "resume": "Présidée par la Turquie (Murat Kurum), avec l'Australie (Chris Bowen) à la présidence des négociations. Sommet des dirigeants les 11 et 12 novembre."
+  },
+  {
+   "debut": "2026-11-17",
+   "fin": "2026-11-20",
+   "titre": "BePOSITIVE",
+   "lieu": "Eurexpo, Lyon",
+   "zone": "France",
+   "type": "Salon",
+   "url": "https://www.bepositive-events.com/",
+   "resume": "Salon de la transition énergétique et environnementale des territoires et du bâtiment."
+  },
+  {
+   "debut": "2026-12-01",
+   "fin": "2026-12-02",
+   "titre": "Step by Pollutec",
+   "lieu": "Paris",
+   "zone": "France",
+   "type": "Salon",
+   "url": "https://www.pollutec.com/",
+   "resume": "Rendez-vous parisien des solutions environnementales pour l'industrie, les villes et les territoires."
+  },
+  {
+   "debut": "2027-01-11",
+   "fin": "2027-01-22",
+   "titre": "COP1 du traité sur la haute mer (BBNJ)",
+   "lieu": "New York, États-Unis",
+   "zone": "Monde",
+   "type": "COP",
+   "url": "https://unric.org/fr/",
+   "resume": "Première conférence des Parties de l'accord sur la biodiversité marine en haute mer."
+  },
+  {
+   "debut": "2027-02-02",
+   "fin": "2027-02-03",
+   "titre": "Top RSE",
+   "lieu": "Chantilly",
+   "zone": "France",
+   "type": "Rencontres",
+   "url": "https://www.top-rse.fr/",
+   "resume": "Rencontres des directeurs RSE et développement durable."
+  },
+  {
+   "debut": "2027-04-26",
+   "fin": "2027-04-28",
+   "titre": "ChangeNOW",
+   "lieu": "Grand Palais, Paris",
+   "zone": "France",
+   "type": "Sommet",
+   "url": "https://www.changenow.world/",
+   "resume": "Sommet international des solutions pour la planète : conférences, exposants, recrutement."
+  },
+  {
+   "debut": "2027-10-12",
+   "fin": "2027-10-15",
+   "titre": "Pollutec",
+   "lieu": "Eurexpo, Lyon",
+   "zone": "France",
+   "type": "Salon",
+   "url": "https://www.pollutec.com/",
+   "resume": "Le grand salon des solutions environnementales, à Lyon les années impaires."
+  },
+  {
+   "debut": "2027-11-08",
+   "fin": "2027-11-19",
+   "titre": "COP32 Climat",
+   "lieu": "Addis-Abeba, Éthiopie",
+   "zone": "Monde",
+   "type": "COP",
+   "url": "https://unfccc.int/",
+   "resume": "La COP climat suivante, accueillie par l'Éthiopie."
+  },
+  {
+   "debut": "2026-10-19",
+   "fin": "2026-10-30",
+   "titre": "COP17 Biodiversité (CDB)",
+   "lieu": "Erevan, Arménie",
+   "zone": "Monde",
+   "type": "COP",
+   "url": "https://www.cbd.int/",
+   "resume": "Bilan à mi-parcours du cadre mondial de Kunming-Montréal pour la biodiversité."
+  },
+  {
+   "debut": "2026-10-05",
+   "fin": "2026-10-08",
+   "titre": "Pré-COP31",
+   "lieu": "Fidji et Tuvalu",
+   "zone": "Monde",
+   "type": "COP",
+   "url": "https://unfccc.int/fr/cop31",
+   "resume": "Réunion ministérielle préparatoire de la COP31, organisée dans le Pacifique."
+  },
+  {
+   "debut": "2026-09-30",
+   "fin": "2026-10-01",
+   "titre": "Produrable",
+   "lieu": "Palais des Congrès, Paris",
+   "zone": "France",
+   "type": "Salon",
+   "url": "https://www.produrable.com/",
+   "resume": "19e édition du salon des acteurs de la RSE, centrée cette année sur les achats responsables."
+  },
+  {
+   "debut": "2026-09-18",
+   "fin": "2026-10-08",
+   "titre": "Semaine européenne du développement durable",
+   "lieu": "France et Europe",
+   "zone": "France",
+   "type": "Événement national",
+   "url": "https://www.ecologie.gouv.fr/",
+   "resume": "Édition 2026 consacrée à l'alimentation durable."
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "note": "Flux RSS lus chaque jour par le robot. Ajoutez ou retirez une ligne librement. zone : Monde, UE ou France. Un flux qui ne répond pas est simplement ignoré.",
+ "flux": [
+  {
+   "nom": "Novethic",
+   "url": "https://www.novethic.fr/rss",
+   "zone": "France"
+  },
+  {
+   "nom": "Reporterre",
+   "url": "https://reporterre.net/spip.php?page=backend",
+   "zone": "France"
+  },
+  {
+   "nom": "Le Monde Planète",
+   "url": "https://www.lemonde.fr/planete/rss_full.xml",
+   "zone": "France"
+  },
+  {
+   "nom": "Youmatter",
+   "url": "https://youmatter.world/fr/feed/",
+   "zone": "France"
+  },
+  {
+   "nom": "Actu-Environnement",
+   "url": "https://www.actu-environnement.com/flux/rss/environnement/",
+   "zone": "France"
+  },
+  {
+   "nom": "ONU Info Climat",
+   "url": "https://news.un.org/feed/subscribe/fr/news/topic/climate-change/feed/rss.xml",
+   "zone": "Monde"
+  },
+  {
+   "nom": "Carbon Brief",
+   "url": "https://www.carbonbrief.org/feed",
+   "zone": "Monde"
+  },
+  {
+   "nom": "ESG Today",
+   "url": "https://www.esgtoday.com/feed/",
+   "zone": "Monde"
+  },
+  {
+   "nom": "Euractiv Énergie et environnement",
+   "url": "https://www.euractiv.fr/sections/energie-environnement/feed/",
+   "zone": "UE"
+  }
+ ],
+ "motsCles": [
+  "RSE",
+  "CSRD",
+  "ESRS",
+  "CSDDD",
+  "devoir de vigilance",
+  "taxonomie",
+  "SFDR",
+  "greenwashing",
+  "écoblanchiment",
+  "bilan carbone",
+  "décarbonation",
+  "neutralité carbone",
+  "COP",
+  "climat",
+  "biodiversité",
+  "transition écologique",
+  "économie circulaire",
+  "développement durable",
+  "ESG",
+  "reporting extra-financier",
+  "Omnibus",
+  "EFRAG",
+  "ISSB",
+  "SBTi",
+  "GIEC",
+  "sustainability",
+  "climate",
+  "biodiversity",
+  "ESG",
+  "carbon",
+  "net zero",
+  "due diligence",
+  "greenwashing",
+  "emissions"
+ ],
+ "motsForts": [
+  "CSRD",
+  "ESRS",
+  "CSDDD",
+  "Omnibus",
+  "COP31",
+  "COP32",
+  "taxonomie",
+  "SFDR",
+  "devoir de vigilance",
+  "GIEC",
+  "IPCC",
+  "EFRAG",
+  "ISSB",
+  "greenwashing",
+  "écoblanchiment"
+ ],
+ "maxParFlux": 8,
+ "garderJours": 60
+}

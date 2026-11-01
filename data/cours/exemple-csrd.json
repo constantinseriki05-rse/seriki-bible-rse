@@ -1,0 +1,141 @@
+{
+  "id": "exemple-csrd",
+  "nom": "Exemple : Reporting de durabilité (CSRD)",
+  "miseAJour": "2026-10-31",
+  "synthese": {
+    "essentiel": "Cette matière explique comment une grande entreprise rend compte de ses impacts, risques et opportunités liés au développement durable. Le cadre central est la directive CSRD, modifiée en 2026 par la directive Omnibus I, qui ne vise plus que les entreprises de plus de 1 000 salariés et 450 M€ de chiffre d'affaires net. Le contenu du rapport est fixé par les normes ESRS, révisées en 2026 pour réduire fortement le nombre de données exigées. Tout commence par l'analyse de double matérialité, qui détermine les sujets à publier. Le rapport est intégré au rapport de gestion, certifié par un commissaire aux comptes ou un organisme tiers indépendant, et publié dans un format numérique balisé. Pour les entreprises sous les seuils, la norme volontaire VSME sert de référence et limite les demandes des grands clients. Le chargé de mission RSE pilote l'analyse de matérialité, organise la collecte, rédige les narratifs et prépare l'audit.",
+    "a_retenir": [
+      "Seuils CSRD depuis l'Omnibus I : plus de 1 000 salariés ET plus de 450 M€ de CA net.",
+      "Premier rapport des grandes entreprises sur l'exercice 2027, publié en 2028.",
+      "Les ESRS comptent 12 normes : ESRS 1 et 2, E1 à E5, S1 à S4, G1.",
+      "ESRS 2 est toujours obligatoire ; les normes thématiques dépendent de la matérialité.",
+      "Double matérialité = matérialité d'impact OU matérialité financière.",
+      "Les ESRS 2026 suppriment environ 61 % des datapoints obligatoires.",
+      "Le rapport fait l'objet d'une assurance limitée.",
+      "Le plafond chaîne de valeur protège les partenaires de moins de 1 000 salariés.",
+      "En France, transposition de l'Omnibus attendue avant le 19 mars 2027."
+    ],
+    "fil_rouge": [
+      "Savoir si l'entreprise est concernée (seuils et calendrier).",
+      "Identifier les sujets matériels par la double matérialité.",
+      "Relier chaque sujet matériel aux exigences des ESRS.",
+      "Collecter et contrôler les données avec un protocole de reporting.",
+      "Rédiger, faire certifier et publier le rapport."
+    ],
+    "pieges": [
+      "Confondre éligibilité et alignement : c'est une notion de taxonomie, pas de CSRD.",
+      "Croire qu'une entreprise sortie de la CSRD n'a plus aucune obligation : le BEGES et la vigilance française demeurent.",
+      "Oublier que les deux seuils CSRD sont cumulatifs depuis l'Omnibus.",
+      "Penser que la matérialité financière suffit : un sujet matériel d'impact seul doit aussi être publié."
+    ],
+    "sujets": [
+      "Présentez les apports et les limites de la directive Omnibus I pour le reporting de durabilité.",
+      "Expliquez la démarche de double matérialité et son rôle dans le rapport de durabilité.",
+      "Une ETI de 600 salariés est-elle concernée par la CSRD ? Quelles obligations RSE lui restent-elles ?",
+      "Quel est le rôle du chargé de mission RSE dans la préparation de l'audit du rapport ?",
+      "Comparez les ESRS et le standard volontaire VSME."
+    ]
+  },
+  "cours": [
+    {
+      "titre": "Le cadre de la CSRD après l'Omnibus",
+      "source": "Support de démonstration",
+      "resume": "Ce cours présente la directive CSRD de 2022 et sa révision par la directive Omnibus I, publiée au Journal officiel de l'UE le 26 février 2026 et en vigueur depuis le 18 mars 2026. Le champ d'application est resserré : seules les entreprises et groupes dépassant à la fois 1 000 salariés et 450 M€ de chiffre d'affaires net restent soumis au reporting obligatoire, ce qui exclut environ 80 % des entreprises initialement visées. Les PME cotées sortent du dispositif. Le calendrier est décalé : les grandes entreprises publient leur premier rapport sur l'exercice 2027. Le rapport est intégré au rapport de gestion, certifié par un commissaire aux comptes ou un organisme tiers indépendant, et publié au format électronique européen. Une clause de réexamen est prévue en 2031. En France, la CSRD a été transposée par l'ordonnance du 6 décembre 2023, et la transposition de l'Omnibus doit intervenir avant le 19 mars 2027.",
+      "plan": ["Origine : de la NFRD à la CSRD", "Le paquet Omnibus I", "Le nouveau champ d'application", "Le calendrier", "Certification et format", "La transposition en France"],
+      "points_cles": [
+        "La CSRD remplace la NFRD de 2014 et la DPEF en France.",
+        "Les critères d'assujettissement sont désormais cumulatifs.",
+        "Le critère du total de bilan disparaît.",
+        "Les PME cotées sont exclues.",
+        "L'assurance reste limitée ; le passage à l'assurance raisonnable est abandonné.",
+        "Les ESRS sectoriels sont abandonnés.",
+        "Les entreprises sous les seuils peuvent utiliser la norme volontaire VSME."
+      ],
+      "notions": [
+        {"terme": "CSRD", "definition": "Directive (UE) 2022/2464 sur la publication d'informations en matière de durabilité."},
+        {"terme": "Omnibus I", "definition": "Directive (UE) 2026/470 qui simplifie la CSRD et la CSDDD."},
+        {"terme": "NFRD", "definition": "Directive de 2014 sur le reporting non financier, remplacée par la CSRD."},
+        {"terme": "Assurance limitée", "definition": "Niveau de vérification où l'auditeur conclut n'avoir rien relevé laissant penser que les informations sont inexactes."},
+        {"terme": "OTI", "definition": "Organisme tiers indépendant accrédité pour certifier les informations de durabilité."},
+        {"terme": "VSME", "definition": "Norme volontaire de reporting de durabilité destinée aux PME."}
+      ],
+      "chiffres": [
+        {"valeur": "1 000 salariés", "contexte": "Seuil d'effectif CSRD depuis l'Omnibus I, cumulatif avec le chiffre d'affaires."},
+        {"valeur": "450 M€", "contexte": "Seuil de chiffre d'affaires net CSRD depuis l'Omnibus I."},
+        {"valeur": "≈ 80 %", "contexte": "Part des entreprises initialement visées qui sortent du champ de la CSRD."},
+        {"valeur": "18 mars 2026", "contexte": "Entrée en vigueur de la directive Omnibus I."},
+        {"valeur": "19 mars 2027", "contexte": "Date limite de transposition des modifications de la CSRD."}
+      ],
+      "references": [
+        {"nom": "Directive (UE) 2022/2464", "apport": "Texte fondateur de la CSRD."},
+        {"nom": "Directive (UE) 2026/470", "apport": "Omnibus I : seuils relevés et calendrier décalé."},
+        {"nom": "Ordonnance n° 2023-1142", "apport": "Transposition française de la CSRD dans le Code de commerce."},
+        {"nom": "Loi n° 2025-391 (DDADUE)", "apport": "Report de deux ans des vagues 2 et 3 en France."}
+      ],
+      "liens_rse": [
+        "Le chargé de mission RSE doit savoir dire si son entreprise est concernée et à quelle échéance.",
+        "Même hors CSRD, les grands clients demandent des données : le VSME devient l'outil de réponse des PME."
+      ],
+      "qcm": [
+        {"question": "Depuis l'Omnibus I, quelles entreprises sont soumises à la CSRD ?", "choix": ["Plus de 250 salariés ou 50 M€ de CA", "Plus de 1 000 salariés et plus de 450 M€ de CA net", "Plus de 500 salariés et cotées", "Toutes les entreprises cotées"], "bonne": 1, "explication": "Les deux critères sont désormais cumulatifs : plus de 1 000 salariés et plus de 450 M€ de CA net."},
+        {"question": "Quand la directive Omnibus I est-elle entrée en vigueur ?", "choix": ["1er janvier 2026", "16 décembre 2025", "18 mars 2026", "19 mars 2027"], "bonne": 2, "explication": "Publiée le 26 février 2026, elle est entrée en vigueur le 18 mars 2026."},
+        {"question": "Quel critère d'assujettissement a disparu avec l'Omnibus ?", "choix": ["L'effectif", "Le chiffre d'affaires", "Le total de bilan", "La cotation"], "bonne": 2, "explication": "Le total de bilan n'est plus retenu comme critère d'entrée."},
+        {"question": "Quel niveau de vérification s'applique au rapport de durabilité ?", "choix": ["Aucun", "Assurance limitée", "Assurance raisonnable", "Audit fiscal"], "bonne": 1, "explication": "L'assurance limitée est maintenue ; le passage à l'assurance raisonnable a été supprimé."},
+        {"question": "Quelle norme peut utiliser une PME qui veut publier volontairement ?", "choix": ["ESRS sectoriels", "VSME", "IFRS 9", "ISO 9001"], "bonne": 1, "explication": "Le VSME est la norme volontaire européenne pour les PME."},
+        {"question": "Quand les grandes entreprises nouvellement soumises publient-elles leur premier rapport ?", "choix": ["En 2025 sur 2024", "En 2026 sur 2025", "En 2028 sur l'exercice 2027", "En 2031"], "bonne": 2, "explication": "Le calendrier a été décalé : premier exercice 2027, publication en 2028."}
+      ],
+      "exercices": [
+        {"enonce": "Une ETI française compte 1 200 salariés et réalise 380 M€ de chiffre d'affaires net. Est-elle soumise à la CSRD ? Quelles autres obligations RSE doit-elle vérifier ?", "indice": "Les critères sont cumulatifs. Pensez aux textes français dont les seuils sont différents.", "corrige": "Non : elle dépasse 1 000 salariés mais pas 450 M€ de CA net, or les deux critères sont cumulatifs. Elle doit en revanche vérifier le BEGES (plus de 500 salariés : obligatoire tous les 4 ans avec scopes 1, 2 et 3), la loi Sapin II (500 salariés et plus de 100 M€ de CA), la loi Rixain (1 000 salariés et plus), l'index de l'égalité, l'OETH, le décret tertiaire selon ses bâtiments, et le critère environnemental si elle répond à des marchés publics. Elle peut publier volontairement selon le VSME pour répondre à ses clients."},
+        {"enonce": "Rédigez une note de 10 lignes au comité de direction expliquant ce que l'Omnibus change pour l'entreprise.", "indice": "Structure : décision attendue, ce qui change, ce qui ne change pas, prochaines étapes.", "corrige": "Une bonne note précise : 1) la situation de l'entreprise au regard des nouveaux seuils ; 2) le nouveau calendrier ; 3) les obligations françaises maintenues (BEGES, vigilance, etc.) ; 4) les attentes persistantes des clients, banques et marchés publics ; 5) une recommandation (par exemple adopter le VSME et maintenir le bilan carbone) avec un responsable et une échéance."}
+      ],
+      "questions_examen": [
+        "Expliquez les raisons et les effets de la simplification Omnibus.",
+        "Quelles obligations restent applicables à une entreprise sortie de la CSRD ?"
+      ]
+    },
+    {
+      "titre": "La double matérialité",
+      "source": "Support de démonstration",
+      "resume": "La double matérialité est le principe qui détermine le contenu du rapport de durabilité. Un sujet est matériel s'il l'est du point de vue de l'impact, c'est-à-dire des effets de l'entreprise sur les personnes et l'environnement, ou du point de vue financier, c'est-à-dire des effets des enjeux de durabilité sur la performance de l'entreprise. L'analyse identifie les impacts, risques et opportunités (IRO) dans les opérations propres et la chaîne de valeur. Les impacts sont cotés selon leur gravité (ampleur, étendue, caractère irrémédiable) et leur probabilité ; les risques et opportunités selon la probabilité et l'ampleur de leurs effets financiers à court, moyen et long terme. Les ESRS 2026 permettent une approche plus simple, au niveau des grands thèmes. Les résultats sont validés par la gouvernance et documentés pour l'auditeur.",
+      "plan": ["Définition", "Matérialité d'impact", "Matérialité financière", "Les étapes de l'analyse", "Les apports des ESRS 2026"],
+      "points_cles": [
+        "Un sujet est matériel dès qu'il l'est d'un des deux points de vue.",
+        "L'unité d'analyse est l'IRO : impact, risque ou opportunité.",
+        "La chaîne de valeur amont et aval est incluse.",
+        "Pour les droits humains, la gravité prime sur la probabilité.",
+        "Les seuils de cotation doivent être justifiés et documentés.",
+        "Les informations non matérielles ne sont en principe pas publiées."
+      ],
+      "notions": [
+        {"terme": "Matérialité d'impact", "definition": "Effets réels ou potentiels de l'entreprise sur les personnes et l'environnement (« inside-out »)."},
+        {"terme": "Matérialité financière", "definition": "Effets des enjeux de durabilité sur la situation financière de l'entreprise (« outside-in »)."},
+        {"terme": "IRO", "definition": "Impacts, risques et opportunités : unité d'analyse de la double matérialité."},
+        {"terme": "Gravité", "definition": "Combinaison de l'ampleur, de l'étendue et du caractère irrémédiable d'un impact."}
+      ],
+      "chiffres": [
+        {"valeur": "≈ 61 %", "contexte": "Réduction des datapoints obligatoires dans les ESRS révisés de 2026."}
+      ],
+      "references": [
+        {"nom": "ESRS 1", "apport": "Définit les principes de la double matérialité."},
+        {"nom": "EFRAG", "apport": "Auteur des projets de normes et des guides d'application."}
+      ],
+      "liens_rse": [
+        "L'analyse de double matérialité est l'une des missions les plus demandées aux chargés de mission RSE.",
+        "Elle sert aussi à construire la stratégie RSE, même hors obligation."
+      ],
+      "qcm": [
+        {"question": "Quand un sujet est-il matériel au sens de la CSRD ?", "choix": ["S'il est matériel des deux points de vue", "S'il est matériel d'au moins un des deux points de vue", "Seulement s'il a un effet financier", "Seulement s'il est cité par un client"], "bonne": 1, "explication": "La double matérialité est une union : impact OU financier."},
+        {"question": "Que signifie IRO ?", "choix": ["Indicateurs, ratios, objectifs", "Impacts, risques et opportunités", "Inventaire réglementaire obligatoire", "Investissements responsables orientés"], "bonne": 1, "explication": "Les IRO sont l'unité d'analyse de la double matérialité."},
+        {"question": "Quels critères composent la gravité d'un impact ?", "choix": ["Coût, durée, fréquence", "Ampleur, étendue, caractère irrémédiable", "Probabilité et horizon de temps", "Chiffre d'affaires et effectif"], "bonne": 1, "explication": "La gravité combine ampleur, étendue et caractère irrémédiable."},
+        {"question": "Que permettent les ESRS 2026 pour l'analyse de matérialité ?", "choix": ["La supprimer", "Une approche « top-down » au niveau des grands thèmes", "La confier uniquement aux clients", "Ne regarder que le scope 1"], "bonne": 1, "explication": "L'approche peut partir des grands thèmes sans descendre systématiquement au détail."}
+      ],
+      "exercices": [
+        {"enonce": "Pour une entreprise de transport routier, identifiez deux impacts négatifs, un risque et une opportunité, et proposez une cotation.", "indice": "Pensez émissions, sécurité routière, prix du carbone, nouveaux services bas carbone.", "corrige": "Impacts négatifs : émissions de GES des poids lourds (gravité élevée, certain) ; accidents de la route impliquant les chauffeurs (gravité très élevée, probabilité moyenne). Risque : hausse du coût du carburant et du carbone avec l'ETS2 (effet financier élevé à moyen terme). Opportunité : offre de transport bas carbone demandée par les chargeurs (effet positif moyen à moyen terme). Les quatre seraient matériels."}
+      ],
+      "questions_examen": [
+        "Décrivez les étapes d'une analyse de double matérialité et le rôle des parties prenantes.",
+        "Pourquoi la double matérialité est-elle plus exigeante que la seule matérialité financière ?"
+      ]
+    }
+  ]
+}

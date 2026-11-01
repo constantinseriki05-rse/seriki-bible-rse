@@ -1,0 +1,2405 @@
+{
+ "miseAJour": "2026-11-01",
+ "guides": [
+  {
+   "id": "premiers-jours",
+   "titre": "Mes 30 premiers jours en poste RSE",
+   "pour": "Alternant, stagiaire ou nouveau chargé de mission",
+   "duree": "4 semaines",
+   "resume": "Ce qu'il faut faire, semaine par semaine, dès l'arrivée dans l'entreprise : qui rencontrer, quelles questions poser mot pour mot, quels documents demander, comment poser un diagnostic et quoi rendre au bout d'un mois.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "Le résultat attendu à J+30",
+     "x": "Une liste des obligations de l'entreprise, un état des données disponibles, un diagnostic de maturité, un rapport d'étonnement de deux pages et trois actions rapides chiffrées, présentés à votre responsable. C'est ce livrable qui installe votre crédibilité."
+    },
+    {
+     "t": "h",
+     "x": "Avant le premier jour"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Lisez le site de l'entreprise, son dernier rapport annuel ou rapport RSE, et ses pages « engagements ». Notez les chiffres clés : effectif, chiffre d'affaires, nombre de sites, pays.",
+      "Passez l'entreprise dans l'outil « Suis-je concerné ? » de l'application : vous arrivez en sachant déjà quelles obligations la concernent.",
+      "Lisez la fiche de son secteur (rubrique Secteur par secteur) : vous connaissez ses enjeux matériels probables.",
+      "Cherchez son nom avec « EcoVadis », « bilan GES », « plan de vigilance » et « condamnation » : vous saurez ce qui est public, et s'il existe un sujet sensible.",
+      "Préparez un carnet ou un document « Journal de bord » : vous y noterez chaque rencontre, chaque donnée trouvée, chaque idée."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Semaine 1 : comprendre ce qu'on attend de vous"
+    },
+    {
+     "t": "p",
+     "x": "Demandez un entretien de cadrage d'une heure à votre tuteur ou responsable. Posez ces questions, dans cet ordre, et notez les réponses mot pour mot."
+    },
+    {
+     "t": "script",
+     "titre": "Questions de l'entretien de cadrage",
+     "x": "1. Qu'attendez-vous concrètement de moi à la fin de ma première année ? À quoi verra-t-on que j'ai réussi ?\n2. Quelles sont les trois priorités RSE de l'entreprise cette année, et pourquoi celles-là ?\n3. Qui nous demande des informations RSE aujourd'hui : clients, banques, investisseurs, administration, candidats ?\n4. Qu'est-ce qui existe déjà : bilan carbone, certification, questionnaire EcoVadis, rapport, charte ?\n5. Où sont les données, et qui les détient ?\n6. Qui décide et qui valide les sujets RSE ? À quel rythme dois-je vous rendre compte ?\n7. Y a-t-il un sujet sensible que je dois connaître : audit en cours, client mécontent, contentieux, conflit social ?\n8. Quel budget est disponible pour la RSE cette année ?\n9. Avec qui me conseillez-vous de commencer ?"
+    },
+    {
+     "t": "p",
+     "x": "Le soir même, envoyez un courriel de synthèse : cela montre votre rigueur et évite les malentendus."
+    },
+    {
+     "t": "script",
+     "titre": "Courriel de synthèse après le cadrage",
+     "x": "Objet : Synthèse de notre point de cadrage du [date]\n\nBonjour [prénom],\n\nMerci pour notre échange. Voici ce que j'ai retenu :\n- Objectifs de ma mission : [1], [2], [3]\n- Priorités RSE de l'année : [priorité 1], [priorité 2], [priorité 3]\n- Premier livrable : un diagnostic et un rapport d'étonnement, que je vous présenterai le [date, J+30]\n- Points d'étape : chaque [jour] à [heure], 30 minutes\n\nDans les prochains jours, je rencontre [noms ou directions] et je rassemble les documents existants.\n\nN'hésitez pas à me corriger si j'ai mal compris un point.\n\nBien cordialement,\n[Prénom Nom]"
+    },
+    {
+     "t": "h",
+     "x": "Les documents à demander dès la première semaine"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Document",
+      "À qui le demander",
+      "Pourquoi"
+     ],
+     "r": [
+      [
+       "Organigramme et effectif par site",
+       "Ressources humaines",
+       "Savoir qui fait quoi et calculer les seuils"
+      ],
+      [
+       "Dernier rapport de gestion, rapport RSE ou de durabilité",
+       "Direction financière ou communication",
+       "Connaître les engagements déjà publiés"
+      ],
+      [
+       "Dernier bilan GES ou bilan carbone",
+       "Direction RSE, QHSE ou services généraux",
+       "Point de départ climat ; obligation BEGES dès 500 salariés"
+      ],
+      [
+       "Factures d'énergie des 12 derniers mois",
+       "Comptabilité ou services généraux",
+       "Calculer les scopes 1 et 2"
+      ],
+      [
+       "Bordereaux et factures du prestataire déchets",
+       "Services généraux ou production",
+       "Tonnages et filières de traitement"
+      ],
+      [
+       "Bilan social, BDESE, index de l'égalité",
+       "Ressources humaines",
+       "Indicateurs sociaux de base"
+      ],
+      [
+       "Liste des 50 premiers fournisseurs avec montants",
+       "Direction des achats",
+       "Achats responsables et scope 3"
+      ],
+      [
+       "Questionnaires clients (EcoVadis, CDP, appels d'offres)",
+       "Direction commerciale",
+       "Comprendre la pression des clients"
+      ],
+      [
+       "Certifications et rapports d'audit (ISO 14001, 45001, 50001)",
+       "QHSE",
+       "Savoir ce qui est déjà structuré"
+      ],
+      [
+       "Code de conduite, dispositif d'alerte, plan de vigilance",
+       "Juridique ou conformité",
+       "Pilier gouvernance"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Semaine 2 : rencontrer chaque direction"
+    },
+    {
+     "t": "p",
+     "x": "Demandez 30 minutes à chaque responsable. Présentez-vous en une phrase, puis écoutez : votre objectif est de comprendre ses contraintes, pas de lui expliquer la RSE."
+    },
+    {
+     "t": "script",
+     "titre": "Votre phrase d'introduction",
+     "x": "« Je viens de rejoindre l'entreprise comme [chargé de mission RSE / alternant RSE]. Mon rôle est d'aider chaque service à répondre aux demandes RSE des clients et de la réglementation, sans alourdir votre travail. J'aimerais comprendre votre activité, ce que vous faites déjà, et ce qui vous poserait problème. »"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Direction",
+      "Questions à poser",
+      "Ce que vous en tirez"
+     ],
+     "r": [
+      [
+       "Achats",
+       "Quels sont vos 10 premiers fournisseurs ? Leur demandez-vous déjà des engagements ? Avez-vous eu un incident fournisseur ?",
+       "Cartographie des risques, données scope 3"
+      ],
+      [
+       "Ressources humaines",
+       "Quels sont vos chiffres d'absentéisme, de turnover, d'accidents ? Quels accords sont en cours ? Quel est l'index de l'égalité ?",
+       "Pilier social, priorités QVCT"
+      ],
+      [
+       "Finance et contrôle de gestion",
+       "Comment sont classées les dépenses dans la comptabilité ? Pouvez-vous m'extraire les achats par compte ? Quels investissements sont prévus ?",
+       "Données d'achat, budget, taxonomie"
+      ],
+      [
+       "Production ou opérations",
+       "Quelles sont vos consommations d'énergie et d'eau ? Quels déchets produisez-vous ? Quels sont vos irritants ?",
+       "Gisements de réduction, actions rapides"
+      ],
+      [
+       "Services généraux",
+       "Qui suit les contrats d'énergie, de déchets, de nettoyage, de flotte ? Où sont les factures ?",
+       "Données scopes 1 et 2, déchets"
+      ],
+      [
+       "Commercial",
+       "Quels clients posent des questions RSE ? Avez-vous perdu un marché pour cette raison ?",
+       "Enjeu business, argument pour la direction"
+      ],
+      [
+       "Communication et marketing",
+       "Quelles allégations environnementales utilisez-vous ? Sur quelles preuves ?",
+       "Risque de greenwashing"
+      ],
+      [
+       "Juridique",
+       "Quelles obligations suivez-vous ? Y a-t-il un contentieux ou une mise en demeure ?",
+       "Conformité, risques"
+      ],
+      [
+       "Élus du CSE",
+       "Comment les salariés perçoivent-ils les engagements de l'entreprise ? Quelles attentes ?",
+       "Adhésion, dialogue social"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Semaine 3 : poser le diagnostic"
+    },
+    {
+     "t": "p",
+     "x": "Cotez la maturité de l'entreprise de 0 à 3 sur chaque thème. Restez factuel : chaque note doit reposer sur une preuve."
+    },
+    {
+     "t": "table",
+     "h": [
+      "Thème",
+      "0 : rien",
+      "1 : débuts",
+      "2 : structuré",
+      "3 : piloté"
+     ],
+     "r": [
+      [
+       "Gouvernance RSE",
+       "Personne en charge",
+       "Un référent sans moyens",
+       "Feuille de route validée",
+       "Objectifs RSE dans la rémunération des dirigeants"
+      ],
+      [
+       "Climat",
+       "Aucune mesure",
+       "Bilan scopes 1 et 2",
+       "Bilan complet et plan d'action",
+       "Trajectoire validée et suivie"
+      ],
+      [
+       "Achats",
+       "Aucun critère",
+       "Charte fournisseurs",
+       "Évaluation des fournisseurs à risque",
+       "Critères RSE pondérés dans les appels d'offres"
+      ],
+      [
+       "Social",
+       "Obligations minimales",
+       "Indicateurs suivis",
+       "Plan d'action QVCT",
+       "Objectifs sociaux suivis en CODIR"
+      ],
+      [
+       "Données et reporting",
+       "Aucune donnée",
+       "Données éparses",
+       "Tableau de bord annuel",
+       "Protocole de reporting et audit"
+      ]
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Exemple de fiche de diagnostic rédigée",
+     "x": "Entreprise : PME de transport, 320 salariés, 2 sites.\nObligations identifiées : BEGES non (moins de 500 salariés), index égalité oui, OETH oui, LOM oui (site de 210 salariés), décret tertiaire oui (bureaux de 1 400 m²), critère environnemental des marchés publics oui (40 % du CA en marchés publics).\nMaturité : gouvernance 1, climat 0, achats 0, social 2, données 1.\nPoints forts : faible accidentologie depuis 3 ans, flotte récente.\nPoints faibles : aucune mesure carbone alors que 3 clients la demandent ; pas de critère RSE dans les achats.\nRisque principal : perte de marchés publics faute de mémoire environnemental chiffré.\nOpportunité principale : la flotte (gazole) représente probablement plus de 80 % des émissions ; tout progrès y sera visible et économique."
+    },
+    {
+     "t": "h",
+     "x": "Semaine 4 : restituer avec un rapport d'étonnement"
+    },
+    {
+     "t": "p",
+     "x": "Le rapport d'étonnement tient en deux pages : ce qui vous a surpris en bien, ce qui vous a surpris en mal, vos propositions. Présentez-le à l'oral en 15 minutes avec trois actions rapides chiffrées."
+    },
+    {
+     "t": "script",
+     "titre": "Exemple de rapport d'étonnement (extrait)",
+     "x": "Ce qui fonctionne bien\n- La sécurité est une vraie culture : 0 accident grave depuis 3 ans, et les chauffeurs le revendiquent.\n- La flotte a moins de 4 ans d'âge moyen : c'est une base solide pour réduire les consommations.\n\nCe qui m'a étonné\n- Trois clients nous ont demandé notre bilan carbone en 2026 ; aucune réponse chiffrée n'a pu leur être faite.\n- Les données de carburant existent (cartes carburant) mais ne sont pas exploitées.\n- Aucun fournisseur n'est évalué sur des critères RSE.\n\nMes trois propositions immédiates\n1. Calculer le bilan carbone scopes 1 et 2 à partir des cartes carburant et des factures d'énergie. Délai : 6 semaines. Coût : temps interne.\n2. Former les 150 chauffeurs à l'écoconduite. Gain attendu : 5 à 10 % de carburant, soit environ 90 000 € par an sur une dépense de 1,2 M€. Coût : environ 15 000 €.\n3. Préparer un mémoire environnemental type pour les marchés publics. Délai : 1 mois.\n\nDécision attendue : valider ces trois actions et désigner un interlocuteur dans chaque direction."
+    },
+    {
+     "t": "callout",
+     "k": "o",
+     "titre": "La bonne posture",
+     "x": "Ne jugez pas, ne faites pas la morale, ne promettez pas de résultats que vous ne contrôlez pas. Parlez d'économies, de clients et de risques avant de parler de planète : c'est ce qui fait agir une direction. Remerciez publiquement ceux qui vous ont aidé."
+    }
+   ]
+  },
+  {
+   "id": "bilan-carbone",
+   "titre": "Calculer un bilan carbone, pas à pas",
+   "pour": "Toute personne qui doit mesurer les émissions d'une organisation",
+   "duree": "4 à 10 semaines selon la taille",
+   "resume": "La méthode complète, de la définition du périmètre au plan de réduction : quelles données collecter, où les trouver, quels facteurs d'émission utiliser, un calcul entièrement détaillé sur un exemple, et une calculatrice pour faire le vôtre.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "La formule de base",
+     "x": "Émissions (kgCO₂e) = donnée d'activité (kWh, litres, km, tonnes, euros…) × facteur d'émission (kgCO₂e par unité). Tout le bilan carbone consiste à appliquer cette formule, poste par poste, puis à additionner."
+    },
+    {
+     "t": "h",
+     "x": "Étape 1 : définir le périmètre"
+    },
+    {
+     "t": "ol",
+     "x": [
+      "Périmètre organisationnel : quelles entités et quels sites ? On retient le plus souvent ceux que l'entreprise contrôle (contrôle opérationnel).",
+      "Année de référence : une année complète et représentative, en général la dernière année civile ou le dernier exercice.",
+      "Périmètre opérationnel : scope 1 (émissions directes), scope 2 (énergie achetée) et scope 3 (le reste de la chaîne de valeur, obligatoire dans le BEGES depuis 2023 pour ses postes significatifs).",
+      "Écrivez ces choix dans une note de méthode : vous en aurez besoin chaque année pour comparer."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Étape 2 : collecter les données"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Poste",
+      "Donnée à collecter",
+      "Unité",
+      "Où la trouver",
+      "Scope"
+     ],
+     "r": [
+      [
+       "Électricité",
+       "Consommation annuelle par site",
+       "kWh",
+       "Factures ou espace client du fournisseur",
+       "2"
+      ],
+      [
+       "Gaz naturel",
+       "Consommation annuelle",
+       "kWh PCS (unité des factures)",
+       "Factures du fournisseur de gaz",
+       "1"
+      ],
+      [
+       "Fioul",
+       "Volumes livrés",
+       "litres",
+       "Bons de livraison",
+       "1"
+      ],
+      [
+       "Carburant des véhicules de l'entreprise",
+       "Volumes consommés",
+       "litres",
+       "Relevés des cartes carburant",
+       "1"
+      ],
+      [
+       "Climatisation",
+       "Fluide rechargé dans l'année",
+       "kg de fluide, avec son type",
+       "Fiches d'intervention du frigoriste",
+       "1"
+      ],
+      [
+       "Achats de biens",
+       "Montants ou quantités par catégorie",
+       "€ HT ou tonnes",
+       "Comptabilité (comptes 60) ou ERP",
+       "3"
+      ],
+      [
+       "Achats de services",
+       "Montants par catégorie",
+       "€ HT",
+       "Comptabilité (comptes 61 et 62)",
+       "3"
+      ],
+      [
+       "Matériel informatique acheté",
+       "Nombre d'unités par type",
+       "unités",
+       "Inventaire ou factures",
+       "3"
+      ],
+      [
+       "Transport de marchandises",
+       "Poids et distances",
+       "tonnes.km",
+       "Transporteurs, logiciel logistique",
+       "3"
+      ],
+      [
+       "Déplacements professionnels",
+       "Distances par mode",
+       "km",
+       "Agence de voyage, notes de frais",
+       "3"
+      ],
+      [
+       "Trajets domicile-travail",
+       "Distances et modes",
+       "km",
+       "Enquête auprès des salariés",
+       "3"
+      ],
+      [
+       "Déchets",
+       "Tonnage par type et par filière",
+       "tonnes",
+       "Bordereaux et rapports du prestataire",
+       "3"
+      ]
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Questionnaire mobilité à envoyer aux salariés (5 questions, 2 minutes)",
+     "x": "1. Combien de kilomètres parcourez-vous pour venir travailler (aller simple) ?\n2. Quel mode utilisez-vous le plus souvent ? (voiture seul, covoiturage, transports en commun, vélo, marche, deux-roues motorisé)\n3. Combien de jours par semaine venez-vous sur site ?\n4. Combien de jours de télétravail par semaine ?\n5. Qu'est-ce qui vous aiderait à venir autrement ? (réponse libre)\n\nObjectif : au moins 60 % de réponses. Extrapolez ensuite à l'effectif total."
+    },
+    {
+     "t": "h",
+     "x": "Étape 3 : choisir les facteurs d'émission"
+    },
+    {
+     "t": "p",
+     "x": "La référence en France est la Base Empreinte de l'ADEME (base-empreinte.ademe.fr). Les valeurs ci-dessous sont des ordres de grandeur pour s'entraîner et vérifier la vraisemblance d'un résultat. Pour un bilan officiel, utilisez toujours la valeur à jour de la base, et notez-en la source et l'année."
+    },
+    {
+     "t": "table",
+     "h": [
+      "Donnée",
+      "Ordre de grandeur",
+      "Remarque"
+     ],
+     "r": [
+      [
+       "Électricité, réseau français",
+       "≈ 0,05 kgCO₂e/kWh",
+       "Très bas grâce au nucléaire et aux renouvelables ; bien plus élevé dans la plupart des autres pays"
+      ],
+      [
+       "Gaz naturel",
+       "≈ 0,2 kgCO₂e/kWh PCS",
+       "Vérifiez si le facteur est exprimé en PCS (factures) ou en PCI"
+      ],
+      [
+       "Fioul domestique",
+       "≈ 3,2 kgCO₂e/litre",
+       ""
+      ],
+      [
+       "Gazole routier",
+       "≈ 3,1 kgCO₂e/litre",
+       ""
+      ],
+      [
+       "Essence",
+       "≈ 2,8 kgCO₂e/litre",
+       ""
+      ],
+      [
+       "Fluide frigorigène R410A",
+       "≈ 2 090 kgCO₂e/kg",
+       "Son pouvoir de réchauffement : 1 kg de fuite pèse près de 2 tonnes"
+      ],
+      [
+       "Voiture thermique moyenne",
+       "≈ 0,2 kgCO₂e/km",
+       ""
+      ],
+      [
+       "Train à grande vitesse en France",
+       "≈ 0,003 kgCO₂e/passager.km",
+       "Environ 80 fois moins que l'avion"
+      ],
+      [
+       "Avion court-courrier",
+       "≈ 0,25 kgCO₂e/passager.km",
+       "Effets des traînées inclus"
+      ],
+      [
+       "Poids lourd",
+       "≈ 0,1 kgCO₂e/tonne.km",
+       "Varie fortement selon le chargement"
+      ],
+      [
+       "Ordinateur portable (fabrication)",
+       "≈ 150 à 250 kgCO₂e/unité",
+       ""
+      ],
+      [
+       "Achats de services, faute de mieux",
+       "Ratio monétaire en kgCO₂e par € dépensé",
+       "À remplacer progressivement par des données réelles des fournisseurs"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Étape 4 : calculer, sur un exemple complet"
+    },
+    {
+     "t": "p",
+     "x": "Entreprise fictive : une société de services numériques de 60 salariés, un site à Lyon, chauffée au gaz, avec 6 véhicules de service. Toutes les données sont annuelles."
+    },
+    {
+     "t": "table",
+     "h": [
+      "Poste",
+      "Donnée",
+      "Facteur",
+      "Calcul",
+      "Résultat",
+      "Scope"
+     ],
+     "r": [
+      [
+       "Gaz naturel",
+       "180 000 kWh PCS",
+       "0,205 kg/kWh",
+       "180 000 × 0,205",
+       "36,9 t",
+       "1"
+      ],
+      [
+       "Fuite de climatisation",
+       "3 kg de R410A",
+       "2 088 kg/kg",
+       "3 × 2 088",
+       "6,3 t",
+       "1"
+      ],
+      [
+       "Véhicules de service",
+       "72 000 km",
+       "0,2 kg/km",
+       "72 000 × 0,2",
+       "14,4 t",
+       "1"
+      ],
+      [
+       "Électricité",
+       "210 000 kWh",
+       "0,052 kg/kWh",
+       "210 000 × 0,052",
+       "10,9 t",
+       "2"
+      ],
+      [
+       "Avion",
+       "120 000 passager.km",
+       "0,25 kg/p.km",
+       "120 000 × 0,25",
+       "30,0 t",
+       "3"
+      ],
+      [
+       "Train",
+       "80 000 passager.km",
+       "0,003 kg/p.km",
+       "80 000 × 0,003",
+       "0,2 t",
+       "3"
+      ],
+      [
+       "Domicile-travail en voiture",
+       "216 000 km",
+       "0,2 kg/km",
+       "216 000 × 0,2",
+       "43,2 t",
+       "3"
+      ],
+      [
+       "Ordinateurs achetés",
+       "25 portables",
+       "200 kg/unité",
+       "25 × 200",
+       "5,0 t",
+       "3"
+      ],
+      [
+       "Achats de services",
+       "900 000 € HT",
+       "0,1 kg/€ (hypothèse)",
+       "900 000 × 0,1",
+       "90,0 t",
+       "3"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Comment on a obtenu les 216 000 km de domicile-travail : 60 salariés × 18 km aller × 2 trajets × 200 jours sur site = 432 000 km, dont la moitié en voiture d'après l'enquête, soit 216 000 km. Les autres modes sont négligeables."
+    },
+    {
+     "t": "callout",
+     "k": "b",
+     "titre": "Résultat",
+     "x": "Scope 1 : 57,6 t. Scope 2 : 10,9 t. Scope 3 : 168,4 t. Total : 236,9 tCO₂e, soit environ 4 t par salarié. Le scope 3 pèse 71 % du total : les achats de services, les trajets domicile-travail et l'avion sont les trois premiers postes. Une démarche qui se limiterait à l'électricité passerait à côté de 95 % du sujet."
+    },
+    {
+     "t": "h",
+     "x": "Faites votre propre calcul"
+    },
+    {
+     "t": "calc"
+    },
+    {
+     "t": "h",
+     "x": "Étape 5 : analyser et fiabiliser"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Classez les postes du plus grand au plus petit : 3 ou 4 postes font généralement 80 % du total.",
+      "Indiquez l'incertitude : une donnée de facture est fiable (±5 %), un ratio monétaire beaucoup moins (±50 % ou plus).",
+      "Calculez une intensité (tCO₂e par salarié, par M€ de chiffre d'affaires, par unité produite) pour comparer d'une année sur l'autre.",
+      "Listez les données manquantes et la façon de les obtenir l'an prochain."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Étape 6 : construire le plan de réduction"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Action (exemple précédent)",
+      "Poste visé",
+      "Gain estimé",
+      "Coût",
+      "Responsable"
+     ],
+     "r": [
+      [
+       "Remplacer la chaudière gaz par une pompe à chaleur",
+       "Gaz",
+       "≈ 30 t/an",
+       "≈ 60 000 € (aides possibles)",
+       "Services généraux"
+      ],
+      [
+       "Politique voyages : le train pour tout trajet de moins de 4 heures",
+       "Avion",
+       "≈ 15 t/an",
+       "Nul, voire économie",
+       "Direction et RH"
+      ],
+      [
+       "Deux jours de télétravail et forfait mobilités durables",
+       "Domicile-travail",
+       "≈ 17 t/an",
+       "≈ 300 € par salarié et par an pour le forfait",
+       "RH"
+      ],
+      [
+       "Contrat d'étanchéité et fluide à plus faible pouvoir de réchauffement",
+       "Climatisation",
+       "≈ 5 t/an",
+       "≈ 2 000 €",
+       "Services généraux"
+      ],
+      [
+       "Allonger la durée de vie des ordinateurs de 3 à 5 ans",
+       "Matériel",
+       "≈ 2 t/an",
+       "Économie d'achats",
+       "DSI"
+      ],
+      [
+       "Demander leurs données carbone aux 10 premiers prestataires",
+       "Achats de services",
+       "Fiabilise 90 t",
+       "Temps interne",
+       "Achats"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Ces cinq premières actions réduisent les émissions d'environ 69 tonnes, soit près de 30 % du total. C'est l'ordre de grandeur d'une trajectoire compatible avec 1,5 °C sur 5 à 7 ans, à confirmer avec la méthode SBTi."
+    },
+    {
+     "t": "h",
+     "x": "Étape 7 : présenter les résultats"
+    },
+    {
+     "t": "script",
+     "titre": "Trame de restitution à la direction (5 diapositives)",
+     "x": "1. Le chiffre : « Nous émettons 237 tonnes de CO₂e par an, soit environ 4 t par salarié. »\n2. D'où elles viennent : un graphique par poste ; « 71 % viennent de notre chaîne de valeur, pas de nos bureaux. »\n3. Ce que cela nous coûte ou nous fait risquer : demandes des clients, prix de l'énergie, attractivité.\n4. Le plan : 5 actions, 69 tonnes en moins, budget et économies.\n5. La décision attendue : « Je vous propose de valider l'objectif de –30 % d'ici 2030 et les deux premières actions. »"
+    },
+    {
+     "t": "callout",
+     "k": "o",
+     "titre": "Rappel réglementaire",
+     "x": "Le BEGES est obligatoire tous les 4 ans pour les entreprises de plus de 500 salariés (250 en outre-mer), avec les scopes 1, 2 et 3 significatif et un plan de transition, publié sur la plateforme de l'ADEME. Amende jusqu'à 50 000 €. En dessous, le bilan reste volontaire, mais il est de plus en plus exigé par les clients et les banques."
+    }
+   ]
+  },
+  {
+   "id": "sensibiliser",
+   "titre": "Sensibiliser les salariés : thèmes, formats et déroulés",
+   "pour": "Chargé de mission RSE, ambassadeurs, managers",
+   "duree": "Toute l'année",
+   "resume": "Sur quoi sensibiliser selon les publics, quels formats choisir, un calendrier annuel, le déroulé minute par minute d'un atelier d'une heure, les messages à envoyer et la façon de mesurer les résultats.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "La règle d'or",
+     "x": "Une sensibilisation réussie se termine toujours par une action concrète, choisie par les participants, avec un responsable et une date. Sans action, c'est une conférence oubliée en une semaine."
+    },
+    {
+     "t": "h",
+     "x": "Choisir les thèmes selon les publics"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Thème",
+      "Pour qui",
+      "Message clé",
+      "Format adapté"
+     ],
+     "r": [
+      [
+       "Climat et ordres de grandeur",
+       "Tous, en priorité les dirigeants",
+       "Où sont nos émissions et ce qui compte vraiment",
+       "Fresque du Climat, atelier 2tonnes"
+      ],
+      [
+       "Énergie au travail",
+       "Tous",
+       "Chauffage, éclairage, veille : des gestes visibles qui réduisent la facture",
+       "Quiz, défi entre équipes"
+      ],
+      [
+       "Mobilité",
+       "Tous",
+       "Trajets et déplacements pèsent souvent plus que l'électricité",
+       "Défi « Mai à vélo », covoiturage"
+      ],
+      [
+       "Numérique responsable",
+       "Tous, et la DSI",
+       "La fabrication des équipements pèse plus que leur usage",
+       "Fresque du Numérique, tri des courriels"
+      ],
+      [
+       "Déchets et tri",
+       "Tous, production, restauration",
+       "Trier juste, et surtout produire moins de déchets",
+       "Visite du centre de tri, défi zéro déchet"
+      ],
+      [
+       "Achats responsables",
+       "Acheteurs, prescripteurs",
+       "Chaque achat engage notre responsabilité et notre bilan carbone",
+       "Atelier sur cas réels"
+      ],
+      [
+       "Égalité et lutte contre les discriminations",
+       "Managers, recruteurs",
+       "Les biais existent chez tous : les connaître pour les limiter",
+       "Atelier sur les biais, mises en situation"
+      ],
+      [
+       "Handicap",
+       "Tous, managers",
+       "Le handicap est souvent invisible ; l'entreprise s'adapte",
+       "Témoignages, semaine pour l'emploi des personnes handicapées"
+      ],
+      [
+       "Santé, sécurité, qualité de vie",
+       "Tous, managers",
+       "Prévenir plutôt que réparer",
+       "Quart d'heure sécurité, ateliers postures"
+      ],
+      [
+       "Éthique et anticorruption",
+       "Commerciaux, acheteurs, dirigeants",
+       "Cadeaux, conflits d'intérêts : quand dire non",
+       "Étude de cas, e-learning"
+      ],
+      [
+       "Biodiversité",
+       "Tous, sites avec espaces verts",
+       "Nos sites peuvent accueillir la nature",
+       "Inventaire participatif, plantations"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Choisir le format"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Format",
+      "Durée",
+      "Participants",
+      "Coût indicatif",
+      "Quand le choisir"
+     ],
+     "r": [
+      [
+       "Fresque du Climat",
+       "3 h",
+       "6 à 8 par table",
+       "Animateur bénévole ou prestataire",
+       "Pour un déclic collectif, en particulier au CODIR"
+      ],
+      [
+       "Atelier 2tonnes",
+       "3 h",
+       "Jusqu'à 20",
+       "Prestataire",
+       "Pour passer à l'action individuelle et collective"
+      ],
+      [
+       "Conférence du midi",
+       "45 min",
+       "Illimité",
+       "Faible",
+       "Pour toucher beaucoup de monde sur un sujet précis"
+      ],
+      [
+       "Quiz ou jeu concours",
+       "10 min",
+       "Tous",
+       "Lots modestes",
+       "Pour lancer une campagne de façon ludique"
+      ],
+      [
+       "Défi entre équipes",
+       "1 à 4 semaines",
+       "Toutes les équipes",
+       "Faible",
+       "Mobilité, énergie, déchets : résultats mesurables"
+      ],
+      [
+       "Café RSE",
+       "30 min",
+       "8 à 15",
+       "Très faible",
+       "Pour recueillir des idées et créer un réseau"
+      ],
+      [
+       "Réseau d'ambassadeurs",
+       "Toute l'année",
+       "1 par service",
+       "Temps dégagé",
+       "Pour relayer dans chaque équipe"
+      ],
+      [
+       "Module en ligne",
+       "15 min",
+       "Tous",
+       "Moyen",
+       "Pour une obligation de formation (éthique, sécurité)"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Un calendrier annuel prêt à l'emploi"
+    },
+    {
+     "t": "p",
+     "x": "S'appuyer sur les journées et semaines nationales ou internationales donne une raison de communiquer. Vérifiez chaque année les dates exactes."
+    },
+    {
+     "t": "table",
+     "h": [
+      "Période",
+      "Rendez-vous",
+      "Idée d'action"
+     ],
+     "r": [
+      [
+       "Janvier",
+       "Vœux et bilan de l'année",
+       "Publier 3 chiffres RSE de l'année écoulée"
+      ],
+      [
+       "Mars",
+       "Journée internationale des droits des femmes (8 mars), Journée mondiale de l'eau (22 mars)",
+       "Présenter l'index de l'égalité et le plan d'action ; relevé des consommations d'eau"
+      ],
+      [
+       "Avril",
+       "Jour de la Terre (22 avril)",
+       "Lancer une Fresque du Climat"
+      ],
+      [
+       "Mai",
+       "Défi « Mai à vélo »",
+       "Défi mobilité entre équipes"
+      ],
+      [
+       "Juin",
+       "Journée mondiale de l'environnement (5 juin), semaine de la qualité de vie au travail",
+       "Atelier biodiversité ; enquête QVCT"
+      ],
+      [
+       "Septembre",
+       "Semaine européenne de la mobilité, Semaine européenne du développement durable, World Cleanup Day",
+       "Journée covoiturage ; ramassage de déchets autour du site"
+      ],
+      [
+       "Novembre",
+       "Semaine européenne pour l'emploi des personnes handicapées, Semaine européenne de la réduction des déchets",
+       "Témoignages et accueil de stagiaires ; défi zéro déchet"
+      ],
+      [
+       "Décembre",
+       "Sobriété énergétique en hiver",
+       "Campagne chauffage à 19 °C, extinction des équipements"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Déroulé minute par minute : atelier « Climat et énergie au bureau » (1 heure, 12 à 20 personnes)"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Minutes",
+      "Séquence",
+      "Ce que fait l'animateur",
+      "Matériel"
+     ],
+     "r": [
+      [
+       "0 à 5",
+       "Accueil",
+       "Tour de table express : « Votre prénom et un geste écologique que vous faites déjà. »",
+       "Badges, café"
+      ],
+      [
+       "5 à 15",
+       "Quiz des ordres de grandeur",
+       "5 questions à main levée, puis la réponse expliquée (voir ci-dessous)",
+       "Diaporama"
+      ],
+      [
+       "15 à 25",
+       "Nos chiffres",
+       "Présenter le bilan carbone de l'entreprise : 3 chiffres, 1 graphique",
+       "1 diapositive"
+      ],
+      [
+       "25 à 45",
+       "Atelier d'idées",
+       "Par 4 : chacun écrit 2 idées (3 min), mise en commun (7 min), chaque groupe retient ses 2 meilleures (10 min)",
+       "Post-it, feutres"
+      ],
+      [
+       "45 à 55",
+       "Vote et engagement",
+       "Chaque participant vote avec 3 gommettes ; les 3 idées gagnantes reçoivent un volontaire et une date",
+       "Gommettes, tableau"
+      ],
+      [
+       "55 à 60",
+       "Clôture",
+       "Rappeler les 3 engagements, annoncer la date du point d'étape, distribuer le questionnaire",
+       "Questionnaire papier ou QR code"
+      ]
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Les 5 questions du quiz, avec les réponses à expliquer",
+     "x": "1. Quelle est l'empreinte carbone moyenne d'un Français par an ? → Environ 9 à 10 tonnes de CO₂e selon les méthodes. Pour respecter l'Accord de Paris, il faudrait tendre vers 2 tonnes en 2050.\n2. Un aller-retour Paris – New York en avion, c'est combien par passager ? → Environ 2 tonnes, soit une année entière du budget visé en 2050.\n3. Qu'est-ce qui pèse le plus pour un ordinateur portable : sa fabrication ou son utilisation sur 4 ans en France ? → La fabrication, de très loin. Le geste le plus efficace est de le garder plus longtemps.\n4. En France, 1 kWh d'électricité émet-il plus ou moins que 1 kWh de gaz ? → Environ 4 fois moins. Remplacer une chaudière gaz par une pompe à chaleur réduit donc fortement les émissions.\n5. Dans notre entreprise, quel est le premier poste d'émissions ? → [Réponse tirée de votre bilan carbone.]"
+    },
+    {
+     "t": "script",
+     "titre": "Courriel d'invitation",
+     "x": "Objet : 1 heure pour réduire notre empreinte, avec vos idées\n\nBonjour à toutes et à tous,\n\nNotre premier bilan carbone est prêt. Le [date], de [heure] à [heure], en salle [nom], je vous propose un atelier d'une heure pour découvrir nos chiffres et choisir ensemble trois actions concrètes pour l'année.\n\nAucune connaissance préalable n'est nécessaire : venez avec votre curiosité et vos idées.\n\nInscription en répondant à ce message avant le [date]. Places limitées à 20.\n\nÀ bientôt,\n[Prénom Nom], [fonction]"
+    },
+    {
+     "t": "script",
+     "titre": "Questionnaire de fin d'atelier",
+     "x": "1. Note globale de l'atelier (de 1 à 5)\n2. Avez-vous appris quelque chose d'utile ? (oui, un peu, non)\n3. Quelle information vous a le plus marqué ?\n4. Quel geste allez-vous adopter dans le mois qui vient ?\n5. Sur quel autre sujet aimeriez-vous un atelier ?"
+    },
+    {
+     "t": "h",
+     "x": "Mesurer les résultats"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Indicateur",
+      "Comment le calculer",
+      "Cible raisonnable"
+     ],
+     "r": [
+      [
+       "Taux de participation",
+       "Participants / effectif invité",
+       "Au moins 30 % sur un an"
+      ],
+      [
+       "Satisfaction",
+       "Moyenne des notes du questionnaire",
+       "Au moins 4 sur 5"
+      ],
+      [
+       "Idées recueillies",
+       "Nombre d'idées par atelier",
+       "Au moins 10"
+      ],
+      [
+       "Actions mises en œuvre",
+       "Actions réalisées 3 mois après / actions choisies",
+       "Au moins 2 sur 3"
+      ],
+      [
+       "Effet mesurable",
+       "Exemple : consommation d'électricité du site avant et après la campagne",
+       "Baisse de 5 à 10 %"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "b",
+     "titre": "Exemple de résultat à présenter",
+     "x": "« Quatre ateliers, 68 participants (34 % de l'effectif), satisfaction de 4,4 sur 5, 52 idées. Trois actions retenues : extinction automatique des écrans la nuit, covoiturage avec places réservées, tri des biodéchets à la cafétéria. Trois mois plus tard, la consommation d'électricité du site a baissé de 7 % par rapport à la même période de l'année précédente. »"
+    }
+   ]
+  },
+  {
+   "id": "entretien",
+   "titre": "Réussir son entretien d'alternance ou d'embauche en RSE",
+   "pour": "Candidats",
+   "duree": "Préparation : 2 à 3 heures",
+   "resume": "Un pitch complet, douze questions fréquentes avec des réponses modèles rédigées, une étude de cas d'entretien résolue, les questions à poser au recruteur et les erreurs à éviter.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "La méthode STAR pour chaque exemple",
+     "x": "Situation (le contexte en une phrase), Tâche (ce qu'on attendait de vous), Action (ce que vous avez fait, vous, avec des verbes précis), Résultat (un chiffre ou un fait). Un recruteur retient les résultats, pas les intentions."
+    },
+    {
+     "t": "h",
+     "x": "Le pitch de présentation (90 secondes)"
+    },
+    {
+     "t": "script",
+     "titre": "Exemple de pitch, à adapter à votre parcours",
+     "x": "« Je m'appelle [Prénom Nom]. Je suis en Master Manager de la Stratégie Durable et RSE à [école], et je cherche une alternance de chargé de mission RSE.\n\nAvant ce master, j'ai [expérience : par exemple enseigné pendant quatre ans, ou travaillé dans la vente]. Cette expérience m'a appris à [compétence transférable : expliquer des notions complexes à des publics variés / comprendre les attentes des clients], ce qui est au cœur du métier RSE : embarquer des équipes qui n'ont pas la RSE comme priorité.\n\nDans le master, j'ai travaillé sur [deux sujets concrets : un bilan carbone complet d'une PME, une analyse de double matérialité]. J'ai notamment [résultat : identifié que 70 % des émissions venaient des achats].\n\nCe qui m'attire chez vous, c'est [élément précis sur l'entreprise : votre premier rapport de durabilité, votre démarche fournisseurs, votre secteur]. Je pense pouvoir vous aider rapidement sur [une mission de l'offre : la collecte des données, la sensibilisation]. »"
+    },
+    {
+     "t": "h",
+     "x": "Les questions fréquentes et des réponses modèles"
+    },
+    {
+     "t": "qa",
+     "x": [
+      {
+       "q": "Pourquoi la RSE ?",
+       "r": "« Parce que c'est le métier où l'on transforme concrètement la façon dont une entreprise fonctionne. Dans mon parcours, j'ai constaté que [expérience personnelle courte]. Ce qui me motive, c'est de relier des sujets comme le climat ou les conditions de travail aux décisions quotidiennes : un achat, un investissement, un recrutement. Et c'est un métier d'avenir : même avec la simplification de la CSRD, les clients, les banques et les marchés publics continuent de demander des preuves. »"
+      },
+      {
+       "q": "Qu'est-ce que la double matérialité ?",
+       "r": "« C'est le principe qui détermine ce qu'une entreprise publie dans son rapport de durabilité. Un sujet est matériel s'il l'est de l'un ou l'autre de deux points de vue : l'impact de l'entreprise sur les personnes et l'environnement, ou l'impact de ce sujet sur la performance financière de l'entreprise. Par exemple, pour un transporteur, les émissions des camions sont matérielles côté impact, et la hausse du prix du carburant et du carbone l'est côté financier. Concrètement, on liste les enjeux, on cote leurs impacts, risques et opportunités, on fixe des seuils, et on fait valider par la direction. »"
+      },
+      {
+       "q": "Quelles obligations RSE s'appliquent à notre entreprise ?",
+       "r": "« J'ai regardé avant l'entretien. Avec environ [effectif] salariés et [chiffre d'affaires], vous [êtes / n'êtes pas] dans le champ de la CSRD depuis l'Omnibus, qui fixe deux seuils cumulatifs de 1 000 salariés et 450 M€. En revanche, vous êtes concernés par [le BEGES si plus de 500 salariés, l'index de l'égalité, le décret tertiaire, le critère environnemental des marchés publics…]. Et vos clients [grands groupes] vous demanderont probablement des données au format VSME. »"
+      },
+      {
+       "q": "Vous arrivez demain : que faites-vous les trois premiers mois ?",
+       "r": "« Le premier mois, je comprends : un entretien de cadrage avec vous, puis une rencontre avec chaque direction, et je rassemble les documents existants : factures d'énergie, bilan social, liste des fournisseurs, questionnaires clients. Le deuxième mois, je pose un diagnostic : obligations, maturité, données disponibles, et trois actions rapides. Le troisième mois, je vous présente une feuille de route chiffrée et je lance la première action visible, par exemple le bilan carbone ou une campagne de sensibilisation. »"
+      },
+      {
+       "q": "Comment convaincriez-vous un directeur de production réticent ?",
+       "r": "« Je partirais de ses objectifs à lui, pas des miens. S'il est jugé sur ses coûts, je lui montre ce que coûtent ses consommations d'énergie et ses déchets, et ce qu'une action rapporterait. Par exemple, dans [expérience ou cas pratique], j'ai montré qu'une meilleure gestion des chutes économisait [X] € par an : la discussion a changé immédiatement. Ensuite, j'implique son équipe dans la solution et je lui laisse le mérite du résultat. »"
+      },
+      {
+       "q": "Comment calculeriez-vous notre bilan carbone ?",
+       "r": "« En cinq étapes. Je définis le périmètre et l'année de référence. Je collecte les données : factures d'énergie et cartes carburant pour les scopes 1 et 2, comptabilité des achats, déplacements, enquête domicile-travail et déchets pour le scope 3. J'applique les facteurs de la Base Empreinte de l'ADEME. J'analyse les postes principaux, en général trois ou quatre font 80 % du total. Et je construis un plan de réduction chiffré avec les directions concernées. »"
+      },
+      {
+       "q": "Donnez-moi un exemple de projet que vous avez mené.",
+       "r": "Structure STAR, par exemple : « Situation : dans mon précédent poste, [contexte]. Tâche : on m'a demandé de [objectif]. Action : j'ai d'abord [action 1], puis [action 2], en associant [personnes]. Résultat : [chiffre], et la démarche a été reprise par [suite]. Ce que j'en retiens pour la RSE : [leçon]. »"
+      },
+      {
+       "q": "Comment éviter le greenwashing dans notre communication ?",
+       "r": "« Trois règles. Toujours une preuve : chaque allégation repose sur une donnée vérifiable, avec son périmètre et sa date. Pas de termes vagues comme « écologique » ou « respectueux de l'environnement » : depuis le 27 septembre 2026, la directive européenne ECGT les interdit sans preuve reconnue, de même que la neutralité carbone fondée sur la compensation. Et une validation conjointe RSE et juridique avant chaque campagne. »"
+      },
+      {
+       "q": "Que pensez-vous de la simplification Omnibus ?",
+       "r": "« Elle a réduit fortement le nombre d'entreprises soumises à la CSRD et le nombre de données à publier, ce qui répond à une vraie difficulté des entreprises. Mais la pression reste forte : les clients, les banques, les marchés publics et les juges, comme on l'a vu avec le jugement TotalEnergies de juin 2026, attendent des preuves. Pour une entreprise, c'est l'occasion de se concentrer sur ce qui compte vraiment plutôt que de remplir des cases. »"
+      },
+      {
+       "q": "Quel est votre point faible ?",
+       "r": "« Je n'ai pas encore d'expérience longue en entreprise sur un poste RSE. Pour compenser, j'ai travaillé sur des cas réels pendant le master, comme [cas], et je m'appuie sur ma capacité à apprendre vite. Dans mon précédent poste, j'ai [exemple de montée en compétence rapide]. »"
+      },
+      {
+       "q": "Comment mesureriez-vous le succès de votre mission ?",
+       "r": "« Avec des indicateurs fixés dès le départ : par exemple le bilan carbone réalisé et partagé, le nombre de fournisseurs évalués, le taux de participation aux sensibilisations, la note EcoVadis, et surtout des résultats réels comme les tonnes de CO₂ ou les euros économisés. Je vous proposerais de les revoir ensemble chaque trimestre. »"
+      },
+      {
+       "q": "Pourquoi notre entreprise ?",
+       "r": "« Parce que [élément précis : vous publiez votre premier rapport, votre secteur a un fort impact, vous avez lancé telle démarche]. J'ai lu [document] et j'ai noté [point précis]. Je préfère contribuer là où il reste beaucoup à construire et où mon travail aura un effet visible. »"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "x": "L'étude de cas en entretien"
+    },
+    {
+     "t": "p",
+     "x": "Question fréquente : « Une PME agroalimentaire de 300 salariés veut lancer sa démarche RSE. Vous avez 10 minutes pour nous dire comment vous feriez. »"
+    },
+    {
+     "t": "script",
+     "titre": "Réponse structurée",
+     "x": "1. Je clarifie (1 min) : « Pourquoi maintenant ? Demande d'un client, d'une banque, une volonté du dirigeant ? Quel budget et quel délai ? »\n2. Je cadre les obligations (1 min) : sous les seuils de la CSRD et du BEGES, mais index de l'égalité, OETH, AGEC pour le gaspillage et les emballages, et demandes probables des enseignes de la grande distribution.\n3. Je cible les enjeux du secteur (2 min) : émissions agricoles en amont, emballages, gaspillage alimentaire, eau, conditions des éleveurs, santé et sécurité des salariés.\n4. Je propose une feuille de route (4 min) : mois 1 à 3, diagnostic et bilan carbone ; mois 4 à 6, priorités et objectifs validés par la direction ; mois 6 à 12, trois chantiers (emballages, gaspillage, fournisseurs) et un premier reporting au format VSME.\n5. Je conclus sur les résultats attendus (2 min) : économies sur les emballages et les déchets, réponse aux questionnaires des clients, référencement préservé."
+    },
+    {
+     "t": "h",
+     "x": "Les questions à poser au recruteur"
+    },
+    {
+     "t": "script",
+     "titre": "À choisir selon le temps",
+     "x": "- À qui serai-je rattaché, et comment la RSE est-elle portée au comité de direction ?\n- Quelles sont les deux priorités sur lesquelles vous attendez des résultats dans l'année ?\n- Quelles données existent déjà, et qui les détient ?\n- Quel budget est consacré à la RSE ?\n- Qu'est-ce qui a bien fonctionné, et moins bien, dans la démarche jusqu'ici ?\n- Comment se passe une semaine type pour la personne qui occupe ce poste ?\n- Quelles sont les prochaines étapes du recrutement ?"
+    },
+    {
+     "t": "h",
+     "x": "Les erreurs à éviter"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Réciter des définitions sans exemple concret.",
+      "Parler de la planète sans parler d'économies, de clients ou de risques.",
+      "Critiquer l'entreprise ou son secteur.",
+      "Annoncer des chiffres que vous ne pouvez pas justifier.",
+      "Arriver sans rien savoir de l'entreprise : lisez au minimum son site, son rapport et sa page « engagements »."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "collecte-donnees",
+   "titre": "Mener une campagne de collecte de données RSE",
+   "pour": "Chargé de mission ou de reporting",
+   "duree": "6 à 10 semaines",
+   "resume": "Organiser la collecte annuelle des indicateurs auprès des contributeurs, les relancer, contrôler les données et repérer les anomalies, avec les messages et un tableau d'anomalies type.",
+   "blocs": [
+    {
+     "t": "h",
+     "x": "Le déroulé"
+    },
+    {
+     "t": "steps",
+     "x": [
+      "Semaine 1 : mettre à jour la liste des indicateurs, leurs fiches (définition, unité, source) et la liste des contributeurs.",
+      "Semaine 2 : envoyer le fichier de collecte à chaque contributeur, avec la date limite et un créneau de questions.",
+      "Semaines 3 et 4 : répondre aux questions, relancer à J+7 et J+12.",
+      "Semaines 5 et 6 : contrôler les données, échanger sur les anomalies, corriger.",
+      "Semaine 7 : consolider, calculer, faire valider par chaque direction.",
+      "Semaines 8 à 10 : rédiger, faire relire, transmettre à l'auditeur si nécessaire."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Le fichier de collecte"
+    },
+    {
+     "t": "p",
+     "x": "Un onglet par contributeur, avec pour chaque indicateur : le nom, la définition en une phrase, l'unité, la valeur de l'an dernier, une case pour la nouvelle valeur, une case « source ou justificatif », et une case « commentaire » obligatoire si l'écart dépasse 10 %."
+    },
+    {
+     "t": "script",
+     "titre": "Relance à J+7",
+     "x": "Objet : Reporting RSE [année] : il reste [n] indicateurs à compléter\n\nBonjour [prénom],\n\nMerci pour les données déjà transmises. Il manque encore :\n- [indicateur 1]\n- [indicateur 2]\n\nLa date limite est le [date]. Si une donnée est difficile à obtenir, dites-le-moi : nous pouvons utiliser une estimation documentée cette année et l'améliorer l'an prochain.\n\nJe peux passer vous voir 10 minutes si c'est plus simple.\n\nMerci,\n[Prénom]"
+    },
+    {
+     "t": "h",
+     "x": "Les contrôles et les anomalies types"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Anomalie constatée",
+      "Cause fréquente",
+      "Ce que vous faites"
+     ],
+     "r": [
+      [
+       "Électricité du site B en baisse de 45 % par rapport à l'an dernier",
+       "Facture manquante (11 mois au lieu de 12) ou changement de fournisseur",
+       "Demander les 12 factures ; reconstituer le mois manquant"
+      ],
+      [
+       "Effectif total différent du chiffre de la paie",
+       "Intérimaires ou stagiaires comptés ou non",
+       "Revenir à la définition de l'indicateur ; aligner avec les RH"
+      ],
+      [
+       "Déchets en tonnes identiques à l'année précédente",
+       "Valeur recopiée",
+       "Demander le rapport annuel du prestataire"
+      ],
+      [
+       "Heures de formation multipliées par 3",
+       "Formations obligatoires de sécurité ajoutées cette année",
+       "Garder la donnée, mais l'expliquer en commentaire"
+      ],
+      [
+       "Unités incohérentes (MWh et kWh mélangés)",
+       "Saisie de plusieurs contributeurs",
+       "Imposer l'unité dans le fichier ; vérifier les ordres de grandeur"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "b",
+     "titre": "Résultat attendu",
+     "x": "Une base consolidée, chaque chiffre relié à un justificatif, chaque écart de plus de 10 % expliqué, et une note de méthode qui permet à quelqu'un d'autre de refaire le calcul. C'est exactement ce qu'un auditeur demandera."
+    }
+   ]
+  },
+  {
+   "id": "plan-action",
+   "titre": "Construire un plan d'action RSE chiffré",
+   "pour": "Chargé de mission, chef de projet, responsable RSE",
+   "duree": "2 à 4 semaines",
+   "resume": "Passer d'une liste d'idées à un plan priorisé, budgété et piloté : la matrice impact et effort, un exemple complet de plan, et la façon de le présenter pour obtenir un budget.",
+   "blocs": [
+    {
+     "t": "h",
+     "x": "1. Partir des enjeux prioritaires"
+    },
+    {
+     "t": "p",
+     "x": "Reprenez les résultats du diagnostic ou de l'analyse de matérialité : 4 à 6 enjeux au maximum. Pour chacun, listez toutes les actions possibles (atelier avec les directions concernées)."
+    },
+    {
+     "t": "h",
+     "x": "2. Prioriser avec la matrice impact et effort"
+    },
+    {
+     "t": "table",
+     "h": [
+      "",
+      "Effort faible",
+      "Effort élevé"
+     ],
+     "r": [
+      [
+       "Impact fort",
+       "À faire tout de suite (actions rapides)",
+       "Projets structurants : à planifier et budgéter"
+      ],
+      [
+       "Impact faible",
+       "À faire si l'occasion se présente",
+       "À abandonner"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "3. Rédiger le plan : exemple complet (PME industrielle, 250 salariés)"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Enjeu",
+      "Action",
+      "Responsable",
+      "Budget",
+      "Échéance",
+      "Indicateur",
+      "Cible"
+     ],
+     "r": [
+      [
+       "Climat",
+       "Récupérer la chaleur du four pour chauffer l'atelier",
+       "Directeur de production",
+       "45 000 € (économie 18 000 €/an)",
+       "T2 2027",
+       "MWh de gaz consommés",
+       "–15 % en 2027"
+      ],
+      [
+       "Climat",
+       "Bilan carbone complet scopes 1, 2, 3",
+       "Chargé de mission RSE",
+       "8 000 € d'accompagnement",
+       "T1 2027",
+       "Bilan publié",
+       "Fait"
+      ],
+      [
+       "Déchets",
+       "Tri à la source et filière de recyclage des chutes",
+       "Responsable logistique",
+       "5 000 €",
+       "T1 2027",
+       "Taux de valorisation",
+       "De 40 % à 75 %"
+      ],
+      [
+       "Achats",
+       "Charte et évaluation des 30 fournisseurs principaux",
+       "Responsable achats",
+       "Temps interne",
+       "T3 2027",
+       "% d'achats évalués",
+       "70 %"
+      ],
+      [
+       "Santé et sécurité",
+       "Prévention des troubles musculosquelettiques sur 3 postes",
+       "Responsable QHSE",
+       "12 000 €",
+       "T2 2027",
+       "Accidents avec arrêt",
+       "–30 %"
+      ],
+      [
+       "Engagement",
+       "4 ateliers de sensibilisation et un réseau d'ambassadeurs",
+       "Chargé de mission RSE",
+       "3 000 €",
+       "Toute l'année",
+       "% de salariés sensibilisés",
+       "50 %"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "4. Chiffrer pour convaincre"
+    },
+    {
+     "t": "p",
+     "x": "Pour chaque action importante, donnez trois chiffres : l'investissement, l'économie ou le gain annuel, et le temps de retour. Exemple : récupération de chaleur, 45 000 € investis, 18 000 € économisés par an, soit un retour en 2 ans et demi, et de l'ordre de 60 à 80 tonnes de CO₂ évitées par an selon le prix du gaz."
+    },
+    {
+     "t": "script",
+     "titre": "Présentation au comité de direction (extrait)",
+     "x": "« Le plan comporte six actions pour 73 000 € d'investissement la première année. Elles permettent d'économiser environ 25 000 € par an dès 2028, de réduire nos émissions directes d'environ 15 %, et de répondre aux deux questionnaires clients que nous n'avions pas pu remplir cette année. Je vous propose de valider le plan et un point d'avancement chaque trimestre en comité de direction. »"
+    },
+    {
+     "t": "h",
+     "x": "5. Piloter dans la durée"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Un tableau de suivi partagé : action, responsable, avancement en %, prochaine étape, alerte.",
+      "Un point mensuel de 30 minutes avec les responsables d'action.",
+      "Un point trimestriel en comité de direction, avec 3 indicateurs et une décision demandée.",
+      "Un bilan annuel publié, y compris les actions en retard et pourquoi."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ecovadis",
+   "titre": "Répondre à un questionnaire EcoVadis",
+   "pour": "Chargé de mission RSE, fournisseur d'un grand groupe",
+   "duree": "6 à 10 semaines",
+   "resume": "Comment fonctionne la notation, comment s'organiser, quels documents fournir thème par thème, comment rédiger les réponses, les erreurs qui font perdre des points, et comment construire le plan d'amélioration.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "Ce qu'il faut savoir avant de commencer",
+     "x": "EcoVadis évalue l'entreprise sur 4 thèmes : environnement, social et droits humains, éthique, achats responsables. La note va de 0 à 100. Les médailles sont attribuées selon le rang parmi les entreprises évaluées sur les 12 derniers mois : platine (top 1 %), or (top 5 %), argent (top 15 %), bronze (top 35 %), avec un minimum de 30 points dans chacun des 4 thèmes. La fiche d'évaluation est valable 12 mois. Ces règles évoluent : vérifiez-les sur le site d'EcoVadis au moment de répondre."
+    },
+    {
+     "t": "h",
+     "x": "Comment la note est construite"
+    },
+    {
+     "t": "p",
+     "x": "Dans chaque thème, l'analyste regarde trois choses, toujours à partir de preuves : les politiques (des engagements écrits et datés), les actions (ce qui est réellement mis en place) et les résultats (des indicateurs chiffrés et publiés). Une affirmation sans document compte peu ou pas. EcoVadis consulte aussi des sources publiques (presse, ONG, condamnations)."
+    },
+    {
+     "t": "h",
+     "x": "Le planning type"
+    },
+    {
+     "t": "steps",
+     "x": [
+      "Semaine 1 : ouvrir le compte, vérifier le périmètre (entité, effectif, secteur, pays), lire le questionnaire en entier et lister les questions par service.",
+      "Semaines 2 et 3 : rassembler les documents existants (voir le tableau ci-dessous) et repérer les manques.",
+      "Semaines 3 à 5 : produire les documents manquants les plus simples (politiques signées, indicateurs de l'année).",
+      "Semaines 5 et 6 : remplir le questionnaire, joindre une preuve à chaque réponse positive.",
+      "Semaine 7 : relecture croisée par un collègue, puis envoi.",
+      "Après la notation : lire la fiche, construire le plan d'amélioration, l'enregistrer dans la plateforme et le suivre jusqu'à la prochaine évaluation."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Les documents qui rapportent des points"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Thème",
+      "Politiques à fournir",
+      "Actions à prouver",
+      "Résultats à chiffrer"
+     ],
+     "r": [
+      [
+       "Environnement",
+       "Politique environnementale signée par la direction, avec objectifs",
+       "Bilan carbone, certification ISO 14001, actions d'économie d'énergie, tri des déchets",
+       "Émissions scopes 1, 2, 3 ; consommation d'énergie ; tonnes de déchets et taux de valorisation"
+      ],
+      [
+       "Social et droits humains",
+       "Politique santé-sécurité, politique égalité et diversité, engagement droits humains",
+       "Document unique d'évaluation des risques, plan de formation, accords d'entreprise, entretiens annuels",
+       "Taux de fréquence des accidents, heures de formation par salarié, index de l'égalité, turnover"
+      ],
+      [
+       "Éthique",
+       "Code de conduite, politique anticorruption, politique de protection des données",
+       "Dispositif d'alerte, formations anticorruption, cartographie des risques de corruption",
+       "Part des salariés formés, nombre d'alertes reçues et traitées"
+      ],
+      [
+       "Achats responsables",
+       "Charte achats responsables signée, clauses RSE dans les contrats",
+       "Évaluation des fournisseurs à risque, audits, critères RSE dans les appels d'offres",
+       "Part des fournisseurs ou des achats évalués, part de fournisseurs signataires de la charte"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Comment rédiger une bonne réponse"
+    },
+    {
+     "t": "script",
+     "titre": "Réponse faible ou réponse forte : exemple sur l'énergie",
+     "x": "Réponse faible :\n« Nous sommes très attentifs à notre consommation d'énergie et sensibilisons nos collaborateurs. »\n\nRéponse forte :\n« Notre politique environnementale (pièce jointe 3, signée par le directeur général le 12 février 2026) fixe un objectif de –15 % de consommation d'énergie entre 2024 et 2027. En 2026, nous avons remplacé l'éclairage de l'entrepôt par des LED (facture jointe, pièce 7) et installé une gestion technique du bâtiment. Résultat : 1 240 MWh consommés en 2026 contre 1 410 MWh en 2024, soit –12 % (relevés joints, pièce 8). »"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Chaque document porte un titre, une date, une signature ou un logo, et la mention de l'entité évaluée.",
+      "Nommez les fichiers clairement : « 03_Politique_environnementale_2026_signée.pdf ».",
+      "Surlignez dans le document la page ou le passage qui prouve la réponse : l'analyste lit vite.",
+      "Ne cochez jamais une case sans preuve : une incohérence fait perdre plus de points qu'une absence."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Les erreurs qui coûtent le plus"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Des politiques non signées ou non datées.",
+      "Des politiques sans aucun indicateur de résultat.",
+      "Des documents du groupe qui ne mentionnent pas l'entité évaluée.",
+      "Oublier le thème achats responsables, souvent le plus faible.",
+      "Répondre seul : les RH, les achats et le juridique doivent valider leurs parties."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Après la notation : le plan d'amélioration"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Point faible relevé",
+      "Action corrective",
+      "Responsable",
+      "Échéance",
+      "Preuve à fournir"
+     ],
+     "r": [
+      [
+       "Pas de mesure des émissions de scope 3",
+       "Bilan carbone complet",
+       "Chargé de mission RSE",
+       "6 mois",
+       "Rapport de bilan GES"
+      ],
+      [
+       "Pas de formation anticorruption",
+       "Module de 30 minutes pour les commerciaux et acheteurs",
+       "Juridique",
+       "3 mois",
+       "Liste d'émargement, taux de participation"
+      ],
+      [
+       "Fournisseurs non évalués",
+       "Questionnaire RSE aux 20 premiers fournisseurs",
+       "Achats",
+       "6 mois",
+       "Synthèse des évaluations"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "b",
+     "titre": "Résultat réaliste",
+     "x": "Une PME qui part de rien et applique cette méthode obtient souvent une première note entre 40 et 55. Le plan d'amélioration permet ensuite de gagner 5 à 15 points à l'évaluation suivante, en priorité sur les achats responsables et les indicateurs de résultat."
+    }
+   ]
+  },
+  {
+   "id": "plan-vigilance",
+   "titre": "Établir et faire vivre un plan de vigilance",
+   "pour": "Grandes entreprises concernées, et fournisseurs qui y contribuent",
+   "duree": "3 à 6 mois pour la première version",
+   "resume": "Les cinq mesures obligatoires, la méthode de cartographie des risques avec un exemple, le mécanisme d'alerte, le compte rendu annuel, et ce que les décisions de justice récentes imposent.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "Qui est concerné",
+     "x": "La loi du 27 mars 2017 vise les sociétés dont le siège est en France qui emploient au moins 5 000 salariés en France (avec leurs filiales) ou 10 000 dans le monde. Le plan couvre les atteintes graves aux droits humains, aux libertés fondamentales, à la santé et à la sécurité des personnes et à l'environnement, liées à l'activité de la société, de ses filiales, et de ses sous-traitants et fournisseurs en relation commerciale établie. Une PME est rarement soumise elle-même, mais ses grands clients lui demandent d'y contribuer."
+    },
+    {
+     "t": "h",
+     "x": "Les cinq mesures obligatoires"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Mesure",
+      "Ce qu'elle contient concrètement",
+      "Livrable"
+     ],
+     "r": [
+      [
+       "1. Cartographie des risques",
+       "Identifier, analyser et hiérarchiser les risques par activité, pays, filiale et catégorie d'achat",
+       "Matrice des risques avec cotation"
+      ],
+      [
+       "2. Évaluation régulière",
+       "Évaluer les filiales, sous-traitants et fournisseurs selon la cartographie",
+       "Questionnaires, audits, plateforme d'évaluation"
+      ],
+      [
+       "3. Actions d'atténuation",
+       "Actions adaptées pour réduire les risques et prévenir les atteintes graves",
+       "Plans d'action par risque, clauses contractuelles, plans de progrès"
+      ],
+      [
+       "4. Mécanisme d'alerte",
+       "Recueil des signalements, établi avec les organisations syndicales représentatives",
+       "Procédure, canal d'alerte accessible aux parties prenantes externes"
+      ],
+      [
+       "5. Dispositif de suivi",
+       "Suivre les mesures et évaluer leur efficacité",
+       "Indicateurs et compte rendu annuel"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Construire la cartographie des risques"
+    },
+    {
+     "t": "steps",
+     "x": [
+      "Lister les activités propres, les filiales, puis les catégories d'achat avec leurs pays d'origine.",
+      "Pour chaque ligne, identifier les risques : travail des enfants ou forcé, santé et sécurité, salaires, liberté syndicale, pollution, déforestation, eau, climat.",
+      "Coter la gravité (ampleur, nombre de personnes touchées, caractère irrémédiable) et la probabilité (pays, secteur, historique), de 1 à 4.",
+      "Croiser avec l'influence de l'entreprise (part de ses achats chez ce fournisseur) pour savoir où agir en premier.",
+      "Faire valider par un comité réunissant achats, RH, juridique, RSE et opérations."
+     ]
+    },
+    {
+     "t": "table",
+     "h": [
+      "Activité ou catégorie",
+      "Pays",
+      "Risque principal",
+      "Gravité",
+      "Probabilité",
+      "Priorité"
+     ],
+     "r": [
+      [
+       "Confection textile (rang 1)",
+       "Bangladesh",
+       "Sécurité des bâtiments, heures supplémentaires",
+       "4",
+       "3",
+       "Élevée"
+      ],
+      [
+       "Coton (rang 2 et plus)",
+       "Plusieurs pays d'Asie centrale",
+       "Travail forcé",
+       "4",
+       "3",
+       "Élevée"
+      ],
+      [
+       "Teinture",
+       "Chine",
+       "Rejets toxiques dans l'eau",
+       "3",
+       "3",
+       "Élevée"
+      ],
+      [
+       "Logistique",
+       "France",
+       "Accidents de la route, sous-traitance en cascade",
+       "3",
+       "2",
+       "Moyenne"
+      ],
+      [
+       "Sièges et bureaux",
+       "France",
+       "Risques psychosociaux",
+       "2",
+       "2",
+       "Faible"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Le mécanisme d'alerte : ce qui est attendu"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Il est élaboré en concertation avec les organisations syndicales représentatives : gardez la trace des réunions.",
+      "Il est accessible aux salariés et aux personnes extérieures (salariés des fournisseurs, riverains, ONG), dans leur langue.",
+      "Il garantit la confidentialité et protège contre les représailles.",
+      "Il prévoit un délai de réponse, un circuit de traitement et un retour à la personne qui alerte.",
+      "Il peut s'appuyer sur le dispositif d'alerte déjà exigé par la loi Sapin II, à condition d'en élargir le champ."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Ce que les juges exigent désormais"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Une cartographie précise et réellement hiérarchisée, pas une liste générique de risques : c'est le motif de la première condamnation au fond, en 2023, contre La Poste.",
+      "Des mesures adaptées à chaque risque identifié, et non des engagements généraux.",
+      "Le climat comme risque à part entière : le 25 juin 2026, le tribunal judiciaire de Paris a enjoint à TotalEnergies de compléter son plan pour y intégrer les émissions liées à l'usage de ses produits (scope 3), en lui laissant six mois. L'entreprise a fait appel.",
+      "Un suivi effectif des filiales à l'étranger : en mars 2026, Yves Rocher a été condamné pour un manquement concernant une filiale turque."
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Structure du compte rendu annuel (publié avec le rapport de gestion)",
+     "x": "1. Périmètre : sociétés couvertes, effectifs, nombre de fournisseurs concernés.\n2. Gouvernance : qui pilote le plan, comité, fréquence des réunions.\n3. Cartographie : méthode, principaux risques retenus et leur évolution par rapport à l'an dernier.\n4. Évaluations réalisées : nombre de fournisseurs évalués et audités, résultats, non-conformités graves.\n5. Actions d'atténuation : actions par risque prioritaire, avec leur avancement.\n6. Mécanisme d'alerte : nombre d'alertes reçues, typologie, délais de traitement, suites données.\n7. Indicateurs de suivi et efficacité : ce qui s'est amélioré, ce qui ne s'est pas amélioré, et pourquoi.\n8. Prochaines étapes de l'année suivante."
+    },
+    {
+     "t": "callout",
+     "k": "o",
+     "titre": "Le lien avec l'Europe",
+     "x": "La directive européenne CSDDD, modifiée par l'Omnibus, s'appliquera à partir du 26 juillet 2029 aux entreprises de plus de 5 000 salariés et 1,5 milliard d'euros de chiffre d'affaires. En France, la loi de 2017 continue de s'appliquer d'ici là."
+    }
+   ]
+  },
+  {
+   "id": "audit-iso14001",
+   "titre": "Préparer et réussir un audit ISO 14001",
+   "pour": "Responsable environnement, chargé de mission RSE ou QHSE",
+   "duree": "6 à 18 mois pour une première certification",
+   "resume": "La structure de la norme, la feuille de route vers la certification, l'analyse environnementale avec une méthode de cotation, les documents exigés, le déroulé de l'audit, les questions des auditeurs et la gestion des écarts.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "o",
+     "titre": "Nouvelle version de la norme",
+     "x": "Une version révisée, ISO 14001:2026, a été publiée le 15 avril 2026. Elle intègre l'amendement climat de 2024 et suit la structure commune des normes de management. Les certificats ISO 14001:2015 restent valables pendant une période de transition de trois ans, jusqu'en avril 2029. Une première certification se prépare désormais directement sur la version 2026."
+    },
+    {
+     "t": "h",
+     "x": "La structure de la norme en une page"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Chapitre",
+      "Ce qu'on vous demandera"
+     ],
+     "r": [
+      [
+       "4. Contexte",
+       "Enjeux internes et externes (dont le climat), attentes des parties intéressées, périmètre du système"
+      ],
+      [
+       "5. Leadership",
+       "Engagement de la direction, politique environnementale, rôles et responsabilités"
+      ],
+      [
+       "6. Planification",
+       "Aspects environnementaux significatifs, obligations de conformité, risques et opportunités, objectifs"
+      ],
+      [
+       "7. Support",
+       "Ressources, compétences, sensibilisation, communication, informations documentées"
+      ],
+      [
+       "8. Réalisation",
+       "Maîtrise opérationnelle, prise en compte du cycle de vie, préparation aux situations d'urgence"
+      ],
+      [
+       "9. Évaluation",
+       "Surveillance et mesure, évaluation de la conformité, audit interne, revue de direction"
+      ],
+      [
+       "10. Amélioration",
+       "Traitement des non-conformités, actions correctives, amélioration continue"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "La feuille de route vers la certification (exemple sur 12 mois)"
+    },
+    {
+     "t": "steps",
+     "x": [
+      "Mois 1 : engagement de la direction, nomination d'un pilote, diagnostic des écarts par rapport à la norme.",
+      "Mois 2 et 3 : analyse environnementale du site et registre des obligations de conformité.",
+      "Mois 4 : politique environnementale signée, objectifs et programme d'actions.",
+      "Mois 5 à 8 : procédures de maîtrise opérationnelle (déchets, produits chimiques, rejets, urgences), formation et sensibilisation.",
+      "Mois 9 : premier cycle de surveillance des indicateurs et évaluation de la conformité.",
+      "Mois 10 : audit interne complet, par une personne formée et indépendante du domaine audité.",
+      "Mois 11 : revue de direction, traitement des écarts de l'audit interne.",
+      "Mois 12 : audit de certification en deux étapes par un organisme accrédité."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "L'analyse environnementale : méthode de cotation"
+    },
+    {
+     "t": "p",
+     "x": "Pour chaque activité, listez les aspects (ce qui interagit avec l'environnement) et leurs impacts. Cotez ensuite chaque aspect, par exemple sur trois critères notés de 1 à 4 : gravité de l'impact, fréquence, maîtrise actuelle. Un aspect est significatif si la note (gravité × fréquence × maîtrise) dépasse un seuil que vous fixez et justifiez, ou s'il est encadré par la réglementation."
+    },
+    {
+     "t": "table",
+     "h": [
+      "Activité",
+      "Aspect",
+      "Impact",
+      "Gravité",
+      "Fréquence",
+      "Maîtrise",
+      "Note",
+      "Significatif ?"
+     ],
+     "r": [
+      [
+       "Mélange des peintures",
+       "Émissions de solvants (COV)",
+       "Pollution de l'air",
+       "3",
+       "4",
+       "3",
+       "36",
+       "Oui"
+      ],
+      [
+       "Nettoyage des cuves",
+       "Rejets d'eaux de lavage",
+       "Pollution de l'eau",
+       "4",
+       "3",
+       "2",
+       "24",
+       "Oui (réglementé)"
+      ],
+      [
+       "Stockage des produits",
+       "Déversement accidentel",
+       "Pollution des sols",
+       "4",
+       "1",
+       "2",
+       "8",
+       "Oui (situation d'urgence)"
+      ],
+      [
+       "Bureaux",
+       "Consommation de papier",
+       "Ressources",
+       "1",
+       "4",
+       "1",
+       "4",
+       "Non"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Les documents que l'auditeur demandera"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Le périmètre du système et la politique environnementale signée.",
+      "L'analyse environnementale et la liste des aspects significatifs.",
+      "Le registre des obligations de conformité et la dernière évaluation de conformité.",
+      "Les objectifs environnementaux, leurs indicateurs et le programme d'actions.",
+      "Les preuves de compétence et de sensibilisation (attestations, émargements).",
+      "Les procédures de maîtrise opérationnelle et de situation d'urgence, et le compte rendu du dernier exercice.",
+      "Les résultats de surveillance (consommations, déchets, rejets, mesures réglementaires).",
+      "Le rapport d'audit interne, le compte rendu de revue de direction, le registre des non-conformités et actions correctives."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Le déroulé de l'audit de certification"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Étape",
+      "Ce qui se passe",
+      "Comment vous préparer"
+     ],
+     "r": [
+      [
+       "Étape 1 (revue documentaire)",
+       "L'auditeur vérifie que le système est prêt : périmètre, analyse, conformité, audit interne, revue de direction",
+       "Envoyer un dossier complet et ordonné ; corriger les points relevés avant l'étape 2"
+      ],
+      [
+       "Étape 2 (audit sur site)",
+       "Entretiens, visite des installations, vérification des preuves par échantillonnage",
+       "Préparer le planning, informer les équipes, avoir les preuves accessibles"
+      ],
+      [
+       "Réunion de clôture",
+       "Présentation des constats : points forts, pistes d'amélioration, non-conformités",
+       "Prendre note, poser des questions, ne pas contester sans preuve"
+      ],
+      [
+       "Après l'audit",
+       "Plan d'actions correctives à transmettre dans le délai fixé",
+       "Analyser les causes, pas seulement corriger le symptôme"
+      ],
+      [
+       "Cycle de certification",
+       "Certificat valable 3 ans, avec un audit de surveillance chaque année, puis renouvellement",
+       "Faire vivre le système toute l'année"
+      ]
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Questions fréquentes des auditeurs, et ce qu'ils attendent",
+     "x": "« Quels sont vos aspects environnementaux significatifs, et comment les avez-vous déterminés ? » → Montrer la méthode de cotation et le seuil, pas seulement la liste.\n« Comment savez-vous que vous êtes conformes à la réglementation ? » → Montrer le registre, la date de la dernière évaluation et les preuves (rapports de mesures, autorisations).\n« Que fait un opérateur en cas de déversement ? » → L'auditeur le demandera à l'opérateur lui-même sur le terrain : formez les équipes et affichez la procédure.\n« Comment la direction suit-elle la performance environnementale ? » → Compte rendu de revue de direction avec indicateurs et décisions.\n« Comment prenez-vous en compte le changement climatique ? » → Enjeux climatiques identifiés dans le contexte (risques physiques sur le site, attentes des clients) et actions associées."
+    },
+    {
+     "t": "h",
+     "x": "Gérer les écarts"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Type de constat",
+      "Définition",
+      "Conséquence"
+     ],
+     "r": [
+      [
+       "Non-conformité majeure",
+       "Une exigence de la norme n'est pas du tout satisfaite, ou le système n'atteint pas son but (par exemple aucune évaluation de conformité)",
+       "La certification est suspendue jusqu'à correction vérifiée"
+      ],
+      [
+       "Non-conformité mineure",
+       "Un manquement ponctuel (par exemple une formation non tracée)",
+       "Plan d'actions correctives à fournir ; vérification à l'audit suivant"
+      ],
+      [
+       "Piste d'amélioration",
+       "Une recommandation",
+       "À examiner, sans obligation"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "b",
+     "titre": "Résultat attendu",
+     "x": "Une certification obtenue sans non-conformité majeure, et surtout un système utile : des consommations et des déchets suivis chaque mois, une conformité réglementaire maîtrisée, et des preuves directement réutilisables pour EcoVadis, les appels d'offres et le rapport de durabilité."
+    }
+   ]
+  },
+  {
+   "id": "achats-responsables",
+   "titre": "Mettre en place une politique d'achats responsables",
+   "pour": "Chargé de mission RSE, acheteur, responsable achats",
+   "duree": "6 à 12 mois",
+   "resume": "Du diagnostic des achats à l'évaluation des fournisseurs : cartographie des risques par catégorie, politique et charte, critères RSE dans les appels d'offres avec pondération, grille d'évaluation, plans de progrès et indicateurs.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "g",
+     "titre": "Pourquoi c'est prioritaire",
+     "x": "Les achats représentent souvent la plus grande part de l'empreinte carbone d'une entreprise et l'essentiel de ses risques sociaux. Ils pèsent dans EcoVadis, dans le plan de vigilance et dans le rapport de durabilité. Le référentiel de base est la norme ISO 20400 ; le label public « Relations fournisseurs et achats responsables » permet de faire reconnaître la démarche."
+    },
+    {
+     "t": "h",
+     "x": "Étape 1 : faire le diagnostic des achats"
+    },
+    {
+     "t": "steps",
+     "x": [
+      "Extraire de la comptabilité ou de l'ERP les dépenses des 12 derniers mois par fournisseur et par catégorie.",
+      "Classer les fournisseurs par montant : en général, 20 % des fournisseurs représentent 80 % des dépenses.",
+      "Regrouper en 10 à 20 catégories d'achat homogènes (matières, emballages, transport, informatique, prestations intellectuelles…).",
+      "Noter pour chaque catégorie les pays d'origine connus et le nombre de fournisseurs."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Étape 2 : cartographier les risques par catégorie"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Catégorie d'achat",
+      "Montant annuel",
+      "Risque environnemental",
+      "Risque social",
+      "Risque éthique",
+      "Priorité"
+     ],
+     "r": [
+      [
+       "Matières premières métalliques",
+       "4,2 M€",
+       "Élevé (carbone, mines)",
+       "Moyen",
+       "Moyen",
+       "1"
+      ],
+      [
+       "Emballages",
+       "0,9 M€",
+       "Moyen (plastique, déchets)",
+       "Faible",
+       "Faible",
+       "2"
+      ],
+      [
+       "Transport sous-traité",
+       "1,1 M€",
+       "Élevé (carbone)",
+       "Élevé (conditions des chauffeurs)",
+       "Faible",
+       "1"
+      ],
+      [
+       "Nettoyage et sécurité des sites",
+       "0,4 M€",
+       "Faible",
+       "Élevé (sous-traitance, travail dissimulé)",
+       "Moyen",
+       "2"
+      ],
+      [
+       "Informatique",
+       "0,6 M€",
+       "Moyen (fabrication)",
+       "Moyen (chaîne d'approvisionnement)",
+       "Faible",
+       "3"
+      ],
+      [
+       "Prestations intellectuelles",
+       "0,8 M€",
+       "Faible",
+       "Faible",
+       "Moyen (conflits d'intérêts)",
+       "3"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Étape 3 : écrire la politique et la charte"
+    },
+    {
+     "t": "p",
+     "x": "La politique, signée par la direction, fixe l'ambition et les engagements de l'entreprise. La charte, signée par les fournisseurs, fixe ce qu'on attend d'eux (un modèle est disponible dans la rubrique Modèles de rédaction). Les engagements de l'entreprise envers ses fournisseurs comptent autant : respect des délais de paiement (60 jours à compter de la facture, ou 45 jours fin de mois au maximum), relations équilibrées, prévention de la dépendance économique."
+    },
+    {
+     "t": "h",
+     "x": "Étape 4 : intégrer des critères RSE dans les appels d'offres"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Critère",
+      "Pondération (exemple : transport)",
+      "Ce que le fournisseur doit fournir"
+     ],
+     "r": [
+      [
+       "Prix",
+       "50 %",
+       "Offre financière"
+      ],
+      [
+       "Qualité de service",
+       "25 %",
+       "Taux de service, références"
+      ],
+      [
+       "Performance environnementale",
+       "15 %",
+       "Émissions par tonne-kilomètre, âge et motorisation de la flotte, plan de réduction"
+      ],
+      [
+       "Engagement social et éthique",
+       "10 %",
+       "Taux d'accidents, politique de sous-traitance, signature de la charte, note EcoVadis s'il en a une"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Une pondération RSE de 10 à 30 % est courante. En dessous de 10 %, elle ne change jamais le classement des offres. Les critères doivent être mesurables et annoncés à l'avance."
+    },
+    {
+     "t": "h",
+     "x": "Étape 5 : évaluer les fournisseurs"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Critère de la grille",
+      "Points",
+      "Preuve attendue"
+     ],
+     "r": [
+      [
+       "Politique environnementale et mesure carbone",
+       "20",
+       "Politique signée, bilan GES"
+      ],
+      [
+       "Santé et sécurité au travail",
+       "20",
+       "Taux d'accidents, certification ISO 45001 éventuelle"
+      ],
+      [
+       "Respect des droits humains et des conditions de travail",
+       "20",
+       "Politique, audits sociaux"
+      ],
+      [
+       "Éthique et anticorruption",
+       "15",
+       "Code de conduite, dispositif d'alerte"
+      ],
+      [
+       "Maîtrise de ses propres fournisseurs",
+       "15",
+       "Charte, évaluation de ses fournisseurs à risque"
+      ],
+      [
+       "Certifications et notations",
+       "10",
+       "ISO 14001, EcoVadis, labels"
+      ]
+     ]
+    },
+    {
+     "t": "ul",
+     "x": [
+      "80 à 100 : fournisseur à privilégier.",
+      "50 à 79 : acceptable, plan de progrès sur 1 ou 2 points.",
+      "Moins de 50 : plan de progrès obligatoire, audit si la catégorie est à risque élevé.",
+      "Pour les petits fournisseurs, limitez vos demandes au standard volontaire VSME : c'est la règle pour les entreprises soumises à la CSRD."
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Courriel aux fournisseurs pour lancer l'évaluation",
+     "x": "Objet : Notre démarche d'achats responsables : votre participation\n\nBonjour [prénom],\n\nNous engageons une démarche d'achats responsables avec nos principaux fournisseurs. Elle a un objectif simple : progresser ensemble sur l'environnement, les conditions de travail et l'éthique, et répondre aux attentes de nos propres clients.\n\nNous vous demandons :\n1. de signer notre charte achats responsables (jointe) ;\n2. de répondre au questionnaire joint (environ 30 minutes), avec les justificatifs dont vous disposez.\n\nDate souhaitée : le [date]. Vos réponses restent confidentielles et ne seront utilisées que dans le cadre de notre relation commerciale.\n\nJe suis disponible pour en parler par téléphone.\n\nMerci pour votre confiance,\n[Prénom Nom], [fonction]"
+    },
+    {
+     "t": "h",
+     "x": "Étape 6 : suivre avec des indicateurs"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Indicateur",
+      "Calcul",
+      "Cible à 2 ans (exemple)"
+     ],
+     "r": [
+      [
+       "Part des achats couverts par la charte",
+       "Achats des fournisseurs signataires / achats totaux",
+       "80 %"
+      ],
+      [
+       "Part des fournisseurs à risque évalués",
+       "Fournisseurs à risque évalués / fournisseurs à risque",
+       "100 %"
+      ],
+      [
+       "Part des appels d'offres avec critères RSE",
+       "Appels d'offres avec critères RSE / appels d'offres",
+       "100 % au-delà de 50 000 €"
+      ],
+      [
+       "Délai moyen de paiement",
+       "Moyenne des jours entre facture et paiement",
+       "Moins de 45 jours"
+      ],
+      [
+       "Fournisseurs en plan de progrès",
+       "Nombre et avancement",
+       "Suivi semestriel"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "index-egalite",
+   "titre": "Calculer et publier l'index de l'égalité professionnelle",
+   "pour": "RH et chargé de mission RSE, entreprises d'au moins 50 salariés",
+   "duree": "2 à 4 semaines, avant le 1er mars",
+   "resume": "Les indicateurs selon la taille de l'entreprise, la méthode de calcul de l'écart de rémunération avec un exemple complet, le barème officiel, la publication, les obligations selon la note, et une calculatrice.",
+   "blocs": [
+    {
+     "t": "callout",
+     "k": "o",
+     "titre": "À surveiller en 2027",
+     "x": "La directive européenne sur la transparence salariale devait être transposée avant le 7 juin 2026 ; le projet de loi français est en cours d'examen à l'automne 2026. L'index actuel devrait évoluer. Ce guide présente les règles en vigueur (décret n° 2019-15) : vérifiez toujours sur le site officiel Egapro au moment du calcul."
+    },
+    {
+     "t": "h",
+     "x": "Qui, quoi, quand"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Toutes les entreprises d'au moins 50 salariés.",
+      "Calcul sur une période de 12 mois consécutifs, le plus souvent l'année civile précédente.",
+      "Publication de la note globale et de chaque indicateur au plus tard le 1er mars, sur le site de l'entreprise, déclaration sur Egapro, et communication au CSE.",
+      "Pénalité possible jusqu'à 1 % de la masse salariale en cas de manquement."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Les indicateurs et leurs points"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Indicateur",
+      "50 à 250 salariés",
+      "Plus de 250 salariés"
+     ],
+     "r": [
+      [
+       "1. Écart de rémunération femmes-hommes",
+       "40 points",
+       "40 points"
+      ],
+      [
+       "2. Écart de taux d'augmentations individuelles",
+       "35 points (promotions incluses)",
+       "20 points"
+      ],
+      [
+       "3. Écart de taux de promotions",
+       "—",
+       "15 points"
+      ],
+      [
+       "4. Augmentations au retour de congé maternité",
+       "15 points",
+       "15 points"
+      ],
+      [
+       "5. Sexe sous-représenté parmi les 10 plus hautes rémunérations",
+       "10 points",
+       "10 points"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Calculer l'écart de rémunération, pas à pas"
+    },
+    {
+     "t": "steps",
+     "x": [
+      "Répartir les salariés en groupes : catégorie socioprofessionnelle (ouvriers, employés, techniciens et agents de maîtrise, ingénieurs et cadres) croisée avec 4 tranches d'âge (moins de 30 ans, 30-39, 40-49, 50 ans et plus).",
+      "Ne garder que les groupes comptant au moins 3 femmes et 3 hommes.",
+      "Pour chaque groupe : écart = (rémunération moyenne des hommes – rémunération moyenne des femmes) / rémunération moyenne des hommes, en équivalent temps plein.",
+      "Appliquer le seuil de pertinence de 5 % (2 % si les groupes sont faits par niveau ou coefficient) : un écart positif est diminué de 5 points sans descendre sous 0 ; un écart négatif est augmenté de 5 points sans dépasser 0.",
+      "Multiplier chaque écart ajusté par la part de l'effectif du groupe dans l'effectif retenu, puis additionner.",
+      "Arrondir à la première décimale, prendre la valeur absolue et appliquer le barème."
+     ]
+    },
+    {
+     "t": "table",
+     "h": [
+      "Groupe",
+      "Effectif (F + H)",
+      "Rém. moyenne H",
+      "Rém. moyenne F",
+      "Écart brut",
+      "Après seuil de 5 %",
+      "Part de l'effectif",
+      "Écart pondéré"
+     ],
+     "r": [
+      [
+       "Employés, moins de 30 ans",
+       "40",
+       "26 000 €",
+       "25 500 €",
+       "1,9 %",
+       "0 %",
+       "40 %",
+       "0"
+      ],
+      [
+       "Employés, 30-39 ans",
+       "30",
+       "29 000 €",
+       "27 000 €",
+       "6,9 %",
+       "1,9 %",
+       "30 %",
+       "0,57"
+      ],
+      [
+       "Cadres, 30-39 ans",
+       "20",
+       "52 000 €",
+       "45 000 €",
+       "13,5 %",
+       "8,5 %",
+       "20 %",
+       "1,69"
+      ],
+      [
+       "Cadres, 40-49 ans",
+       "10",
+       "61 000 €",
+       "58 000 €",
+       "4,9 %",
+       "0 %",
+       "10 %",
+       "0"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Écart global = 0 + 0,57 + 1,69 + 0 = 2,26 %, arrondi à 2,3 %. Selon le barème, un écart compris entre 2 et 3 % donne 37 points sur 40. Le groupe des cadres de 30 à 39 ans explique presque tout l'écart : c'est là qu'il faut agir."
+    },
+    {
+     "t": "h",
+     "x": "Le barème officiel de l'écart de rémunération"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Écart",
+      "Points",
+      "Écart",
+      "Points"
+     ],
+     "r": [
+      [
+       "0 %",
+       "40",
+       "plus de 10 à 11 %",
+       "25"
+      ],
+      [
+       "plus de 0 à 1 %",
+       "39",
+       "plus de 11 à 12 %",
+       "23"
+      ],
+      [
+       "plus de 1 à 2 %",
+       "38",
+       "plus de 12 à 13 %",
+       "21"
+      ],
+      [
+       "plus de 2 à 3 %",
+       "37",
+       "plus de 13 à 14 %",
+       "19"
+      ],
+      [
+       "plus de 3 à 4 %",
+       "36",
+       "plus de 14 à 15 %",
+       "17"
+      ],
+      [
+       "plus de 4 à 5 %",
+       "35",
+       "plus de 15 à 16 %",
+       "14"
+      ],
+      [
+       "plus de 5 à 6 %",
+       "34",
+       "plus de 16 à 17 %",
+       "11"
+      ],
+      [
+       "plus de 6 à 7 %",
+       "33",
+       "plus de 17 à 18 %",
+       "8"
+      ],
+      [
+       "plus de 7 à 8 %",
+       "31",
+       "plus de 18 à 19 %",
+       "5"
+      ],
+      [
+       "plus de 8 à 9 %",
+       "29",
+       "plus de 19 à 20 %",
+       "2"
+      ],
+      [
+       "plus de 9 à 10 %",
+       "27",
+       "plus de 20 %",
+       "0"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Les autres indicateurs"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Augmentations (50 à 250 salariés) : écart entre le pourcentage de femmes et d'hommes augmentés, en points de pourcentage ou en nombre de salariés, on retient le résultat le plus favorable. 2 ou moins : 35 points ; plus de 2 à 5 : 25 ; plus de 5 à 10 : 15 ; plus de 10 : 0.",
+      "Augmentations et promotions (plus de 250 salariés) : écart en points de pourcentage. Augmentations : 2 ou moins : 20 points ; plus de 2 à 5 : 10 ; plus de 5 à 10 : 5 ; plus de 10 : 0. Promotions : 15, 10, 5 ou 0 selon les mêmes tranches.",
+      "Retour de congé maternité : 15 points si toutes les salariées concernées ont été augmentées à leur retour lorsque des augmentations ont eu lieu pendant leur congé, 0 sinon.",
+      "Dix plus hautes rémunérations : 4 ou 5 personnes du sexe sous-représenté, 10 points ; 2 ou 3, 5 points ; 0 ou 1, 0 point.",
+      "Un indicateur peut être incalculable (par exemple aucun retour de congé maternité). Les points sont alors ramenés sur 100 ; si le total des points calculables est inférieur à 75, l'index ne peut pas être noté pour l'année."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Calculez votre index"
+    },
+    {
+     "t": "calcIndex"
+    },
+    {
+     "t": "h",
+     "x": "Ce que la note impose"
+    },
+    {
+     "t": "table",
+     "h": [
+      "Note",
+      "Obligation"
+     ],
+     "r": [
+      [
+       "85 points ou plus",
+       "Publication seulement"
+      ],
+      [
+       "Moins de 85 points",
+       "Fixer et publier des objectifs de progression pour chaque indicateur où la note maximale n'est pas atteinte"
+      ],
+      [
+       "Moins de 75 points",
+       "Mesures de correction et de rattrapage salarial, négociées ou décidées après consultation du CSE, publiées ; trois ans pour atteindre 75 points, sous peine de pénalité"
+      ]
+     ]
+    },
+    {
+     "t": "script",
+     "titre": "Texte de publication sur le site de l'entreprise",
+     "x": "Index de l'égalité professionnelle entre les femmes et les hommes – [année de publication]\n\nAu titre de l'année [année de calcul], [nom de l'entreprise] obtient la note de [note] sur 100.\n\nDétail des indicateurs :\n- Écart de rémunération : [x] / 40\n- Écart de taux d'augmentations individuelles : [x] / [20 ou 35]\n- Écart de taux de promotions : [x] / 15 (entreprises de plus de 250 salariés)\n- Augmentations au retour de congé maternité : [x] / 15\n- Sexe sous-représenté parmi les 10 plus hautes rémunérations : [x] / 10\n\n[Si la note est inférieure à 85 : nos objectifs de progression sont les suivants : …]"
+    }
+   ]
+  }
+ ]
+}

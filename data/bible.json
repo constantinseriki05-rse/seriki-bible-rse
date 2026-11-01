@@ -1,0 +1,1786 @@
+{
+ "faits": [
+  [
+   "Omnibus I publié et en vigueur",
+   "Directive (UE) 2026/470 publiée au Journal officiel de l'UE le 26 février 2026, en vigueur depuis le 18 mars 2026. Environ 80 % des entreprises initialement visées sortent de la CSRD.",
+   "UE"
+  ],
+  [
+   "CSRD : 1 000 salariés et 450 M€",
+   "Les deux critères sont désormais cumulatifs. Le critère du total de bilan disparaît. Les PME cotées sont exclues. Premier rapport des grandes entreprises sur l'exercice 2027, publié en 2028.",
+   "UE"
+  ],
+  [
+   "ESRS 2026 adoptés par la Commission",
+   "Règlement délégué (UE) 2026/1563, adopté le 3 juillet 2026 et publié au Journal officiel le 21 septembre 2026. Application aux exercices ouverts à partir du 1er janvier 2027 ; anticipation possible en 2026.",
+   "UE"
+  ],
+  [
+   "Le « value chain cap » protège les PME",
+   "Une entreprise soumise à la CSRD ne peut pas exiger de ses fournisseurs de moins de 1 000 salariés plus d'informations que celles prévues par la norme volontaire inspirée du VSME.",
+   "UE"
+  ],
+  [
+   "Devoir de vigilance européen recentré",
+   "CSDDD limitée aux entreprises de plus de 5 000 salariés et 1,5 Md€ de CA, application à partir du 26 juillet 2029. L'obligation d'adopter un plan de transition climatique a été retirée.",
+   "UE"
+  ],
+  [
+   "TotalEnergies condamné le 25 juin 2026",
+   "Le tribunal judiciaire de Paris a jugé son plan de vigilance incomplet faute d'intégrer les émissions de ses clients (scope 3) et lui a laissé six mois pour le compléter. L'entreprise a fait appel le 27 juillet 2026.",
+   "FR"
+  ],
+  [
+   "La France garde ses propres seuils",
+   "Le BEGES reste obligatoire dès 500 salariés, le devoir de vigilance français dès 5 000 salariés en France. Sortir de la CSRD ne libère pas de ces obligations.",
+   "FR"
+  ],
+  [
+   "Marchés publics : critère environnemental obligatoire",
+   "Depuis le 22 août 2026 (loi Climat et Résilience), chaque marché public doit intégrer un critère environnemental dans l'analyse des offres. Les PME candidates doivent prouver leurs engagements.",
+   "FR"
+  ]
+ ],
+ "fondamentaux": [
+  [
+   "Développement durable",
+   "Défini par le rapport Brundtland (1987) : « un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs ». Il articule trois piliers : économique, social, environnemental, auxquels on ajoute souvent la gouvernance."
+  ],
+  [
+   "Responsabilité sociétale des entreprises (RSE)",
+   "Selon la Commission européenne (2011), c'est « la responsabilité des entreprises vis-à-vis des effets qu'elles exercent sur la société ». Elle combine conformité réglementaire et démarche volontaire allant au-delà de la loi."
+  ],
+  [
+   "Parties prenantes",
+   "Toute personne ou groupe affecté par l'entreprise ou qui peut l'affecter : salariés, clients, fournisseurs, actionnaires, banques, riverains, ONG, pouvoirs publics, et la nature, représentée de façon indirecte. Leur dialogue est au cœur de la RSE."
+  ],
+  [
+   "Double matérialité",
+   "Concept européen central : un enjeu compte s'il a un impact significatif sur les personnes ou l'environnement (matérialité d'impact, « inside-out ») ou s'il crée des risques et opportunités financiers pour l'entreprise (matérialité financière, « outside-in »)."
+  ],
+  [
+   "Chaîne de valeur",
+   "Ensemble des activités en amont (matières premières, fournisseurs) et en aval (distribution, utilisation, fin de vie) liées aux produits et services. La CSRD et la vigilance obligent à regarder au-delà des murs de l'entreprise."
+  ],
+  [
+   "Limites planétaires",
+   "Cadre scientifique (Stockholm Resilience Centre, 2009) de neuf processus qui régulent la stabilité de la Terre : climat, biodiversité, cycles de l'azote et du phosphore, eau douce, sols, acidification des océans, aérosols, ozone, nouvelles entités. La majorité est déjà dépassée selon les mises à jour récentes."
+  ],
+  [
+   "Atténuation et adaptation",
+   "Atténuer, c'est réduire les émissions de gaz à effet de serre. S'adapter, c'est réduire la vulnérabilité de l'entreprise aux effets déjà inévitables du changement climatique (canicules, inondations, sécheresses). Le plan national d'adaptation retient une trajectoire de +4 °C en France à l'horizon 2100."
+  ],
+  [
+   "Greenwashing et social washing",
+   "Communication trompeuse qui exagère les bénéfices environnementaux ou sociaux. Il est désormais sanctionné : pratique commerciale trompeuse en France, interdiction des allégations génériques par la directive européenne ECGT à partir du 27 septembre 2026."
+  ]
+ ],
+ "iso26000": [
+  [
+   "Gouvernance de l'organisation",
+   "Processus de décision, éthique, transparence, rôle du conseil d'administration"
+  ],
+  [
+   "Droits de l'Homme",
+   "Vigilance, non-discrimination, groupes vulnérables, droits fondamentaux au travail"
+  ],
+  [
+   "Relations et conditions de travail",
+   "Emploi, santé et sécurité, dialogue social, formation, conditions de travail"
+  ],
+  [
+   "Environnement",
+   "Prévention de la pollution, ressources, climat, biodiversité"
+  ],
+  [
+   "Loyauté des pratiques",
+   "Lutte contre la corruption, concurrence loyale, achats responsables, respect de la propriété"
+  ],
+  [
+   "Questions relatives aux consommateurs",
+   "Information loyale, santé et sécurité des produits, données personnelles, consommation durable"
+  ],
+  [
+   "Communautés et développement local",
+   "Emploi local, investissement dans la société, éducation, culture"
+  ]
+ ],
+ "odd": [
+  "Pas de pauvreté",
+  "Faim « zéro »",
+  "Bonne santé et bien-être",
+  "Éducation de qualité",
+  "Égalité entre les sexes",
+  "Eau propre et assainissement",
+  "Énergie propre et abordable",
+  "Travail décent et croissance",
+  "Industrie, innovation, infrastructure",
+  "Inégalités réduites",
+  "Villes et communautés durables",
+  "Consommation et production responsables",
+  "Lutte contre le changement climatique",
+  "Vie aquatique",
+  "Vie terrestre",
+  "Paix, justice et institutions efficaces",
+  "Partenariats pour les objectifs"
+ ],
+ "timeline": [
+  [
+   "1953",
+   "monde",
+   "« Social Responsibilities of the Businessman »",
+   "Howard Bowen pose la première définition moderne de la responsabilité sociale de l'entrepreneur."
+  ],
+  [
+   "1972",
+   "monde",
+   "Conférence de Stockholm et rapport Meadows",
+   "Premier sommet de l'ONU sur l'environnement ; le Club de Rome publie « Les limites à la croissance »."
+  ],
+  [
+   "1987",
+   "monde",
+   "Rapport Brundtland",
+   "« Notre avenir à tous » définit le développement durable."
+  ],
+  [
+   "1992",
+   "monde",
+   "Sommet de la Terre à Rio",
+   "Conventions sur le climat (CCNUCC) et la biodiversité, Agenda 21."
+  ],
+  [
+   "1997",
+   "monde",
+   "Protocole de Kyoto",
+   "Premiers objectifs chiffrés de réduction des émissions pour les pays industrialisés. Création de la GRI la même année."
+  ],
+  [
+   "2000",
+   "monde",
+   "Pacte mondial de l'ONU",
+   "Dix principes pour les entreprises : droits humains, travail, environnement, anticorruption."
+  ],
+  [
+   "2001",
+   "fr",
+   "Loi NRE",
+   "Premier reporting social et environnemental obligatoire pour les sociétés cotées françaises."
+  ],
+  [
+   "2010",
+   "fr",
+   "Loi Grenelle II",
+   "Extension du reporting, création du bilan des émissions de gaz à effet de serre (BEGES) pour les entreprises de plus de 500 salariés."
+  ],
+  [
+   "2010",
+   "monde",
+   "Norme ISO 26000",
+   "Lignes directrices internationales de la responsabilité sociétale."
+  ],
+  [
+   "2011",
+   "monde",
+   "Principes directeurs de l'ONU",
+   "Les « principes Ruggie » : protéger, respecter, réparer en matière de droits humains."
+  ],
+  [
+   "2014",
+   "ue",
+   "Directive NFRD",
+   "Directive 2014/95/UE sur le reporting non financier des grandes entités d'intérêt public."
+  ],
+  [
+   "2015",
+   "monde",
+   "Accord de Paris et ODD",
+   "Limiter le réchauffement nettement sous 2 °C, si possible 1,5 °C. Adoption des 17 Objectifs de développement durable."
+  ],
+  [
+   "2015",
+   "fr",
+   "Loi de transition énergétique",
+   "Article 173 : premier reporting climat des investisseurs institutionnels."
+  ],
+  [
+   "2016",
+   "fr",
+   "Loi Sapin II",
+   "Programme anticorruption obligatoire et protection des lanceurs d'alerte."
+  ],
+  [
+   "2017",
+   "fr",
+   "Loi sur le devoir de vigilance",
+   "Plan de vigilance obligatoire pour les grandes sociétés françaises. Transposition de la NFRD : naissance de la DPEF."
+  ],
+  [
+   "2019",
+   "fr",
+   "Loi PACTE",
+   "Intérêt social élargi aux enjeux sociaux et environnementaux, raison d'être, société à mission."
+  ],
+  [
+   "2019",
+   "ue",
+   "Pacte vert pour l'Europe",
+   "Neutralité climatique en 2050 ; règlement SFDR sur la transparence de la finance durable."
+  ],
+  [
+   "2020",
+   "ue",
+   "Règlement Taxonomie",
+   "Classification des activités durables (règlement 2020/852)."
+  ],
+  [
+   "2020",
+   "fr",
+   "Loi AGEC",
+   "Anti-gaspillage et économie circulaire : interdiction de détruire les invendus, indice de réparabilité."
+  ],
+  [
+   "2021",
+   "fr",
+   "Loi Climat et Résilience",
+   "Environnement dans le dialogue social, critère environnemental dans les marchés publics, encadrement des allégations de neutralité carbone. Loi Rixain sur les femmes dirigeantes."
+  ],
+  [
+   "2021",
+   "ue",
+   "Loi européenne sur le climat",
+   "Objectif de –55 % d'émissions nettes en 2030 par rapport à 1990 (« Fit for 55 »)."
+  ],
+  [
+   "2022",
+   "ue",
+   "Directive CSRD",
+   "Directive 2022/2464 : le rapport de durabilité remplace la DPEF, double matérialité, audit obligatoire."
+  ],
+  [
+   "2023",
+   "ue",
+   "ESRS (premier jeu)",
+   "Règlement délégué 2023/2772 : douze normes de reporting. Directive sur la transparence salariale."
+  ],
+  [
+   "2023",
+   "fr",
+   "Ordonnance CSRD",
+   "Transposition française (6 décembre 2023) ; loi Industrie verte qui renforce les sanctions BEGES."
+  ],
+  [
+   "2024",
+   "ue",
+   "CSDDD et écoconception",
+   "Directive 2024/1760 sur le devoir de vigilance ; règlement ESPR ; directive ECGT contre l'écoblanchiment."
+  ],
+  [
+   "2025",
+   "ue",
+   "Paquet Omnibus I et « stop-the-clock »",
+   "Proposition de la Commission (26 février 2025), report de deux ans des vagues 2 et 3, accord politique le 9 décembre et vote du Parlement le 16 décembre 2025."
+  ],
+  [
+   "2025",
+   "fr",
+   "Loi DDADUE du 30 avril 2025",
+   "Transposition du report : les vagues 2 et 3 de la CSRD décalées de deux ans."
+  ],
+  [
+   "2026",
+   "ue",
+   "Omnibus en vigueur et ESRS 2026",
+   "Directive (UE) 2026/470 en vigueur le 18 mars ; taxonomie simplifiée publiée en janvier ; ESRS révisés et norme volontaire adoptés le 3 juillet."
+  ],
+  [
+   "2026",
+   "fr",
+   "Jugement TotalEnergies",
+   "Le 25 juin, première condamnation majeure au titre du devoir de vigilance climatique. Critère environnemental obligatoire dans les marchés publics depuis le 22 août."
+  ]
+ ],
+ "europe": [
+  {
+   "n": "CSRD : reporting de durabilité",
+   "tags": [
+    [
+     "En vigueur, version allégée"
+    ],
+    [
+     "Transposition FR avant 19/03/2027",
+     "o"
+    ]
+   ],
+   "d": "Publication d'un rapport de durabilité dans le rapport de gestion, selon les ESRS, après analyse de double matérialité, avec certification par un commissaire aux comptes ou un organisme tiers indépendant, au format électronique balisé.",
+   "qui": "Entreprises et groupes de plus de 1 000 salariés et plus de 450 M€ de CA net (cumulatif). Clause de réexamen prévue en 2031.",
+   "quand": "Exercice 2027 pour les grandes entreprises (publication 2028).",
+   "role": "Piloter la double matérialité, organiser la collecte, rédiger les narratifs, préparer l'audit.",
+   "ref": "Directive (UE) 2022/2464 modifiée par la directive (UE) 2026/470"
+  },
+  {
+   "n": "ESRS et norme volontaire VSME",
+   "tags": [
+    [
+     "Acte délégué du 03/07/2026"
+    ],
+    [
+     "Examen PE/Conseil",
+     "o"
+    ]
+   ],
+   "d": "Normes européennes qui fixent le contenu du rapport. Les ESRS 2026 réduisent d'environ 61 % les datapoints obligatoires. Une norme volontaire inspirée du VSME sert de référence aux PME et de plafond pour les demandes des grands clients.",
+   "qui": "ESRS : entreprises soumises à la CSRD. Norme volontaire : toute entreprise, en particulier les PME fournisseurs.",
+   "quand": "Exercices ouverts à compter du 1er janvier 2027 ; anticipation possible en 2026.",
+   "role": "Construire la table de correspondance entre sujets matériels et datapoints ; proposer le VSME aux PME.",
+   "ref": "Règlement délégué (UE) 2023/2772, révisé en 2026"
+  },
+  {
+   "n": "CSDDD : devoir de vigilance européen",
+   "tags": [
+    [
+     "Adoptée, modifiée par l'Omnibus"
+    ],
+    [
+     "Application 2029",
+     "o"
+    ]
+   ],
+   "d": "Identifier, prévenir, atténuer et faire cesser les incidences négatives sur les droits humains et l'environnement dans la chaîne d'activités, selon une approche fondée sur les risques. L'obligation de plan de transition climatique et le régime européen harmonisé de responsabilité civile ont été retirés.",
+   "qui": "Entreprises de plus de 5 000 salariés et plus de 1,5 Md€ de CA net mondial.",
+   "quand": "Transposition avant le 26 juillet 2028 ; application à partir du 26 juillet 2029.",
+   "role": "Cartographie des risques, évaluation des fournisseurs, mécanisme de plainte, suivi de l'efficacité.",
+   "ref": "Directive (UE) 2024/1760 modifiée par la directive (UE) 2026/470"
+  },
+  {
+   "n": "Taxonomie verte",
+   "tags": [
+    [
+     "Simplifiée en 2026"
+    ]
+   ],
+   "d": "Classification des activités économiques durables et publication de la part verte du CA, des CapEx et des OpEx. Seuil de matérialité de 10 % et tableaux de reporting allégés.",
+   "qui": "Entreprises dans le champ de la CSRD ; établissements financiers (avec reports d'indicateurs).",
+   "quand": "Nouvelles règles obligatoires pour l'exercice 2026, facultatives pour 2025.",
+   "role": "Cartographier les activités avec la finance, analyser les critères techniques et le DNSH.",
+   "ref": "Règlement (UE) 2020/852 et actes délégués 2021/2139, 2021/2178, 2023/2486"
+  },
+  {
+   "n": "SFDR : finance durable",
+   "tags": [
+    [
+     "En vigueur"
+    ],
+    [
+     "Révision en cours",
+     "o"
+    ]
+   ],
+   "d": "Transparence des acteurs financiers sur la durabilité de leurs produits (articles 6, 8 et 9) et sur les principales incidences négatives. La Commission a proposé fin 2025 une refonte autour de catégories de produits.",
+   "qui": "Gestionnaires d'actifs, assureurs, banques, conseillers financiers.",
+   "quand": "En vigueur depuis 2021 ; refonte en négociation.",
+   "role": "Fournir aux investisseurs des données ESG fiables ; répondre aux questionnaires des banques.",
+   "ref": "Règlement (UE) 2019/2088"
+  },
+  {
+   "n": "EUDR : produits sans déforestation",
+   "tags": [
+    [
+     "Application reportée",
+     "o"
+    ]
+   ],
+   "d": "Interdiction de mettre sur le marché européen du bois, cacao, café, soja, huile de palme, caoutchouc, bovins et dérivés issus de terres déboisées après 2020, avec géolocalisation des parcelles et déclaration de diligence.",
+   "qui": "Opérateurs et commerçants qui mettent ces produits sur le marché de l'UE.",
+   "quand": "Selon le dernier report : fin décembre 2026 pour les grandes et moyennes entreprises, mi-2027 pour les micro et petites. Vérifier le calendrier en vigueur.",
+   "role": "Cartographier les matières concernées, organiser la traçabilité avec les achats.",
+   "ref": "Règlement (UE) 2023/1115"
+  },
+  {
+   "n": "MACF (CBAM) : carbone aux frontières",
+   "tags": [
+    [
+     "Phase définitive depuis 2026"
+    ]
+   ],
+   "d": "Les importateurs d'acier, aluminium, ciment, engrais, électricité et hydrogène paient le prix du carbone incorporé, comme les producteurs européens. Un seuil de 50 tonnes par an exonère les petits importateurs.",
+   "qui": "Importateurs de ces produits au-delà du seuil annuel.",
+   "quand": "Phase définitive depuis le 1er janvier 2026 ; achat des certificats à partir de 2027.",
+   "role": "Recenser les importations concernées, collecter les émissions réelles auprès des fournisseurs hors UE.",
+   "ref": "Règlement (UE) 2023/956"
+  },
+  {
+   "n": "ECGT : fin des allégations vertes trompeuses",
+   "tags": [
+    [
+     "Applicable depuis le 27/09/2026"
+    ]
+   ],
+   "d": "Interdit les allégations environnementales génériques non prouvées (« écologique », « respectueux de l'environnement »), les allégations de neutralité fondées sur la compensation, et les labels de durabilité non fondés sur une certification ou une autorité publique.",
+   "qui": "Toutes les entreprises qui vendent aux consommateurs.",
+   "quand": "Application à partir du 27 septembre 2026.",
+   "role": "Auditer la communication, les emballages et les sites web avec le marketing et le juridique.",
+   "ref": "Directive (UE) 2024/825"
+  },
+  {
+   "n": "ESPR : écoconception et passeport produit",
+   "tags": [
+    [
+     "En vigueur, actes par produit"
+    ]
+   ],
+   "d": "Exigences d'écoconception (durabilité, réparabilité, contenu recyclé), passeport numérique des produits, interdiction de détruire les textiles et chaussures invendus pour les grandes entreprises.",
+   "qui": "Fabricants, importateurs et distributeurs, selon les catégories de produits.",
+   "quand": "Interdiction de destruction des invendus textiles depuis le 19 juillet 2026 pour les grandes entreprises ; actes délégués par produit à venir.",
+   "role": "Anticiper avec la R&D et la qualité, préparer les données du passeport.",
+   "ref": "Règlement (UE) 2024/1781"
+  },
+  {
+   "n": "PPWR : emballages",
+   "tags": [
+    [
+     "Applicable depuis le 12/08/2026"
+    ]
+   ],
+   "d": "Réduction des emballages, recyclabilité obligatoire, contenu recyclé minimal, objectifs de réemploi, restrictions sur certains emballages à usage unique.",
+   "qui": "Producteurs, importateurs et distributeurs d'emballages et de produits emballés.",
+   "quand": "Application générale depuis août 2026, obligations échelonnées jusqu'en 2040.",
+   "role": "Inventorier les emballages, piloter un plan de réduction avec les achats et le marketing.",
+   "ref": "Règlement (UE) 2025/40"
+  },
+  {
+   "n": "Transparence salariale",
+   "tags": [
+    [
+     "Transposition FR en retard",
+     "r"
+    ]
+   ],
+   "d": "Fourchette de salaire dans les offres, interdiction de demander l'historique de rémunération, droit à l'information des salariés, rapport sur les écarts de rémunération femmes-hommes, évaluation conjointe si l'écart dépasse 5 % sans justification.",
+   "qui": "Tous les employeurs ; rapports d'écarts à partir de 100 salariés (fréquence selon la taille).",
+   "quand": "Transposition due le 7 juin 2026 ; projet de loi français en cours d'examen à l'automne 2026.",
+   "role": "Travailler avec les RH sur la classification des emplois et les écarts de rémunération.",
+   "ref": "Directive (UE) 2023/970"
+  },
+  {
+   "n": "Notations ESG",
+   "tags": [
+    [
+     "Applicable depuis le 02/07/2026"
+    ]
+   ],
+   "d": "Les agences de notation ESG opérant dans l'UE doivent être agréées par l'ESMA et publier leurs méthodes. Les notations deviennent plus comparables et contestables.",
+   "qui": "Fournisseurs de notations ESG ; indirectement, les entreprises notées.",
+   "quand": "Application depuis le 2 juillet 2026.",
+   "role": "Suivre les notations de l'entreprise et demander la correction des erreurs.",
+   "ref": "Règlement (UE) 2024/3005"
+  }
+ ],
+ "france": [
+  {
+   "n": "Rapport de durabilité (Code de commerce)",
+   "tags": [
+    [
+     "En vigueur"
+    ],
+    [
+     "Mise à jour Omnibus attendue",
+     "o"
+    ]
+   ],
+   "d": "Le rapport de durabilité remplace la DPEF. Il est intégré au rapport de gestion et certifié par un commissaire aux comptes ou un organisme tiers indépendant accrédité. Sanctions en cas d'entrave à la mission de certification.",
+   "qui": "Grandes entreprises dans le champ de la CSRD, selon la rédaction en vigueur.",
+   "quand": "Loi de transposition de l'Omnibus attendue avant le 19 mars 2027.",
+   "role": "Suivre le texte de transposition et adapter le calendrier interne.",
+   "ref": "Art. L. 232-6-3 et s. du Code de commerce ; ordonnance n° 2023-1142 ; loi n° 2025-391"
+  },
+  {
+   "n": "Devoir de vigilance (loi de 2017)",
+   "tags": [
+    [
+     "En vigueur"
+    ],
+    [
+     "Jurisprudence 2026",
+     "r"
+    ]
+   ],
+   "d": "Plan de vigilance en cinq mesures : cartographie des risques, évaluation des filiales et fournisseurs, actions d'atténuation, mécanisme d'alerte construit avec les syndicats, dispositif de suivi. Le juge peut enjoindre de compléter le plan. Le 25 juin 2026, TotalEnergies a été condamné à y intégrer ses émissions de scope 3 (appel en cours).",
+   "qui": "Sociétés dont le siège est en France, d'au moins 5 000 salariés en France (avec filiales) ou 10 000 dans le monde.",
+   "quand": "Plan publié chaque année avec le rapport de gestion.",
+   "role": "Coordonner la cartographie et le plan avec juridique, achats et RH.",
+   "ref": "Loi n° 2017-399 ; art. L. 225-102-4 du Code de commerce"
+  },
+  {
+   "n": "Bilan des émissions de GES (BEGES)",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "Bilan des scopes 1, 2 et 3 significatif depuis 2023, assorti d'un plan de transition, publié sur la plateforme de l'ADEME. Amende jusqu'à 50 000 €, 100 000 € en cas de récidive.",
+   "qui": "Entreprises de plus de 500 salariés en métropole (250 outre-mer) ; collectivités de plus de 50 000 habitants ; établissements publics de plus de 250 agents.",
+   "quand": "Tous les 4 ans pour les entreprises, 3 ans pour le public.",
+   "role": "Piloter le bilan, choisir les facteurs d'émission, construire le plan de transition.",
+   "ref": "Art. L. 229-25 du Code de l'environnement ; décret n° 2022-982"
+  },
+  {
+   "n": "Loi PACTE et société à mission",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "Toute société est gérée en prenant en considération les enjeux sociaux et environnementaux. Possibilité d'inscrire une raison d'être dans les statuts, puis de devenir société à mission avec un comité de mission et une vérification par un organisme tiers indépendant.",
+   "qui": "Toutes les sociétés (intérêt social) ; volontaire pour la raison d'être et la mission.",
+   "quand": "Depuis 2019.",
+   "role": "Accompagner la formulation de la raison d'être, animer le comité de mission.",
+   "ref": "Art. 1833 et 1835 du Code civil ; loi n° 2019-486"
+  },
+  {
+   "n": "Loi AGEC (anti-gaspillage)",
+   "tags": [
+    [
+     "En vigueur, échéances jusqu'en 2040"
+    ]
+   ],
+   "d": "Interdiction de détruire les invendus non alimentaires, sortie progressive du plastique jetable, filières REP élargies, indice de réparabilité puis de durabilité, information du consommateur sur les qualités environnementales.",
+   "qui": "Producteurs, distributeurs, restauration selon les mesures.",
+   "quand": "Échéances successives depuis 2021.",
+   "role": "Suivre les obligations produit, piloter le don des invendus et la réduction des emballages.",
+   "ref": "Loi n° 2020-105"
+  },
+  {
+   "n": "Loi Climat et Résilience",
+   "tags": [
+    [
+     "En vigueur"
+    ],
+    [
+     "Marchés publics 22/08/2026",
+     "o"
+    ]
+   ],
+   "d": "Le CSE est informé des conséquences environnementales des décisions et la BDESE comporte un volet environnemental. Les marchés publics doivent comporter un critère environnemental. Les allégations « neutre en carbone » exigent un bilan GES, une trajectoire et une compensation documentée.",
+   "qui": "Entreprises d'au moins 50 salariés (dialogue social) ; candidats aux marchés publics ; annonceurs.",
+   "quand": "Critère environnemental obligatoire dans tous les marchés publics depuis le 22 août 2026.",
+   "role": "Préparer les mémoires techniques environnementaux, former les élus du CSE.",
+   "ref": "Loi n° 2021-1104"
+  },
+  {
+   "n": "Décret tertiaire (Éco Énergie Tertiaire)",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "Réduction de la consommation d'énergie finale des bâtiments tertiaires : –40 % en 2030, –50 % en 2040, –60 % en 2050 (par rapport à une année de référence depuis 2010), ou atteinte d'un seuil en valeur absolue.",
+   "qui": "Propriétaires et occupants de bâtiments ou ensembles tertiaires d'au moins 1 000 m².",
+   "quand": "Déclaration annuelle des consommations sur la plateforme OPERAT.",
+   "role": "Collecter les consommations avec les services généraux, bâtir le plan d'actions énergie.",
+   "ref": "Art. L. 174-1 et R. 174-22 et s. du Code de la construction et de l'habitation"
+  },
+  {
+   "n": "Audit énergétique et système de management",
+   "tags": [
+    [
+     "Critère de consommation",
+     "o"
+    ]
+   ],
+   "d": "Depuis la transposition de la directive efficacité énergétique, l'obligation dépend de la consommation et non plus de la taille : audit énergétique au-delà d'environ 2,75 GWh par an, système de management de l'énergie (type ISO 50001) au-delà d'environ 23,6 GWh.",
+   "qui": "Entreprises dépassant ces seuils de consommation.",
+   "quand": "Échéances 2026-2027 ; vérifier les dates applicables.",
+   "role": "Faire réaliser l'audit, suivre le plan d'économies d'énergie.",
+   "ref": "Code de l'énergie, art. L. 233-1 et s. ; loi n° 2025-391"
+  },
+  {
+   "n": "Égalité professionnelle",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "Index de l'égalité femmes-hommes publié chaque année au plus tard le 1er mars. Loi Rixain : au moins 30 % de femmes parmi les cadres dirigeants et membres des instances dirigeantes depuis mars 2026, 40 % en 2029. Quota de 40 % dans les conseils d'administration (loi Copé-Zimmermann). L'index doit évoluer avec la transposition de la directive sur la transparence salariale.",
+   "qui": "Index : 50 salariés et plus. Rixain : 1 000 salariés et plus. Conseils : grandes sociétés.",
+   "quand": "Annuel.",
+   "role": "Travailler avec les RH sur les écarts et le plan d'action.",
+   "ref": "Art. L. 1142-8 et s. du Code du travail ; loi n° 2021-1774"
+  },
+  {
+   "n": "Emploi des travailleurs handicapés (OETH)",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "6 % de l'effectif en travailleurs handicapés, déclaré via la DSN. À défaut, contribution financière à l'Agefiph, réduite par la sous-traitance au secteur protégé et adapté.",
+   "qui": "Entreprises de 20 salariés et plus.",
+   "quand": "Déclaration annuelle.",
+   "role": "Développer les achats au secteur protégé, sensibiliser, suivre le taux.",
+   "ref": "Art. L. 5212-1 et s. du Code du travail"
+  },
+  {
+   "n": "Loi Sapin II (anticorruption)",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "Huit mesures : code de conduite, dispositif d'alerte, cartographie des risques de corruption, évaluation des tiers, contrôles comptables, formation, régime disciplinaire, contrôle interne. Contrôles de l'Agence française anticorruption.",
+   "qui": "Sociétés d'au moins 500 salariés et plus de 100 M€ de CA (ou groupes équivalents).",
+   "quand": "Permanent.",
+   "role": "Contribuer à la cartographie des risques et à l'évaluation des fournisseurs (pilier gouvernance).",
+   "ref": "Loi n° 2016-1691, art. 17"
+  },
+  {
+   "n": "Mobilité (loi LOM)",
+   "tags": [
+    [
+     "En vigueur"
+    ]
+   ],
+   "d": "Les mesures visant à améliorer la mobilité des salariés entre domicile et travail font partie de la négociation annuelle ; à défaut d'accord, plan de mobilité employeur. Forfait mobilités durables possible.",
+   "qui": "Entreprises d'au moins 50 salariés sur un même site.",
+   "quand": "Négociation annuelle obligatoire.",
+   "role": "Mesurer les trajets (scope 3), proposer covoiturage, vélo, télétravail.",
+   "ref": "Loi n° 2019-1428 ; art. L. 2242-17 du Code du travail"
+  },
+  {
+   "n": "Article 29 de la loi Énergie-Climat",
+   "tags": [
+    [
+     "Secteur financier"
+    ]
+   ],
+   "d": "Les investisseurs publient leur stratégie d'alignement sur l'Accord de Paris et sur les objectifs de biodiversité, et la prise en compte des risques de durabilité.",
+   "qui": "Sociétés de gestion, assureurs, mutuelles, institutions de prévoyance au-delà de certains seuils.",
+   "quand": "Rapport annuel.",
+   "role": "Fournir les indicateurs climat et biodiversité des portefeuilles.",
+   "ref": "Loi n° 2019-1147 ; art. L. 533-22-1 du Code monétaire et financier"
+  }
+ ],
+ "esrs": [
+  [
+   "ESRS 1",
+   "Exigences générales",
+   "Principes de préparation : double matérialité, chaîne de valeur, horizons de temps, estimations, dispositions transitoires. Ne contient pas d'exigence de publication propre."
+  ],
+  [
+   "ESRS 2",
+   "Informations générales",
+   "Toujours obligatoire : gouvernance (rôle des organes, rémunération liée), stratégie et modèle d'affaires, processus de matérialité et liste des impacts, risques et opportunités, exigences minimales sur politiques, actions, métriques et cibles."
+  ],
+  [
+   "ESRS E1",
+   "Changement climatique",
+   "Plan de transition (avec mention s'il n'est pas compatible avec 1,5 °C), émissions des scopes 1, 2 et 3, consommation d'énergie, cibles, risques physiques et de transition, prix interne du carbone."
+  ],
+  [
+   "ESRS E2",
+   "Pollution",
+   "Émissions dans l'air, l'eau et le sol, substances préoccupantes et très préoccupantes, microplastiques."
+  ],
+  [
+   "ESRS E3",
+   "Eau et ressources marines",
+   "Consommation d'eau, prélèvements dans les zones de stress hydrique, rejets."
+  ],
+  [
+   "ESRS E4",
+   "Biodiversité et écosystèmes",
+   "Sites proches de zones sensibles, pressions sur la biodiversité, plan de transition biodiversité."
+  ],
+  [
+   "ESRS E5",
+   "Ressources et économie circulaire",
+   "Flux entrants et sortants de matières, déchets, conception circulaire des produits."
+  ],
+  [
+   "ESRS S1",
+   "Effectifs de l'entreprise",
+   "Effectifs, conditions de travail, santé et sécurité, salaires adéquats, égalité, écart de rémunération, formation, dialogue social."
+  ],
+  [
+   "ESRS S2",
+   "Travailleurs de la chaîne de valeur",
+   "Conditions de travail chez les fournisseurs et sous-traitants, travail forcé, travail des enfants."
+  ],
+  [
+   "ESRS S3",
+   "Communautés affectées",
+   "Impacts sur les riverains et les peuples autochtones, droits fonciers, accès à l'eau."
+  ],
+  [
+   "ESRS S4",
+   "Consommateurs et utilisateurs finaux",
+   "Sécurité des produits, données personnelles, information loyale, inclusion."
+  ],
+  [
+   "ESRS G1",
+   "Conduite des affaires",
+   "Culture d'entreprise, lanceurs d'alerte, corruption, lobbying, délais de paiement des fournisseurs."
+  ]
+ ],
+ "doubleMaterialite": [
+  "<strong>Comprendre le contexte</strong> : activités, implantations, chaîne de valeur amont et aval, attentes des parties prenantes, études et risques existants (cartographie des risques, vigilance, bilan carbone).",
+  "<strong>Dresser la liste longue des enjeux</strong> à partir de la liste des sujets de durabilité des ESRS, complétée par les enjeux propres au secteur.",
+  "<strong>Identifier les impacts, risques et opportunités (IRO)</strong> pour chaque enjeu : impact réel ou potentiel, positif ou négatif, dans les opérations propres ou la chaîne de valeur.",
+  "<strong>Coter la matérialité d'impact</strong> : gravité (ampleur, étendue, caractère irrémédiable) et probabilité pour les impacts potentiels. Pour les droits humains, la gravité l'emporte sur la probabilité.",
+  "<strong>Coter la matérialité financière</strong> : probabilité et ampleur des effets financiers (CA, coûts, accès au financement, valeur des actifs) à court, moyen et long terme, avec la direction financière et la gestion des risques.",
+  "<strong>Fixer des seuils</strong> justifiés et documentés, puis consolider en matrice ou en liste des sujets matériels.",
+  "<strong>Faire valider</strong> par la direction générale et le comité d'audit ; consulter les parties prenantes clés (CSE, clients, fournisseurs, investisseurs).",
+  "<strong>Relier aux exigences de publication</strong> : table de correspondance sujets matériels → ESRS → datapoints → contributeurs → sources de données. Tout documenter pour l'auditeur."
+ ],
+ "csrdRegles": [
+  [
+   "Assurance limitée",
+   "Le rapport fait l'objet d'une assurance limitée par un commissaire aux comptes ou un organisme tiers indépendant. L'Omnibus a supprimé le passage prévu à l'assurance raisonnable. Des normes européennes d'assurance sont attendues."
+  ],
+  [
+   "Plafond chaîne de valeur",
+   "Pour les informations de la chaîne de valeur, les entreprises ne peuvent pas exiger des partenaires de moins de 1 000 salariés plus que la norme volontaire. Si une information manque, expliquer les efforts faits pour l'obtenir pendant les trois premières années."
+  ],
+  [
+   "Phase-in",
+   "Allègements progressifs : informations sur les effets financiers anticipés d'abord qualitatives, publication différée de certaines normes (E4, S2, S3, S4) selon la situation de l'entreprise."
+  ],
+  [
+   "Format numérique",
+   "Le rapport est publié au format électronique européen (XHTML) avec balisage selon la taxonomie numérique XBRL des ESRS."
+  ],
+  [
+   "Gouvernance",
+   "Le comité d'audit suit le processus d'élaboration du rapport et la mission de certification. Les administrateurs doivent être formés aux enjeux de durabilité."
+  ],
+  [
+   "Omission",
+   "Possibilité d'omettre, sous conditions, des informations sur des développements imminents ou des négociations en cours, ou dont la publication nuirait gravement à la position commerciale."
+  ]
+ ],
+ "taxoObjectifs": [
+  "Atténuation du changement climatique",
+  "Adaptation au changement climatique",
+  "Utilisation durable et protection de l'eau et des ressources marines",
+  "Transition vers une économie circulaire",
+  "Prévention et réduction de la pollution",
+  "Protection et restauration de la biodiversité et des écosystèmes"
+ ],
+ "kpi": [
+  [
+   "Environnement",
+   "pill",
+   [
+    "Émissions GES scopes 1, 2, 3 (tCO₂e) et intensité par M€ de CA",
+    "Consommation d'énergie (MWh) et part renouvelable",
+    "Consommation d'eau (m³), dont zones de stress hydrique",
+    "Déchets produits (t) et taux de valorisation",
+    "Part des achats avec critères environnementaux"
+   ]
+  ],
+  [
+   "Social",
+   "pill b",
+   [
+    "Effectif, répartition par sexe, âge, contrat",
+    "Taux de fréquence et de gravité des accidents du travail",
+    "Heures de formation par salarié",
+    "Écart de rémunération femmes-hommes",
+    "Taux de rotation et d'absentéisme",
+    "Taux d'emploi de personnes handicapées"
+   ]
+  ],
+  [
+   "Gouvernance",
+   "pill o",
+   [
+    "Part de femmes au conseil et au comité de direction",
+    "Part de la rémunération variable liée à des critères RSE",
+    "Salariés formés à l'anticorruption",
+    "Alertes reçues et traitées",
+    "Délais de paiement fournisseurs (jours)",
+    "Fournisseurs évalués sur des critères RSE (%)"
+   ]
+  ]
+ ],
+ "normes": [
+  [
+   "ISO 26000",
+   "Lignes directrices",
+   "Cadre général de la responsabilité sociétale, 7 questions centrales",
+   "Toute organisation",
+   "Management"
+  ],
+  [
+   "ISO 14001",
+   "Norme certifiable",
+   "Système de management environnemental",
+   "Industrie, logistique, BTP, services",
+   "Management"
+  ],
+  [
+   "ISO 45001",
+   "Norme certifiable",
+   "Santé et sécurité au travail",
+   "Secteurs à risques",
+   "Management"
+  ],
+  [
+   "ISO 50001",
+   "Norme certifiable",
+   "Management de l'énergie (exigé au-delà d'un seuil de consommation)",
+   "Gros consommateurs d'énergie",
+   "Management"
+  ],
+  [
+   "ISO 20400",
+   "Lignes directrices",
+   "Achats responsables",
+   "Directions achats",
+   "Management"
+  ],
+  [
+   "ISO 14064 / ISO 14067",
+   "Norme",
+   "Quantification des GES d'une organisation / empreinte carbone d'un produit",
+   "Toute organisation",
+   "Carbone"
+  ],
+  [
+   "GHG Protocol",
+   "Standard international",
+   "Référence mondiale de comptabilité carbone (scopes 1, 2, 3)",
+   "Toute organisation",
+   "Carbone"
+  ],
+  [
+   "Bilan Carbone® (ABC)",
+   "Méthode française",
+   "Méthode de l'Association pour la transition bas carbone, compatible BEGES et GHG Protocol",
+   "Organisations françaises",
+   "Carbone"
+  ],
+  [
+   "SBTi",
+   "Initiative de validation",
+   "Validation scientifique d'objectifs de réduction alignés 1,5 °C, court terme et net zéro",
+   "Entreprises, demandé par les grands clients",
+   "Carbone"
+  ],
+  [
+   "ACT (ADEME-CDP)",
+   "Méthode d'évaluation",
+   "Évaluation de la stratégie de transition bas carbone",
+   "Entreprises",
+   "Carbone"
+  ],
+  [
+   "GRI Standards",
+   "Standard de reporting",
+   "Reporting d'impact le plus utilisé au monde, interopérable avec les ESRS",
+   "Toute organisation",
+   "Reporting"
+  ],
+  [
+   "IFRS S1 et S2 (ISSB)",
+   "Standard de reporting",
+   "Information financière liée à la durabilité et au climat, pour les investisseurs ; intègre les recommandations TCFD",
+   "Groupes internationaux, cotés hors UE",
+   "Reporting"
+  ],
+  [
+   "VSME",
+   "Standard volontaire européen",
+   "Reporting simplifié des PME, référence pour répondre aux grands clients",
+   "PME et ETI",
+   "Reporting"
+  ],
+  [
+   "TNFD",
+   "Cadre de reporting",
+   "Risques et dépendances liés à la nature et à la biodiversité",
+   "Entreprises et finance",
+   "Reporting"
+  ],
+  [
+   "CDP",
+   "Questionnaire et notation",
+   "Questionnaires climat, eau, forêts ; notation de A à D-",
+   "Grands groupes et fournisseurs sollicités",
+   "Notation"
+  ],
+  [
+   "EcoVadis",
+   "Notation fournisseurs",
+   "Évaluation RSE en 4 thèmes avec médailles ; très demandée par les donneurs d'ordre",
+   "Fournisseurs de grands groupes",
+   "Notation"
+  ],
+  [
+   "B Corp",
+   "Certification",
+   "Certification d'impact global (B Lab), exigences renforcées depuis 2025",
+   "Entreprises à mission, PME",
+   "Label"
+  ],
+  [
+   "Label Engagé RSE (AFNOR)",
+   "Label",
+   "Évaluation de maturité RSE fondée sur l'ISO 26000",
+   "Entreprises françaises de toute taille",
+   "Label"
+  ],
+  [
+   "Label Lucie 26000",
+   "Label",
+   "Démarche RSE alignée ISO 26000 avec engagements de progrès",
+   "PME et ETI",
+   "Label"
+  ],
+  [
+   "Société à mission",
+   "Statut juridique",
+   "Raison d'être et objectifs sociaux et environnementaux inscrits dans les statuts, vérifiés par un tiers",
+   "Toute société",
+   "Label"
+  ],
+  [
+   "Label Numérique Responsable",
+   "Label",
+   "Démarche de sobriété et d'inclusion numériques",
+   "Entreprises du numérique et DSI",
+   "Label"
+  ],
+  [
+   "Ecocert / Écolabel européen",
+   "Labels produit",
+   "Garanties environnementales sur les produits et services",
+   "Produits de grande consommation",
+   "Label"
+  ]
+ ],
+ "secteurs": [
+  [
+   "Industrie et manufacture",
+   [
+    "Décarbonation des procédés et de l'énergie",
+    "Pollution et substances (REACH)",
+    "Santé et sécurité",
+    "Économie circulaire et matières"
+   ],
+   [
+    "BEGES, MACF pour les intrants importés, ICPE, REACH, ESPR, quotas carbone (SEQE-UE) pour les sites concernés",
+    "ISO 14001, 45001, 50001, SBTi"
+   ],
+   [
+    "tCO₂e par tonne produite",
+    "Consommation d'énergie par unité",
+    "Taux de fréquence des accidents",
+    "Taux de matière recyclée"
+   ],
+   "Plan de sobriété énergétique, récupération de chaleur fatale, électrification des procédés."
+  ],
+  [
+   "BTP et immobilier",
+   [
+    "Carbone des matériaux et de l'énergie des bâtiments",
+    "Sécurité sur les chantiers",
+    "Artificialisation des sols",
+    "Déchets de chantier"
+   ],
+   [
+    "RE2020, décret tertiaire, REP des produits et matériaux du bâtiment, objectif ZAN, taxonomie (construction, rénovation)",
+    "HQE, BREEAM, Effinergie, label Bas Carbone"
+   ],
+   [
+    "kgCO₂e/m² (analyse de cycle de vie)",
+    "Taux de valorisation des déchets",
+    "Accidents graves",
+    "Part de CA aligné taxonomie"
+   ],
+   "Matériaux biosourcés ou bas carbone, réemploi, diagnostic produits-équipements-matériaux-déchets avant démolition."
+  ],
+  [
+   "Énergie et utilities",
+   [
+    "Trajectoire de sortie des énergies fossiles",
+    "Accès à l'énergie et précarité",
+    "Biodiversité des sites",
+    "Risques physiques sur les réseaux"
+   ],
+   [
+    "SEQE-UE, taxonomie, devoir de vigilance, actes délégués gaz et nucléaire",
+    "SBTi, CDP"
+   ],
+   [
+    "gCO₂e/kWh produit",
+    "Part de renouvelable",
+    "Investissements alignés",
+    "Incidents environnementaux"
+   ],
+   "Plan de transition crédible : c'est l'enjeu central des contentieux climatiques actuels."
+  ],
+  [
+   "Transport et logistique",
+   [
+    "Émissions des flottes",
+    "Sécurité routière et conditions des chauffeurs",
+    "Qualité de l'air",
+    "Sous-traitance"
+   ],
+   [
+    "LOM, information GES des prestations de transport (art. L. 1431-3 du Code des transports), SEQE-UE maritime et aérien, ETS2 reporté à 2028",
+    "Objectif CO₂ (ADEME), Fret21, ISO 14083"
+   ],
+   [
+    "gCO₂e par tonne-km",
+    "Part de véhicules à faibles émissions",
+    "Taux de remplissage",
+    "Accidents par million de km"
+   ],
+   "Report modal, optimisation des tournées, carburants alternatifs."
+  ],
+  [
+   "Agroalimentaire et agriculture",
+   [
+    "Émissions agricoles (méthane, engrais)",
+    "Déforestation importée",
+    "Eau",
+    "Bien-être animal",
+    "Gaspillage alimentaire",
+    "Rémunération des producteurs"
+   ],
+   [
+    "EUDR, lois EGalim, AGEC (gaspillage), étiquetage, PPWR",
+    "Bio, HVE, Rainforest Alliance, commerce équitable, SBTi FLAG"
+   ],
+   [
+    "tCO₂e par tonne de produit",
+    "Matières premières certifiées zéro déforestation (%)",
+    "Gaspillage (t)",
+    "Eau prélevée par tonne"
+   ],
+   "Agriculture régénératrice avec les fournisseurs, réduction des emballages."
+  ],
+  [
+   "Distribution, mode et textile",
+   [
+    "Conditions de travail chez les fournisseurs",
+    "Surproduction et invendus",
+    "Allégations environnementales",
+    "Emballages"
+   ],
+   [
+    "AGEC (destruction des invendus interdite), ESPR (textiles), ECGT, affichage environnemental textile, devoir de vigilance",
+    "EcoVadis, GOTS, OEKO-TEX, label Fibre citoyenne"
+   ],
+   [
+    "Fournisseurs audités (%)",
+    "Volume d'invendus donnés ou recyclés",
+    "Part de fibres recyclées",
+    "Écart de prix moyen grâce à l'éco-modulation"
+   ],
+   "Traçabilité de rang 2 et 3, réparation et seconde main, communication prouvée."
+  ],
+  [
+   "Banque, assurance, finance",
+   [
+    "Émissions financées (scope 3 catégorie 15)",
+    "Inclusion financière",
+    "Éthique et conformité",
+    "Risques climatiques des portefeuilles"
+   ],
+   [
+    "SFDR, article 29 LEC, taxonomie (GAR), exigences de la BCE et de l'ACPR, Pilier 3 ESG",
+    "PCAF, NZBA, PRI, label ISR, label Greenfin"
+   ],
+   [
+    "Émissions financées (tCO₂e/M€)",
+    "Ratio d'actifs verts",
+    "Encours ISR",
+    "Part des financements fossiles"
+   ],
+   "Politiques sectorielles d'exclusion, accompagnement de la transition des clients."
+  ],
+  [
+   "Numérique et technologie",
+   [
+    "Énergie des centres de données",
+    "Fabrication et fin de vie des équipements",
+    "Données personnelles",
+    "Inclusion numérique",
+    "Usages de l'IA"
+   ],
+   [
+    "Loi REEN, RGPD, règlement IA, ESPR, AGEC (reconditionnement)",
+    "Label Numérique Responsable, référentiel général d'écoconception de services numériques (RGESN)"
+   ],
+   [
+    "PUE des centres de données",
+    "Durée de vie moyenne des équipements",
+    "Part de matériel reconditionné",
+    "Incidents de données"
+   ],
+   "Écoconception des services, allongement de la durée de vie, sobriété des usages."
+  ],
+  [
+   "Santé et pharmacie",
+   [
+    "Accès aux soins et aux médicaments",
+    "Résidus médicamenteux dans l'eau",
+    "Gaz anesthésiants et inhalateurs",
+    "Éthique de la recherche"
+   ],
+   [
+    "Réglementations sanitaires, REACH, BEGES, devoir de vigilance",
+    "ISO 14001, SBTi, feuille de route de planification écologique du système de santé"
+   ],
+   [
+    "Émissions par patient ou par traitement",
+    "Déchets d'activités de soins (t)",
+    "Prix et accès",
+    "Essais cliniques publiés"
+   ],
+   "Écoconception des soins, achats responsables (une part majeure de l'empreinte)."
+  ],
+  [
+   "Tourisme, hôtellerie, restauration",
+   [
+    "Énergie et eau",
+    "Gaspillage alimentaire",
+    "Conditions de travail et saisonnalité",
+    "Transport des clients"
+   ],
+   [
+    "AGEC (biodéchets, vaisselle réemployable), décret tertiaire, loi EGalim pour la restauration collective",
+    "Clef Verte, Écolabel européen, Green Globe"
+   ],
+   [
+    "kWh et m³ par nuitée ou par couvert",
+    "Kg de biodéchets triés",
+    "Turnover",
+    "Part de produits locaux"
+   ],
+   "Tri des biodéchets obligatoire, menus bas carbone, sensibilisation des clients."
+  ],
+  [
+   "Audiovisuel, culture et médias",
+   [
+    "Empreinte des tournages (transport, énergie, décors)",
+    "Diversité et représentation",
+    "Conditions de travail des intermittents",
+    "Influence des contenus sur les imaginaires"
+   ],
+   [
+    "Conditions RSE du CNC (bilan carbone des œuvres aidées), BEGES, ARCOM sur la représentation de la diversité",
+    "Ecoprod, label Flying Green, Secoya et outils carbone du secteur"
+   ],
+   [
+    "tCO₂e par œuvre ou par heure de programme",
+    "Part de décors réemployés",
+    "Indicateurs de parité devant et derrière la caméra",
+    "Groupes électrogènes remplacés"
+   ],
+   "Écoproduction, raccordement électrique des tournages, récits de transition dans les contenus."
+  ],
+  [
+   "Conseil, services et tertiaire",
+   [
+    "Déplacements professionnels",
+    "Numérique",
+    "Bien-être et santé mentale",
+    "Éthique des missions"
+   ],
+   [
+    "Décret tertiaire, LOM, Sapin II, devoir de vigilance selon taille",
+    "B Corp, EcoVadis, Engagé RSE"
+   ],
+   [
+    "tCO₂e par collaborateur",
+    "Part des trajets en train",
+    "Taux de télétravail",
+    "Indice de qualité de vie au travail"
+   ],
+   "Politique voyages, sobriété numérique, missions à impact."
+  ],
+  [
+   "Secteur public et économie sociale et solidaire",
+   [
+    "Achats publics responsables",
+    "Exemplarité des bâtiments",
+    "Insertion",
+    "Gouvernance démocratique"
+   ],
+   [
+    "BEGES (3 ans), schéma de promotion des achats socialement et écologiquement responsables (SPASER), clauses environnementales obligatoires, agrément ESUS",
+    "Label Territoire engagé, Cit'ergie"
+   ],
+   [
+    "Part de marchés avec clause sociale ou environnementale",
+    "Heures d'insertion",
+    "Consommation énergétique du patrimoine"
+   ],
+   "Clauses sociales et environnementales, achats auprès de l'ESS."
+  ]
+ ],
+ "attentes": [
+  [
+   "Mettre l'entreprise en conformité",
+   "Savoir dire quelles obligations s'appliquent et à quelle échéance, et organiser la réponse : BEGES, vigilance, CSRD si applicable, index égalité, décret tertiaire."
+  ],
+  [
+   "Répondre aux clients et aux banques",
+   "Remplir les questionnaires EcoVadis, CDP, les annexes RSE des appels d'offres, et fournir un reporting VSME aux grands donneurs d'ordre."
+  ],
+  [
+   "Mesurer et réduire le carbone",
+   "Piloter le bilan carbone, construire une trajectoire de réduction crédible, chiffrer les actions et leur coût."
+  ],
+  [
+   "Produire un reporting fiable",
+   "Collecter, contrôler, consolider et rédiger ; travailler avec l'auditeur ; tenir un protocole de reporting."
+  ],
+  [
+   "Embarquer les équipes",
+   "Animer un réseau de correspondants, former (Fresque du Climat, ateliers), transformer la RSE en projets métiers concrets."
+  ],
+  [
+   "Éviter les risques de réputation et de contentieux",
+   "Relire la communication pour éviter le greenwashing, documenter la vigilance, gérer les alertes."
+  ]
+ ],
+ "competences": [
+  [
+   "Savoirs réglementaires",
+   "pill",
+   [
+    "CSRD, ESRS, VSME, Omnibus",
+    "Taxonomie et DNSH",
+    "Devoir de vigilance français et européen",
+    "BEGES, décret tertiaire, AGEC, Climat et Résilience",
+    "Droit social lié à la RSE (égalité, handicap, QVCT)"
+   ]
+  ],
+  [
+   "Compétences techniques",
+   "pill b",
+   [
+    "Bilan carbone (GHG Protocol, méthode Bilan Carbone)",
+    "Analyse de double matérialité",
+    "Excel avancé et outil de visualisation (Power BI)",
+    "Analyse de cycle de vie (bases)",
+    "Achats responsables et évaluation fournisseurs",
+    "Rédaction de rapports et de notes de synthèse"
+   ]
+  ],
+  [
+   "Gestion de projet",
+   "pill o",
+   [
+    "Feuille de route et plan d'action",
+    "Budget et chiffrage des actions",
+    "Pilotage par indicateurs",
+    "Animation de comités",
+    "Conduite du changement"
+   ]
+  ],
+  [
+   "Savoir-être",
+   "pill g",
+   [
+    "Pédagogie et vulgarisation",
+    "Diplomatie et influence sans autorité",
+    "Rigueur et esprit critique sur la donnée",
+    "Écoute des parties prenantes",
+    "Persévérance face aux résistances"
+   ]
+  ]
+ ],
+ "entretien": [
+  [
+   "Qu'est-ce qui a changé avec l'Omnibus ?",
+   "Seuils cumulatifs de 1 000 salariés et 450 M€, report à l'exercice 2027 pour les grandes entreprises, ESRS allégés d'environ 61 % des datapoints, plafond chaîne de valeur fondé sur le VSME, CSDDD recentrée sur 5 000 salariés et 1,5 Md€. Ajoutez que la pression du marché, elle, n'a pas baissé."
+  ],
+  [
+   "Notre entreprise n'est plus soumise à la CSRD : pourquoi continuer ?",
+   "Clients et banques demandent toujours des données ; les marchés publics exigent un critère environnemental ; le BEGES reste obligatoire dès 500 salariés ; une démarche structurée réduit les coûts (énergie, matières) et attire les talents. Proposez le VSME comme format proportionné."
+  ],
+  [
+   "Comment mèneriez-vous une analyse de double matérialité ?",
+   "Citez les étapes : contexte et chaîne de valeur, liste longue, IRO, cotation impact (gravité, probabilité), cotation financière avec la finance, seuils, validation par la gouvernance, lien vers les datapoints, documentation."
+  ],
+  [
+   "Comment convaincre un directeur réticent ?",
+   "Partir de ses objectifs à lui (coûts, clients, recrutement, risques), apporter un chiffre et une victoire rapide, impliquer son équipe dans la solution, rendre compte des résultats."
+  ],
+  [
+   "Quelle différence entre scope 2 location-based et market-based ?",
+   "Le premier utilise le facteur moyen du réseau électrique, le second reflète les contrats d'achat d'électricité et garanties d'origine. Les deux doivent être publiés."
+  ],
+  [
+   "Donnez un exemple de greenwashing et comment l'éviter.",
+   "Allégation « neutre en carbone » fondée sur de la compensation : interdite par la directive ECGT pour les produits. Remplacer par des faits mesurés : « –35 % d'émissions par unité entre 2022 et 2025, périmètre scopes 1 et 2 »."
+  ],
+  [
+   "Quels indicateurs suivriez-vous la première année ?",
+   "Une dizaine au maximum, liés aux sujets matériels : émissions GES, énergie, déchets, accidents du travail, formation, égalité, part d'achats évalués RSE. Chacun avec une fiche indicateur."
+  ],
+  [
+   "Où faites-vous votre veille ?",
+   "Portail RSE du gouvernement, EFRAG, Commission européenne, Légifrance, ADEME, AMF, fédérations professionnelles, presse spécialisée, et le suivi des décisions de justice."
+  ]
+ ],
+ "checklist": [
+  "Je sais expliquer la double matérialité en 2 minutes",
+  "Je connais les seuils CSRD, CSDDD, BEGES et vigilance française",
+  "Je sais lire la structure des ESRS (ESRS 2, E1 à G1)",
+  "Je sais distinguer activité éligible et alignée (taxonomie)",
+  "J'ai suivi ou animé une Fresque du Climat",
+  "Je sais calculer un bilan carbone simplifié (scopes 1 et 2)",
+  "Je connais les 15 catégories du scope 3",
+  "Je sais rédiger une fiche indicateur complète",
+  "Je sais construire un plan d'action avec budget et responsables",
+  "Je connais le VSME et je peux le présenter à une PME",
+  "Je sais remplir un questionnaire EcoVadis",
+  "Je sais repérer une allégation environnementale interdite",
+  "Je sais présenter une feuille de route RSE à un CODIR",
+  "J'ai une routine de veille hebdomadaire"
+ ],
+ "methodes": [
+  [
+   "Réaliser un diagnostic RSE initial",
+   [
+    "Lister les obligations applicables (outil « Suis-je concerné ? »).",
+    "Recenser l'existant : politiques, certifications, données, questionnaires clients, bilans.",
+    "Conduire 10 à 15 entretiens avec les directions et quelques salariés.",
+    "Évaluer la maturité sur les 7 questions centrales de l'ISO 26000 (échelle de 1 à 4).",
+    "Identifier les écarts critiques (risques juridiques) et les victoires rapides."
+   ],
+   "Rapport de diagnostic de 10 pages et matrice forces-faiblesses.",
+   "Faire un inventaire sans prioriser ; oublier les sites ou filiales à l'étranger."
+  ],
+  [
+   "Cartographier les parties prenantes",
+   [
+    "Lister toutes les parties prenantes internes et externes.",
+    "Les positionner selon leur influence sur l'entreprise et l'impact que l'entreprise a sur elles.",
+    "Définir pour chacune le mode de dialogue : informer, consulter, impliquer, co-construire.",
+    "Planifier les rencontres et enregistrer leurs attentes.",
+    "Restituer ce qui a été retenu (sinon la confiance s'érode)."
+   ],
+   "Cartographie et plan de dialogue annuel.",
+   "Confondre parties prenantes et clients ; ne consulter que des acteurs bienveillants."
+  ],
+  [
+   "Construire une stratégie et une feuille de route",
+   [
+    "Partir des sujets matériels et de la raison d'être.",
+    "Retenir 4 à 6 engagements, chacun avec un objectif chiffré daté (année de référence, cible, périmètre).",
+    "Décliner en actions avec un responsable, un budget, un calendrier.",
+    "Mettre en place la gouvernance : sponsor au CODIR, comité de pilotage trimestriel, réseau de correspondants.",
+    "Lier une partie de la rémunération variable des dirigeants aux objectifs.",
+    "Publier et rendre compte chaque année, y compris des retards."
+   ],
+   "Feuille de route à 3 ans et tableau de bord.",
+   "Trop d'objectifs ; objectifs sans budget ; stratégie rédigée seul, sans les métiers."
+  ],
+  [
+   "Réaliser un bilan carbone",
+   [
+    "Définir le périmètre organisationnel (contrôle financier ou opérationnel) et l'année de référence.",
+    "Collecter les données d'activité : factures d'énergie, achats, kilomètres, tonnages.",
+    "Appliquer des facteurs d'émission (Base Empreinte de l'ADEME), en privilégiant les données fournisseurs quand elles existent.",
+    "Calculer les scopes 1, 2 (deux méthodes) et 3 significatif, avec les incertitudes.",
+    "Identifier les postes majeurs et construire un plan de transition chiffré.",
+    "Publier sur la plateforme de l'ADEME si l'entreprise est assujettie."
+   ],
+   "Bilan GES, plan de transition, note méthodologique.",
+   "Négliger le scope 3 ; utiliser uniquement des ratios monétaires sans les améliorer d'année en année."
+  ],
+  [
+   "Bâtir un plan de transition climat",
+   [
+    "Fixer une cible de réduction alignée sur 1,5 °C (référence SBTi : environ –42 % sur les scopes 1 et 2 en dix ans).",
+    "Identifier les leviers de décarbonation et leur contribution en tonnes.",
+    "Chiffrer les investissements (CapEx) et les dépenses (OpEx) associés.",
+    "Vérifier la cohérence avec la taxonomie et le budget de l'entreprise.",
+    "Définir les jalons intermédiaires et la gouvernance du plan.",
+    "Signaler clairement si la trajectoire n'est pas compatible avec 1,5 °C (exigence ESRS E1)."
+   ],
+   "Plan de transition validé par le conseil.",
+   "Compter sur la compensation ; afficher un objectif « net zéro » sans plan chiffré."
+  ],
+  [
+   "Déployer les achats responsables",
+   [
+    "Cartographier les achats par catégorie et par risque (pays, matière, procédé).",
+    "Rédiger une charte fournisseurs et l'intégrer aux contrats.",
+    "Évaluer les fournisseurs à risque (questionnaire, EcoVadis, audits).",
+    "Intégrer des critères RSE pondérés dans les appels d'offres (10 à 30 %).",
+    "Accompagner les fournisseurs stratégiques dans leurs progrès.",
+    "Suivre la part d'achats évalués et les délais de paiement."
+   ],
+   "Politique achats responsables, charte, tableau de suivi.",
+   "Demander aux PME plus que le VSME (désormais limité pour les entreprises soumises à la CSRD)."
+  ],
+  [
+   "Établir un plan de vigilance",
+   [
+    "Cartographier les risques d'atteintes graves aux droits humains, à la santé, à la sécurité et à l'environnement, dans les activités propres et la chaîne de valeur.",
+    "Évaluer régulièrement les filiales, sous-traitants et fournisseurs.",
+    "Définir des actions adaptées d'atténuation et de prévention.",
+    "Mettre en place un mécanisme d'alerte avec les organisations syndicales.",
+    "Suivre l'efficacité des mesures et publier un compte rendu.",
+    "Depuis le jugement TotalEnergies : traiter explicitement le climat, y compris le scope 3 pour les secteurs concernés."
+   ],
+   "Plan de vigilance publié avec le rapport de gestion.",
+   "Un plan purement déclaratif, sans preuve d'efficacité ni lien avec les achats."
+  ],
+  [
+   "Sensibiliser et conduire le changement",
+   [
+    "Mesurer le niveau de départ (questionnaire court).",
+    "Former les dirigeants en premier, puis les managers.",
+    "Utiliser des formats participatifs : Fresque du Climat, Fresque de la Biodiversité, ateliers 2tonnes.",
+    "Relier chaque formation à une action concrète dans le métier.",
+    "Valoriser les initiatives des équipes et partager les résultats."
+   ],
+   "Plan de sensibilisation et indicateurs de participation.",
+   "Se limiter à des affiches et des journées thématiques sans suite."
+  ],
+  [
+   "Communiquer sans greenwashing",
+   [
+    "Lister toutes les allégations existantes (site, emballages, publicités, réseaux).",
+    "Vérifier pour chacune la preuve, le périmètre et la date.",
+    "Supprimer les allégations génériques et les promesses de neutralité par compensation.",
+    "Remplacer par des faits précis et vérifiables, avec la source.",
+    "Mettre en place une validation RSE et juridique avant toute campagne."
+   ],
+   "Charte de communication responsable.",
+   "Laisser le marketing communiquer seul ; utiliser des labels maison non certifiés."
+  ],
+  [
+   "Préparer l'audit du rapport",
+   [
+    "Désigner l'auditeur tôt et organiser une réunion de lancement.",
+    "Partager le protocole de reporting et la documentation de la matérialité.",
+    "Organiser des tests de pré-audit sur une période intermédiaire.",
+    "Préparer les dossiers de preuves par indicateur.",
+    "Traiter les recommandations et documenter les corrections."
+   ],
+   "Rapport d'assurance limitée sans réserve.",
+   "Découvrir les exigences de l'auditeur au moment de la clôture."
+  ]
+ ],
+ "modeles": [
+  [
+   "Politique RSE (une page)",
+   "[NOM DE L'ENTREPRISE] — POLITIQUE DE RESPONSABILITÉ SOCIÉTALE\n\nNotre raison d'être\n[Une phrase sur la contribution de l'entreprise à la société.]\n\nNos engagements\n1. Climat : réduire de [X] % nos émissions de gaz à effet de serre des scopes 1 et 2 entre [année de référence] et [année cible], et engager nos [N] principaux fournisseurs dans une démarche de réduction.\n2. Ressources : atteindre [X] % de déchets valorisés d'ici [année].\n3. Collaborateurs : zéro accident grave ; [X] heures de formation par salarié et par an ; écart de rémunération femmes-hommes inférieur à [X] %.\n4. Achats : évaluer [X] % de nos achats sur des critères RSE d'ici [année].\n5. Éthique : former 100 % des collaborateurs exposés à la prévention de la corruption.\n\nNotre gouvernance\nLa démarche est portée par [nom, fonction], membre du comité de direction. Un comité RSE se réunit chaque trimestre. Les résultats sont publiés chaque année dans [rapport].\n\nFait à [ville], le [date]\n[Signature du dirigeant]"
+  ],
+  [
+   "Note au comité de direction",
+   "OBJET : [Décision attendue, en une ligne]\nÀ : Comité de direction — De : [Nom], [fonction] — Date : [date]\n\n1. Ce que nous demandons\n[La décision précise : valider, arbitrer, financer.]\n\n2. Pourquoi maintenant\n[Obligation, échéance, demande client, risque. Un chiffre clé.]\n\n3. Options étudiées\nOption A : [description] — coût [X] € — délai [X] — avantages / limites\nOption B : [description] — coût [X] € — délai [X] — avantages / limites\n\n4. Recommandation\n[Option retenue et raison principale.]\n\n5. Prochaines étapes si validation\n- [Action] — responsable [nom] — échéance [date]\n- [Action] — responsable [nom] — échéance [date]\n\nAnnexe : [source des données, hypothèses]"
+  ],
+  [
+   "Fiche indicateur",
+   "INDICATEUR : [Nom, ex. Taux de valorisation des déchets]\nRéférence ESRS / GRI : [ex. ESRS E5, GRI 306-4]\nDéfinition : [Formule exacte, ex. tonnage valorisé / tonnage total de déchets × 100]\nUnité : [%]\nPérimètre : [Sites inclus et exclus, filiales]\nPériode : [1er janvier – 31 décembre]\nFréquence de collecte : [mensuelle / annuelle]\nSource de la donnée : [Bordereaux de suivi, factures du prestataire]\nContributeur : [Nom, fonction] — Valideur : [Nom, fonction]\nMéthode de calcul et estimations : [Hypothèses, facteurs utilisés]\nContrôles : [Comparaison N-1 ; écart supérieur à 10 % à expliquer]\nPièces justificatives conservées : [Lieu de stockage]\nHistorique des changements de méthode : [Date, nature, impact]"
+  ],
+  [
+   "Courriel de collecte de données",
+   "Objet : Reporting RSE [année] — vos données avant le [date]\n\nBonjour [prénom],\n\nDans le cadre de notre reporting de durabilité [année], j'ai besoin de votre contribution sur les indicateurs suivants :\n- [Indicateur 1] — unité [ ] — périmètre [ ]\n- [Indicateur 2] — unité [ ] — périmètre [ ]\n\nLe modèle de collecte est joint. Merci d'y ajouter les justificatifs (factures, extractions) : ils seront demandés par notre auditeur.\n\nÉchéance : [date]. Je vous propose un point de 15 minutes le [date] pour répondre à vos questions.\n\nCes données serviront à [usage concret : rapport, réponse client, plan d'action]. Merci pour votre aide.\n\n[Signature]"
+  ],
+  [
+   "Questionnaire fournisseur (format VSME simplifié)",
+   "QUESTIONNAIRE RSE FOURNISSEUR — [année]\nEntreprise : [ ] — Effectif : [ ] — Pays de production : [ ]\n\nEnvironnement\n1. Avez-vous réalisé un bilan des émissions de gaz à effet de serre ? Si oui, émissions scopes 1 et 2 (tCO₂e) et année : [ ]\n2. Consommation d'énergie totale (MWh) et part renouvelable (%) : [ ]\n3. Disposez-vous d'une certification environnementale (ISO 14001 ou autre) ? [ ]\n\nSocial\n4. Nombre d'accidents du travail avec arrêt sur l'année : [ ]\n5. Disposez-vous d'une politique de respect des droits humains, y compris chez vos propres fournisseurs ? [ ]\n6. Heures de formation moyennes par salarié : [ ]\n\nGouvernance\n7. Disposez-vous d'un code de conduite et d'un dispositif d'alerte ? [ ]\n8. Avez-vous fait l'objet de condamnations pour corruption ou atteintes à l'environnement au cours des 3 dernières années ? [ ]\n\nNous nous engageons à ne pas demander d'informations au-delà du standard volontaire européen pour les PME."
+  ],
+  [
+   "Section de rapport : changement climatique (structure E1)",
+   "CHANGEMENT CLIMATIQUE\n\n1. Pourquoi c'est un enjeu matériel pour nous\n[Impacts : nos émissions principales. Risques : physiques (sites exposés) et de transition (prix du carbone, demandes clients). Opportunités.]\n\n2. Notre politique\n[Engagements, périmètre, responsable.]\n\n3. Nos actions en [année]\n[Action] — résultat obtenu [tCO₂e évitées] — investissement [€]\n\n4. Nos objectifs\nCible : –[X] % sur les scopes [ ] entre [année de référence] et [année]. Compatibilité 1,5 °C : [oui / non, et pourquoi].\n\n5. Nos indicateurs\nScope 1 : [ ] tCO₂e — Scope 2 (market-based) : [ ] — Scope 2 (location-based) : [ ] — Scope 3 : [ ]\nÉnergie consommée : [ ] MWh dont [ ] % renouvelable\nIntensité : [ ] tCO₂e / M€ de CA\n\n6. Note méthodologique\n[Périmètre, facteurs d'émission, estimations, changements par rapport à N-1.]"
+  ],
+  [
+   "Charte achats responsables (extrait)",
+   "CHARTE ACHATS RESPONSABLES — [ENTREPRISE]\n\nNous attendons de nos fournisseurs et sous-traitants qu'ils :\n1. Respectent les conventions fondamentales de l'OIT : pas de travail forcé ni de travail des enfants, liberté syndicale, non-discrimination.\n2. Garantissent la santé et la sécurité de leurs salariés.\n3. Mesurent et réduisent leurs impacts environnementaux, en priorité leurs émissions de gaz à effet de serre.\n4. Refusent toute forme de corruption.\n5. Protègent les données personnelles qui leur sont confiées.\n6. Relaient ces exigences auprès de leurs propres fournisseurs.\n\nEn retour, nous nous engageons à : respecter les délais de paiement, éviter la dépendance économique excessive, accompagner les progrès, et limiter nos demandes d'information au strict nécessaire.\n\nUn dispositif d'alerte est accessible à [adresse ou lien]."
+  ],
+  [
+   "Mémoire technique environnemental (marché public)",
+   "PERFORMANCE ENVIRONNEMENTALE DE L'OFFRE\n\n1. Engagements spécifiques au marché\n- Transport : [modes, distances, véhicules] — émissions estimées [ ] kgCO₂e\n- Produits ou matériaux : [part recyclée, labels, origine]\n- Déchets : [tri, valorisation, filière] — objectif [ ] %\n\n2. Moyens de preuve\n[Certifications, fiches techniques, bilan GES, attestations.]\n\n3. Suivi pendant l'exécution\nIndicateurs transmis à l'acheteur : [liste], fréquence [ ].\n\n4. Démarche globale de l'entreprise\n[Bilan carbone, certification, plan d'action, en 5 lignes maximum.]"
+  ],
+  [
+   "Pitch d'entretien en 90 secondes",
+   "Je m'appelle [prénom nom]. Mon parcours associe [formation] et [expérience], ce qui m'a appris à [compétence clé utile à la RSE].\n\nCe qui m'intéresse dans la RSE, c'est [motivation concrète, liée à l'entreprise].\n\nConcrètement, je sais [3 compétences : ex. analyser une double matérialité, calculer un bilan carbone, animer un atelier].\n\nPour votre entreprise, je vois trois priorités : [priorité 1 liée à leur secteur], [priorité 2 réglementaire], [priorité 3 clients ou équipes]. Je peux contribuer dès les premières semaines sur [action précise]."
+  ]
+ ],
+ "glossaire": [
+  [
+   "ACV",
+   "Analyse de cycle de vie : évaluation des impacts environnementaux d'un produit de l'extraction des matières à la fin de vie (normes ISO 14040 et 14044)."
+  ],
+  [
+   "ADEME",
+   "Agence de la transition écologique, opérateur public qui gère la Base Empreinte et la plateforme des bilans GES."
+  ],
+  [
+   "AGEC",
+   "Loi anti-gaspillage pour une économie circulaire (2020)."
+  ],
+  [
+   "Assurance limitée",
+   "Niveau de vérification de l'auditeur : il conclut qu'il n'a rien relevé laissant penser que les informations sont inexactes. Moins approfondi que l'assurance raisonnable."
+  ],
+  [
+   "BDESE",
+   "Base de données économiques, sociales et environnementales, mise à disposition du CSE."
+  ],
+  [
+   "BEGES",
+   "Bilan des émissions de gaz à effet de serre réglementaire."
+  ],
+  [
+   "CapEx / OpEx",
+   "Dépenses d'investissement / dépenses d'exploitation, utilisées comme indicateurs de la taxonomie."
+  ],
+  [
+   "CBAM / MACF",
+   "Mécanisme d'ajustement carbone aux frontières de l'UE."
+  ],
+  [
+   "CDP",
+   "Organisation qui gère des questionnaires environnementaux (climat, eau, forêts) et note les entreprises."
+  ],
+  [
+   "Compensation carbone",
+   "Financement de projets qui évitent ou absorbent des émissions. Ne remplace pas la réduction ; ne peut plus fonder une allégation de neutralité d'un produit."
+  ],
+  [
+   "CS3D / CSDDD",
+   "Directive européenne sur le devoir de vigilance des entreprises en matière de durabilité."
+  ],
+  [
+   "CSRD",
+   "Directive européenne sur la publication d'informations en matière de durabilité."
+  ],
+  [
+   "Datapoint",
+   "Donnée élémentaire exigée par une norme ESRS (chiffre ou information narrative)."
+  ],
+  [
+   "DDADUE",
+   "Loi « portant diverses dispositions d'adaptation au droit de l'Union européenne », véhicule habituel des transpositions."
+  ],
+  [
+   "DNSH",
+   "« Do No Significant Harm » : principe de la taxonomie selon lequel une activité ne doit pas nuire de façon significative aux autres objectifs environnementaux."
+  ],
+  [
+   "Double matérialité",
+   "Analyse croisée de la matérialité d'impact et de la matérialité financière."
+  ],
+  [
+   "DPEF",
+   "Déclaration de performance extra-financière, remplacée par le rapport de durabilité pour les entreprises soumises à la CSRD."
+  ],
+  [
+   "ECGT",
+   "Directive « Empowering Consumers for the Green Transition » contre l'écoblanchiment."
+  ],
+  [
+   "EFRAG",
+   "Organisme européen qui élabore les projets de normes ESRS pour la Commission."
+  ],
+  [
+   "ESG",
+   "Environnement, Social, Gouvernance : critères d'analyse extra-financière."
+  ],
+  [
+   "ESRS",
+   "European Sustainability Reporting Standards, normes de contenu du rapport de durabilité."
+  ],
+  [
+   "Facteur d'émission",
+   "Coefficient qui convertit une donnée d'activité (kWh, km, €) en émissions (kgCO₂e)."
+  ],
+  [
+   "Garanties minimales",
+   "Condition de la taxonomie : respect des principes de l'OCDE et de l'ONU sur les droits humains, la corruption, la fiscalité et la concurrence."
+  ],
+  [
+   "GES",
+   "Gaz à effet de serre (CO₂, méthane, protoxyde d'azote, gaz fluorés), exprimés en équivalent CO₂."
+  ],
+  [
+   "GHG Protocol",
+   "Standard international de comptabilité des émissions de gaz à effet de serre."
+  ],
+  [
+   "GRI",
+   "Global Reporting Initiative, standard de reporting d'impact."
+  ],
+  [
+   "IRO",
+   "Impacts, risques et opportunités : unité d'analyse de la double matérialité."
+  ],
+  [
+   "ISSB",
+   "International Sustainability Standards Board, auteur des normes IFRS S1 et S2."
+  ],
+  [
+   "Location-based / market-based",
+   "Deux méthodes de calcul du scope 2 : mix moyen du réseau ou contrats d'achat d'énergie."
+  ],
+  [
+   "Net zéro",
+   "Équilibre entre émissions résiduelles et absorptions, après une réduction d'environ 90 % des émissions selon la SBTi."
+  ],
+  [
+   "Omnibus I",
+   "Paquet européen de simplification de la CSRD et de la CSDDD (directive (UE) 2026/470)."
+  ],
+  [
+   "OTI",
+   "Organisme tiers indépendant, accrédité pour certifier les informations de durabilité."
+  ],
+  [
+   "Parties prenantes",
+   "Personnes ou groupes affectés par l'entreprise ou pouvant l'affecter."
+  ],
+  [
+   "Phase-in",
+   "Mise en application progressive de certaines exigences des ESRS."
+  ],
+  [
+   "Plan de transition",
+   "Plan qui décrit comment l'entreprise aligne son modèle sur une trajectoire climatique, avec objectifs, leviers et financements."
+  ],
+  [
+   "Plan de vigilance",
+   "Document obligatoire de la loi de 2017 qui identifie et prévient les atteintes graves liées à l'activité."
+  ],
+  [
+   "Raison d'être",
+   "Principes et ambition que la société se donne, pouvant être inscrits dans ses statuts (loi PACTE)."
+  ],
+  [
+   "REP",
+   "Responsabilité élargie du producteur : le metteur sur le marché finance la fin de vie de ses produits."
+  ],
+  [
+   "Risque physique / de transition",
+   "Risques climatiques liés aux événements extrêmes et changements chroniques / liés aux évolutions réglementaires, technologiques et de marché."
+  ],
+  [
+   "SBTi",
+   "Science Based Targets initiative, qui valide les objectifs climat des entreprises."
+  ],
+  [
+   "Scope 1, 2, 3",
+   "Périmètres des émissions : directes, liées à l'énergie achetée, et de la chaîne de valeur."
+  ],
+  [
+   "SFDR",
+   "Règlement européen sur la publication d'informations de durabilité dans le secteur financier."
+  ],
+  [
+   "Société à mission",
+   "Qualité juridique d'une société qui inscrit une raison d'être et des objectifs sociaux et environnementaux dans ses statuts."
+  ],
+  [
+   "Taxonomie",
+   "Classification européenne des activités durables sur le plan environnemental."
+  ],
+  [
+   "Value chain cap",
+   "Plafond des informations qu'une entreprise soumise à la CSRD peut exiger de ses partenaires de moins de 1 000 salariés."
+  ],
+  [
+   "VSME",
+   "Voluntary Sustainability Reporting Standard for SMEs : norme volontaire de reporting pour les PME."
+  ],
+  [
+   "XBRL",
+   "Langage de balisage numérique des rapports, utilisé pour le rapport de durabilité au format électronique européen."
+  ]
+ ],
+ "sources": [
+  [
+   "Portail RSE (gouvernement)",
+   "https://portail-rse.beta.gouv.fr",
+   "Fiches réglementaires françaises, outil d'autodiagnostic, textes de référence."
+  ],
+  [
+   "EUR-Lex",
+   "https://eur-lex.europa.eu",
+   "Textes officiels de l'Union européenne : directives, règlements, actes délégués."
+  ],
+  [
+   "Légifrance",
+   "https://www.legifrance.gouv.fr",
+   "Codes et lois français dans leur version en vigueur."
+  ],
+  [
+   "EFRAG",
+   "https://www.efrag.org",
+   "ESRS, VSME, guides d'application, questions-réponses."
+  ],
+  [
+   "Commission européenne : finance durable",
+   "https://finance.ec.europa.eu",
+   "CSRD, taxonomie, SFDR, Omnibus, actes délégués."
+  ],
+  [
+   "EU Taxonomy Navigator",
+   "https://ec.europa.eu/sustainable-finance-taxonomy/",
+   "Recherche des activités et critères techniques de la taxonomie."
+  ],
+  [
+   "Bilans GES (ADEME)",
+   "https://bilans-ges.ademe.fr",
+   "Publication des BEGES, méthodes réglementaires."
+  ],
+  [
+   "Base Empreinte (ADEME)",
+   "https://base-empreinte.ademe.fr",
+   "Facteurs d'émission officiels."
+  ],
+  [
+   "GHG Protocol",
+   "https://ghgprotocol.org",
+   "Standards de comptabilité carbone, guide du scope 3."
+  ],
+  [
+   "SBTi",
+   "https://sciencebasedtargets.org",
+   "Critères et validation des objectifs climat."
+  ],
+  [
+   "GRI",
+   "https://www.globalreporting.org",
+   "Standards GRI téléchargeables gratuitement."
+  ],
+  [
+   "IFRS : ISSB",
+   "https://www.ifrs.org",
+   "Normes IFRS S1 et S2."
+  ],
+  [
+   "AMF",
+   "https://www.amf-france.org",
+   "Doctrine et recommandations sur l'information de durabilité des sociétés cotées."
+  ],
+  [
+   "Index égalité (Egapro)",
+   "https://egapro.travail.gouv.fr",
+   "Calcul et déclaration de l'index de l'égalité professionnelle."
+  ],
+  [
+   "OPERAT (décret tertiaire)",
+   "https://operat.ademe.fr",
+   "Déclaration des consommations des bâtiments tertiaires."
+  ],
+  [
+   "Agir pour la transition (ADEME)",
+   "https://agirpourlatransition.ademe.fr",
+   "Aides, guides et outils pour les entreprises."
+  ]
+ ]
+}

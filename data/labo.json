@@ -1,0 +1,158 @@
+{
+  "miseAJour": "2026-11-01",
+  "avertissement": "Entreprises, chiffres et facteurs d'émission sont fictifs ou simplifiés pour l'exercice. Ils donnent des ordres de grandeur réalistes mais ne doivent pas être réutilisés tels quels dans un vrai bilan.",
+  "cas": [
+    {
+      "id": "bilan-carbone", "titre": "Réduire les émissions d'une PME industrielle", "niveau": "Intermédiaire", "duree": "90 min", "competences": ["carbone", "budget", "comm"],
+      "entreprise": "Atelier Rhône Métal, fabricant de structures métalliques, 180 salariés, un site en France.",
+      "contexte": "La direction vous recrute comme chargé de projet RSE. Un grand client exige un bilan carbone et un plan de réduction avant le renouvellement de son contrat, dans six mois.",
+      "donnees": {"titre": "Données annuelles et facteurs d'émission simplifiés", "entetes": ["Poste", "Quantité", "Facteur d'émission"], "lignes": [["Électricité", "2 400 MWh", "0,05 kgCO₂e/kWh"], ["Gaz naturel (fours)", "1 800 MWh", "0,227 kgCO₂e/kWh"], ["Gazole de la flotte", "45 000 litres", "3,1 kgCO₂e/litre"], ["Achats d'acier", "3 200 tonnes", "1,9 tCO₂e/tonne"], ["Transport amont des matières", "1 200 000 t.km", "0,1 kgCO₂e/t.km"], ["Déchets métalliques", "420 tonnes", "Données manquantes"], ["Déplacements domicile-travail", "Non mesurés", "—"]]},
+      "etapes": [
+        {"titre": "Comprendre la situation", "consigne": "Classez chaque poste dans le scope 1, 2 ou 3. Repérez les données manquantes et dites comment les obtenir."},
+        {"titre": "Calculer et analyser", "consigne": "Calculez les émissions de chaque poste en tonnes de CO₂e, puis le total. Quels sont les deux postes prioritaires ? Quelles limites méthodologiques signalez-vous ?"},
+        {"titre": "Proposer un plan d'action", "consigne": "Proposez 4 à 6 actions avec, pour chacune : responsable, ressources, calendrier, indicateur de suivi et objectif chiffré."},
+        {"titre": "Présenter à la direction", "consigne": "Rédigez une synthèse de 10 lignes maximum pour le comité de direction : résultats, priorités, décision attendue."}
+      ],
+      "livrable": "Diagnostic carbone et plan de réduction",
+      "grille": ["Les postes sont correctement classés par scope", "Les calculs sont justes et le total est donné", "Les achats d'acier sont identifiés comme premier poste", "Les données manquantes et les limites sont signalées", "Chaque action a un responsable, un calendrier et un indicateur", "Les objectifs sont chiffrés et datés", "La synthèse se termine par une décision attendue"],
+      "elements": ["Scope 1 : gaz (408,6 t) et gazole (139,5 t). Scope 2 : électricité (120 t). Scope 3 : acier (6 080 t) et transport amont (120 t).", "Total calculé : environ 6 868 tCO₂e, dont près de 89 % pour l'acier acheté.", "Priorités : achats d'acier (contenu recyclé, fournisseurs bas carbone, réduction des chutes) puis gaz des fours (efficacité, récupération de chaleur, électrification).", "Données à compléter : déchets (filière, recyclage), trajets domicile-travail (enquête), déplacements professionnels.", "Une bonne présentation montre que la priorité est le scope 3, ce qui implique la direction achats et pas seulement la production."]
+    },
+    {
+      "id": "csrd-donnees", "titre": "Organiser la collecte des données de durabilité", "niveau": "Intermédiaire", "duree": "60 min", "competences": ["reg", "indicateurs", "projet"],
+      "entreprise": "Groupe Hexalis, distribution de matériel électrique, 2 300 salariés, 640 M€ de chiffre d'affaires, 4 pays.",
+      "contexte": "Le groupe entre dans le champ de la CSRD pour l'exercice 2027. La direction financière vous demande d'organiser la collecte des données.",
+      "etapes": [
+        {"titre": "Vérifier l'assujettissement", "consigne": "Le groupe est-il concerné ? À partir de quel exercice et pour quelle publication ?"},
+        {"titre": "Construire la matrice de données", "consigne": "Pour 8 indicateurs (au moins 3 environnementaux, 3 sociaux, 1 de gouvernance), indiquez : norme ESRS, définition, unité, source, contributeur, fréquence."},
+        {"titre": "Prévoir les contrôles", "consigne": "Décrivez trois contrôles qui sécurisent la fiabilité des données avant l'audit."},
+        {"titre": "Établir le calendrier", "consigne": "Proposez un calendrier de juin 2027 à avril 2028."}
+      ],
+      "livrable": "Matrice de collecte et calendrier de reporting",
+      "grille": ["L'assujettissement est correctement justifié (1 000 salariés et 450 M€)", "Chaque indicateur a une norme ESRS, une unité et un contributeur", "Les trois piliers sont couverts", "Les contrôles sont concrets (comparaison N-1, rapprochement comptable, double validation)", "Le calendrier inclut une pré-clôture et l'audit"],
+      "elements": ["Oui : plus de 1 000 salariés et plus de 450 M€ de CA net. Premier exercice 2027, publication en 2028.", "Exemples : émissions scopes 1-2-3 (E1, tCO₂e, factures et achats, direction financière et achats) ; énergie (E1, MWh) ; déchets (E5, tonnes) ; effectif (S1) ; taux de fréquence des accidents (S1) ; heures de formation (S1) ; écart de rémunération (S1) ; délais de paiement (G1, jours).", "Le contenu exact dépend de l'analyse de double matérialité, qui doit précéder la collecte."]
+    },
+    {
+      "id": "double-materialite", "titre": "Construire une matrice de double matérialité", "niveau": "Avancé", "duree": "90 min", "competences": ["dm", "reg", "comm"],
+      "entreprise": "Saveurs du Lyonnais, agroalimentaire, 1 150 salariés, plats cuisinés vendus en grande distribution.",
+      "contexte": "Vous préparez la première analyse de double matérialité. Huit enjeux ont été présélectionnés : climat, emballages, eau, bien-être animal, santé et sécurité au travail, conditions de travail des éleveurs fournisseurs, nutrition et santé des consommateurs, éthique commerciale.",
+      "etapes": [
+        {"titre": "Identifier les IRO", "consigne": "Pour chaque enjeu, formulez au moins un impact, un risque ou une opportunité, et précisez s'il se situe dans les opérations propres ou dans la chaîne de valeur."},
+        {"titre": "Coter", "consigne": "Cotez la matérialité d'impact (gravité et probabilité) et la matérialité financière (probabilité et ampleur) de 1 à 5. Expliquez vos seuils."},
+        {"titre": "Conclure", "consigne": "Listez les enjeux matériels et les normes ESRS correspondantes. Lesquels ne le sont pas, et pourquoi ?"},
+        {"titre": "Faire valider", "consigne": "Quelles parties prenantes consultez-vous, et qui valide le résultat dans l'entreprise ?"}
+      ],
+      "livrable": "Matrice de matérialité justifiée",
+      "grille": ["Chaque enjeu a au moins un IRO formulé clairement", "La chaîne de valeur est prise en compte (éleveurs, consommateurs)", "Les seuils sont expliqués", "Un enjeu est retenu s'il est matériel d'un seul point de vue", "Les normes ESRS correspondantes sont citées", "La validation par la gouvernance est prévue"],
+      "elements": ["Probablement matériels : climat (E1, émissions agricoles amont), emballages (E5, réglementation PPWR), conditions des éleveurs (S2), bien-être animal (enjeu propre au secteur), nutrition (S4), santé et sécurité (S1).", "L'eau peut être matérielle selon la localisation des fournisseurs et des sites.", "Validation : direction générale et comité d'audit ; consultation du CSE, de clients distributeurs, de fournisseurs et d'une association de consommateurs."]
+    },
+    {
+      "id": "economie-circulaire", "titre": "Réduire les déchets de production", "niveau": "Débutant", "duree": "45 min", "competences": ["circulaire", "envi", "budget"],
+      "entreprise": "Plastibois, fabricant de mobilier de jardin, 95 salariés.",
+      "contexte": "Les déchets coûtent de plus en plus cher. La direction veut un plan d'économie circulaire.",
+      "donnees": {"titre": "Déchets annuels", "entetes": ["Type", "Tonnage", "Traitement actuel", "Coût annuel"], "lignes": [["Chutes de bois", "180 t", "Incinération", "14 400 €"], ["Chutes de plastique", "65 t", "Enfouissement", "9 750 €"], ["Palettes", "40 t", "Benne tout-venant", "3 200 €"], ["Cartons", "25 t", "Recyclage", "Gain de 500 €"]]},
+      "etapes": [
+        {"titre": "Analyser", "consigne": "Appliquez la hiérarchie des déchets (prévention, réemploi, recyclage, valorisation, élimination) à chaque flux."},
+        {"titre": "Proposer", "consigne": "Proposez une action par flux, avec son coût estimé, son gain et son indicateur."},
+        {"titre": "Prioriser", "consigne": "Classez les actions par rapport gain/effort et proposez un calendrier sur 12 mois."}
+      ],
+      "livrable": "Plan d'économie circulaire",
+      "grille": ["La hiérarchie des déchets est appliquée", "La prévention est envisagée avant le recyclage", "Chaque action a un indicateur", "Les gains sont estimés", "Le plan est priorisé"],
+      "elements": ["Bois : optimiser la découpe (prévention), vendre les chutes à une filière panneaux ou granulés.", "Plastique : broyer et réincorporer en production (boucle fermée) ou filière de recyclage.", "Palettes : consigne avec les fournisseurs (réemploi).", "Indicateurs : taux de valorisation, tonnes de déchets par unité produite, coût des déchets."]
+    },
+    {
+      "id": "achats-responsables", "titre": "Évaluer les risques fournisseurs", "niveau": "Intermédiaire", "duree": "60 min", "competences": ["achats", "reg"],
+      "entreprise": "ModeNova, marque de vêtements, 420 salariés.",
+      "contexte": "Un client grand magasin exige une démarche d'achats responsables. ModeNova a 6 fournisseurs principaux.",
+      "donnees": {"titre": "Fournisseurs principaux", "entetes": ["Fournisseur", "Pays", "Activité", "Part des achats"], "lignes": [["F1", "Bangladesh", "Confection", "28 %"], ["F2", "Turquie", "Confection", "22 %"], ["F3", "Portugal", "Tricotage", "18 %"], ["F4", "Chine", "Teinture", "14 %"], ["F5", "Inde", "Coton", "10 %"], ["F6", "France", "Logistique", "8 %"]]},
+      "etapes": [
+        {"titre": "Cartographier", "consigne": "Évaluez pour chaque fournisseur les risques sociaux, environnementaux et éthiques (faible, moyen, élevé), en justifiant."},
+        {"titre": "Construire la grille", "consigne": "Créez une grille d'évaluation de 8 à 10 critères pondérés."},
+        {"titre": "Décider", "consigne": "Quelles actions pour les fournisseurs à risque élevé (audit, plan de progrès, clauses) ?"}
+      ],
+      "livrable": "Cartographie des risques et grille d'évaluation",
+      "grille": ["Les risques sont justifiés par le pays et l'activité", "La teinture est identifiée comme risque environnemental (eau, chimie)", "La grille couvre social, environnement et éthique", "Les pondérations sont cohérentes", "Les actions sont proportionnées au risque", "Les demandes restent raisonnables pour les petits fournisseurs"],
+      "elements": ["Risque social élevé : F1 (sécurité des bâtiments, salaires), F5 (travail forcé et enfants dans la filière coton).", "Risque environnemental élevé : F4 (rejets de teinture, eau, substances).", "Critères : conditions de travail, salaires, sécurité, substances chimiques, eau, énergie, anticorruption, traçabilité, certifications.", "Actions : audits sociaux indépendants, plans de progrès, clauses contractuelles, mécanisme d'alerte."]
+    },
+    {
+      "id": "qvct", "titre": "Améliorer la qualité de vie au travail", "niveau": "Débutant", "duree": "45 min", "competences": ["social", "indicateurs", "comm"],
+      "entreprise": "LogiPlus, entrepôt logistique, 310 salariés.",
+      "contexte": "Absentéisme et départs augmentent. La direction vous confie un diagnostic et un plan d'action.",
+      "donnees": {"titre": "Indicateurs sociaux", "entetes": ["Indicateur", "Année N-1", "Année N"], "lignes": [["Taux d'absentéisme", "5,8 %", "7,9 %"], ["Turnover", "18 %", "26 %"], ["Accidents avec arrêt", "14", "21"], ["Heures de formation par salarié", "9", "6"]]},
+      "etapes": [
+        {"titre": "Diagnostiquer", "consigne": "Que révèlent ces indicateurs ? Quelles hypothèses formulez-vous et comment les vérifier ?"},
+        {"titre": "Construire le plan", "consigne": "Proposez 5 actions avec leur indicateur et leur responsable."},
+        {"titre": "Associer les salariés", "consigne": "Comment impliquer les représentants du personnel et les équipes ?"}
+      ],
+      "livrable": "Diagnostic et plan d'amélioration QVCT",
+      "grille": ["Les évolutions sont calculées et interprétées", "Les hypothèses sont vérifiables (enquête, entretiens)", "La sécurité est traitée en priorité", "Les actions ont des indicateurs", "Le dialogue social est prévu"],
+      "elements": ["Toutes les tendances se dégradent : signal d'un problème d'organisation ou de charge de travail.", "Vérifier par enquête, entretiens de départ et analyse des accidents.", "Actions : prévention des troubles musculosquelettiques, plannings, intégration des nouveaux, formation, reconnaissance."]
+    },
+    {
+      "id": "iso14001", "titre": "Structurer un système de management environnemental", "niveau": "Intermédiaire", "duree": "60 min", "competences": ["envi", "reg", "projet"],
+      "entreprise": "ChimiCoat, fabricant de peintures industrielles, 140 salariés, site soumis à autorisation ICPE.",
+      "contexte": "Les clients demandent une certification ISO 14001 sous 18 mois.",
+      "etapes": [
+        {"titre": "Analyse environnementale", "consigne": "Listez les aspects environnementaux significatifs du site et leurs impacts."},
+        {"titre": "Conformité", "consigne": "Quelles obligations réglementaires principales devez-vous suivre ?"},
+        {"titre": "Plan de déploiement", "consigne": "Proposez les étapes vers la certification sur 18 mois (planifier, déployer, vérifier, améliorer)."}
+      ],
+      "livrable": "Plan d'action environnemental et feuille de route ISO 14001",
+      "grille": ["Les aspects significatifs sont pertinents (solvants, déchets dangereux, eau, énergie)", "La conformité ICPE est citée", "La démarche suit la roue de Deming", "Des audits internes et une revue de direction sont prévus"],
+      "elements": ["Aspects : émissions de composés organiques volatils, déchets dangereux, rejets aqueux, risques de déversement, énergie.", "Étapes : engagement de la direction et politique, analyse environnementale, objectifs, formation, maîtrise opérationnelle, audits internes, revue de direction, audit de certification."]
+    },
+    {
+      "id": "biodiversite", "titre": "Identifier les impacts d'un site sur la biodiversité", "niveau": "Avancé", "duree": "75 min", "competences": ["envi", "reg", "comm"],
+      "entreprise": "Carrières du Val, extraction de granulats, 60 salariés, un site de 40 hectares en bordure d'une zone humide protégée.",
+      "contexte": "L'entreprise souhaite étendre son site de 8 hectares. Les associations locales s'inquiètent.",
+      "etapes": [
+        {"titre": "Diagnostic", "consigne": "Identifiez les pressions du site sur la biodiversité (les cinq grandes pressions de l'IPBES) et ses dépendances."},
+        {"titre": "Séquence éviter, réduire, compenser", "consigne": "Proposez des mesures pour chaque étape, dans cet ordre."},
+        {"titre": "Dialogue", "consigne": "Comment organiser le dialogue avec les associations et la collectivité ?"}
+      ],
+      "livrable": "Diagnostic initial et mesures proposées",
+      "grille": ["Les cinq pressions sont examinées (changement d'usage des sols, exploitation, climat, pollution, espèces exotiques envahissantes)", "La zone humide est traitée comme enjeu majeur", "La séquence éviter, réduire, compenser est respectée dans l'ordre", "Le dialogue est concret et précoce"],
+      "elements": ["Pressions principales : destruction d'habitats, perturbation de l'hydrologie de la zone humide, poussières et bruit.", "Éviter : renoncer à la partie de l'extension la plus proche de la zone humide. Réduire : calendrier de travaux hors périodes de reproduction, gestion de l'eau. Compenser : en dernier recours, avec suivi écologique.", "Remise en état écologique progressive des zones exploitées."]
+    },
+    {
+      "id": "taxonomie", "titre": "Analyser l'éligibilité à la taxonomie", "niveau": "Avancé", "duree": "60 min", "competences": ["finance", "reg"],
+      "entreprise": "BatiNova, construction et rénovation, 1 400 salariés, 520 M€ de chiffre d'affaires.",
+      "contexte": "Vous devez préparer le premier reporting taxonomie.",
+      "donnees": {"titre": "Chiffre d'affaires par activité", "entetes": ["Activité", "CA (M€)", "Informations disponibles"], "lignes": [["Construction de logements neufs", "250", "Performance énergétique 15 % meilleure que la réglementation"], ["Rénovation énergétique", "160", "Gain d'énergie primaire moyen de 35 %"], ["Travaux routiers", "80", "Pas d'information"], ["Location de matériel", "30", "Pas d'information"]]},
+      "etapes": [
+        {"titre": "Éligibilité", "consigne": "Quelles activités sont probablement éligibles ? Appliquez le seuil de matérialité de 10 %."},
+        {"titre": "Alignement", "consigne": "Quelles vérifications faut-il pour conclure à l'alignement (contribution substantielle, DNSH, garanties minimales) ?"},
+        {"titre": "Calcul", "consigne": "Calculez la part éligible et une part alignée en indiquant vos hypothèses."}
+      ],
+      "livrable": "Tableau d'analyse documenté",
+      "grille": ["Les activités de construction et de rénovation sont identifiées comme éligibles", "Le seuil de 10 % est appliqué à la location de matériel", "Les trois conditions de l'alignement sont citées", "Le DNSH est discuté (adaptation, eau, déchets de chantier)", "Les hypothèses du calcul sont explicites"],
+      "elements": ["Éligibles probables : construction neuve et rénovation, soit 410 M€ sur 520 M€ (environ 79 %).", "La location de matériel (environ 6 %) peut être exclue de l'analyse au titre du seuil de 10 %, sous réserve du cumul des activités non matérielles.", "Rénovation : le critère d'au moins 30 % de réduction d'énergie primaire semble atteint ; il faut encore vérifier le DNSH et les garanties minimales.", "Construction neuve : vérifier le critère technique exact applicable avant de conclure."]
+    },
+    {
+      "id": "reporting-esg", "titre": "Construire un tableau de bord RSE", "niveau": "Débutant", "duree": "45 min", "competences": ["indicateurs", "comm"],
+      "entreprise": "Hôtels Azur, groupe de 12 hôtels, 600 salariés.",
+      "contexte": "Le directeur général veut un tableau de bord RSE d'une page, mis à jour chaque trimestre.",
+      "etapes": [
+        {"titre": "Choisir les indicateurs", "consigne": "Sélectionnez 8 indicateurs au maximum, répartis sur E, S et G, adaptés à l'hôtellerie."},
+        {"titre": "Les définir", "consigne": "Rédigez la fiche de deux indicateurs (définition, unité, source, fréquence, responsable)."},
+        {"titre": "Présenter", "consigne": "Décrivez la mise en page et le message clé pour le directeur général."}
+      ],
+      "livrable": "Tableau de bord ESG d'une page",
+      "grille": ["Les indicateurs sont adaptés au secteur", "Au plus 8 indicateurs", "Les fiches sont complètes", "Chaque indicateur a une cible", "La présentation met en avant les écarts"],
+      "elements": ["Exemples : kWh par nuitée, m³ d'eau par nuitée, kg de déchets alimentaires par couvert, part d'achats locaux, taux de fréquence des accidents, turnover, heures de formation, part de femmes managers.", "Afficher la valeur, la cible, la tendance et un code couleur."]
+    },
+    {
+      "id": "eclairage-roi", "titre": "Chiffrer un investissement d'économie d'énergie", "niveau": "Débutant", "duree": "30 min", "competences": ["budget", "envi"],
+      "entreprise": "Entrepôt Sud Logistique, 12 000 m².",
+      "contexte": "La direction hésite à remplacer l'éclairage par des LED.",
+      "donnees": {"titre": "Données du projet", "entetes": ["Élément", "Valeur"], "lignes": [["Consommation actuelle de l'éclairage", "420 MWh par an"], ["Réduction attendue avec les LED", "60 %"], ["Prix de l'électricité", "0,18 € par kWh"], ["Investissement", "95 000 €"], ["Économie de maintenance", "4 000 € par an"], ["Aide publique", "15 000 €"], ["Facteur d'émission électricité", "0,05 kgCO₂e/kWh"]]},
+      "etapes": [
+        {"titre": "Calculer", "consigne": "Calculez l'économie annuelle en MWh, en euros et en tCO₂e, puis le temps de retour sur investissement."},
+        {"titre": "Comparer", "consigne": "Comparez avec un scénario sans aide publique."},
+        {"titre": "Recommander", "consigne": "Rédigez une recommandation de 5 lignes pour la direction."}
+      ],
+      "livrable": "Analyse coûts-bénéfices et recommandation",
+      "grille": ["Économie d'énergie juste (252 MWh)", "Économie financière juste", "Temps de retour juste", "Le scénario sans aide est calculé", "La recommandation est claire et chiffrée"],
+      "elements": ["Économie : 252 MWh, soit 45 360 € d'énergie plus 4 000 € de maintenance = 49 360 € par an ; 12,6 tCO₂e évitées.", "Retour avec aide : 80 000 / 49 360 ≈ 1,6 an. Sans aide : 95 000 / 49 360 ≈ 1,9 an.", "Recommandation : investir ; le projet est rentable même sans aide."]
+    }
+  ]
+}

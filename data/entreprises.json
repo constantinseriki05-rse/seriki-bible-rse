@@ -1,0 +1,1248 @@
+{
+ "naf": {
+  "01": "Culture et production animale",
+  "02": "Sylviculture et exploitation forestière",
+  "03": "Pêche et aquaculture",
+  "05": "Extraction de houille et de lignite",
+  "06": "Extraction d'hydrocarbures",
+  "07": "Extraction de minerais métalliques",
+  "08": "Autres industries extractives",
+  "09": "Services de soutien aux industries extractives",
+  "10": "Industries alimentaires",
+  "11": "Fabrication de boissons",
+  "12": "Fabrication de produits à base de tabac",
+  "13": "Fabrication de textiles",
+  "14": "Industrie de l'habillement",
+  "15": "Industrie du cuir et de la chaussure",
+  "16": "Travail du bois et fabrication d'articles en bois",
+  "17": "Industrie du papier et du carton",
+  "18": "Imprimerie et reproduction d'enregistrements",
+  "19": "Cokéfaction et raffinage",
+  "20": "Industrie chimique",
+  "21": "Industrie pharmaceutique",
+  "22": "Fabrication de produits en caoutchouc et en plastique",
+  "23": "Fabrication d'autres produits minéraux non métalliques",
+  "24": "Métallurgie",
+  "25": "Fabrication de produits métalliques",
+  "26": "Fabrication de produits informatiques, électroniques et optiques",
+  "27": "Fabrication d'équipements électriques",
+  "28": "Fabrication de machines et équipements",
+  "29": "Industrie automobile",
+  "30": "Fabrication d'autres matériels de transport",
+  "31": "Fabrication de meubles",
+  "32": "Autres industries manufacturières",
+  "33": "Réparation et installation de machines et d'équipements",
+  "35": "Production et distribution d'électricité, de gaz et de chaleur",
+  "36": "Captage, traitement et distribution d'eau",
+  "37": "Collecte et traitement des eaux usées",
+  "38": "Collecte, traitement et valorisation des déchets",
+  "39": "Dépollution et autres services de gestion des déchets",
+  "41": "Construction de bâtiments",
+  "42": "Génie civil",
+  "43": "Travaux de construction spécialisés",
+  "45": "Commerce et réparation d'automobiles",
+  "46": "Commerce de gros",
+  "47": "Commerce de détail",
+  "49": "Transports terrestres",
+  "50": "Transports par eau",
+  "51": "Transports aériens",
+  "52": "Entreposage et services auxiliaires des transports",
+  "53": "Activités de poste et de courrier",
+  "55": "Hébergement",
+  "56": "Restauration",
+  "58": "Édition",
+  "59": "Production de films, vidéo, télévision et musique",
+  "60": "Programmation et diffusion",
+  "61": "Télécommunications",
+  "62": "Programmation, conseil et activités informatiques",
+  "63": "Services d'information",
+  "64": "Services financiers",
+  "65": "Assurance",
+  "66": "Activités auxiliaires de services financiers et d'assurance",
+  "68": "Activités immobilières",
+  "69": "Activités juridiques et comptables",
+  "70": "Sièges sociaux et conseil de gestion",
+  "71": "Architecture, ingénierie, contrôle et analyses techniques",
+  "72": "Recherche-développement scientifique",
+  "73": "Publicité et études de marché",
+  "74": "Autres activités spécialisées, scientifiques et techniques",
+  "75": "Activités vétérinaires",
+  "77": "Location et location-bail",
+  "78": "Activités liées à l'emploi",
+  "79": "Agences de voyage et voyagistes",
+  "80": "Enquêtes et sécurité",
+  "81": "Services relatifs aux bâtiments et aménagement paysager",
+  "82": "Services administratifs et de soutien aux entreprises",
+  "84": "Administration publique et défense",
+  "85": "Enseignement",
+  "86": "Activités pour la santé humaine",
+  "87": "Hébergement médico-social et social",
+  "88": "Action sociale sans hébergement",
+  "90": "Activités créatives, artistiques et de spectacle",
+  "91": "Bibliothèques, archives et musées",
+  "92": "Jeux de hasard et d'argent",
+  "93": "Activités sportives, récréatives et de loisirs",
+  "94": "Activités des organisations associatives",
+  "95": "Réparation d'ordinateurs et de biens personnels",
+  "96": "Autres services personnels",
+  "97": "Ménages employeurs",
+  "99": "Organisations extraterritoriales"
+ },
+ "sections": {
+  "A": "Agriculture, sylviculture et pêche",
+  "B": "Industries extractives",
+  "C": "Industrie manufacturière",
+  "D": "Énergie (électricité, gaz, chaleur)",
+  "E": "Eau, assainissement, déchets et dépollution",
+  "F": "Construction",
+  "G": "Commerce",
+  "H": "Transports et entreposage",
+  "I": "Hébergement et restauration",
+  "J": "Information et communication",
+  "K": "Finance et assurance",
+  "L": "Immobilier",
+  "M": "Activités spécialisées, scientifiques et techniques",
+  "N": "Services administratifs et de soutien",
+  "O": "Administration publique",
+  "P": "Enseignement",
+  "Q": "Santé humaine et action sociale",
+  "R": "Arts, spectacles et loisirs",
+  "S": "Autres activités de services",
+  "T": "Ménages employeurs",
+  "U": "Organisations extraterritoriales"
+ },
+ "profils": [
+  {
+   "id": "agri",
+   "nom": "Agriculture, forêt et pêche",
+   "div": [
+    "01",
+    "02",
+    "03"
+   ],
+   "enjeux": [
+    "Émissions agricoles (méthane, protoxyde d'azote) et stockage de carbone dans les sols",
+    "Eau : prélèvements, irrigation et pollution diffuse",
+    "Biodiversité, pesticides et santé des sols",
+    "Revenu et conditions de travail des exploitants et des saisonniers",
+    "Adaptation au changement climatique (sécheresses, aléas)"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "S1",
+    "S2"
+   ],
+   "indicateurs": [
+    "tCO₂e par tonne produite",
+    "Quantité de produits phytosanitaires (IFT)",
+    "Volume d'eau prélevé",
+    "Part de surfaces en agriculture biologique ou HVE"
+   ],
+   "referentiels": [
+    "Label bas-carbone",
+    "Haute valeur environnementale (HVE)",
+    "Agriculture biologique",
+    "GlobalG.A.P."
+   ],
+   "besoins": [
+    "Mesurer l'empreinte carbone des exploitations et des filières",
+    "Répondre aux exigences carbone et biodiversité des clients industriels et de la grande distribution",
+    "Préparer l'adaptation climatique (eau, variétés, assurances)",
+    "Valoriser les pratiques par des labels reconnus"
+   ],
+   "missions": [
+    "Réaliser un diagnostic carbone d'exploitation avec un outil reconnu",
+    "Construire un tableau de bord eau, intrants et biodiversité",
+    "Préparer un dossier de labellisation HVE ou bas-carbone",
+    "Collecter les données demandées par les clients de la filière"
+   ],
+   "questions": [
+    "Quels clients vous demandent aujourd'hui des données carbone ou biodiversité ?",
+    "Comment l'exploitation se prépare-t-elle aux sécheresses ?",
+    "Quelles pratiques souhaitez-vous valoriser et auprès de qui ?"
+   ]
+  },
+  {
+   "id": "agroalim",
+   "nom": "Agroalimentaire et boissons",
+   "div": [
+    "10",
+    "11",
+    "12"
+   ],
+   "enjeux": [
+    "Émissions amont agricoles (souvent plus de 80 % du bilan carbone)",
+    "Emballages et économie circulaire (loi AGEC, règlement emballages)",
+    "Eau et rejets des usines",
+    "Nutrition, santé et sécurité des consommateurs",
+    "Achats agricoles responsables et rémunération des producteurs"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "S2",
+    "S4"
+   ],
+   "indicateurs": [
+    "Part du scope 3 dans les émissions",
+    "Taux d'emballages recyclables ou réemployables",
+    "m³ d'eau par tonne produite",
+    "Taux de gaspillage alimentaire"
+   ],
+   "referentiels": [
+    "Loi AGEC et règlement européen sur les emballages",
+    "Loi EGalim",
+    "SBTi FLAG",
+    "Nutri-Score",
+    "ISO 14001, ISO 22000"
+   ],
+   "besoins": [
+    "Quantifier le scope 3 amont agricole avec les fournisseurs",
+    "Réduire et éco-concevoir les emballages",
+    "Répondre aux questionnaires RSE des distributeurs (EcoVadis, CDP)",
+    "Piloter l'eau et l'énergie des sites de production"
+   ],
+   "missions": [
+    "Mettre à jour le bilan carbone en intégrant les données des fournisseurs",
+    "Cartographier les emballages et proposer un plan de réduction conforme à AGEC",
+    "Préparer la réponse au questionnaire EcoVadis ou CDP",
+    "Animer un programme d'achats responsables auprès des producteurs"
+   ],
+   "questions": [
+    "Quelle part de votre bilan carbone vient des matières premières agricoles ?",
+    "Où en êtes-vous de vos objectifs emballages ?",
+    "Comment travaillez-vous avec vos producteurs sur la transition ?"
+   ]
+  },
+  {
+   "id": "mode",
+   "nom": "Textile, habillement et cuir",
+   "div": [
+    "13",
+    "14",
+    "15"
+   ],
+   "enjeux": [
+    "Conditions de travail et droits humains chez les fournisseurs",
+    "Émissions de la fabrication des matières et de la teinture",
+    "Pollution de l'eau et substances chimiques",
+    "Surproduction, invendus et fin de vie des vêtements",
+    "Allégations environnementales et affichage"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E3",
+    "E5",
+    "S2",
+    "S4"
+   ],
+   "indicateurs": [
+    "Part des fournisseurs audités",
+    "Part de matières recyclées ou certifiées",
+    "Taux d'invendus",
+    "tCO₂e par article"
+   ],
+   "referentiels": [
+    "Interdiction de destruction des invendus (AGEC, ESPR)",
+    "Affichage environnemental des vêtements",
+    "Directive ECGT (allégations)",
+    "GOTS, OEKO-TEX, Fair Wear"
+   ],
+   "besoins": [
+    "Tracer la chaîne d'approvisionnement jusqu'aux usines",
+    "Mesurer et réduire l'impact des matières",
+    "Sécuriser les allégations marketing",
+    "Organiser la seconde main, la réparation et le recyclage"
+   ],
+   "missions": [
+    "Cartographier les fournisseurs de rang 1 et 2 et leurs risques",
+    "Calculer l'affichage environnemental de plusieurs références",
+    "Relire les allégations du site et des étiquettes",
+    "Monter un projet de reprise ou de seconde main"
+   ],
+   "questions": [
+    "Jusqu'à quel rang connaissez-vous vos fournisseurs ?",
+    "Comment gérez-vous les invendus ?",
+    "Quelles allégations environnementales utilisez-vous et comment sont-elles prouvées ?"
+   ]
+  },
+  {
+   "id": "chimie",
+   "nom": "Chimie, pharmacie, plasturgie et raffinage",
+   "div": [
+    "19",
+    "20",
+    "21",
+    "22"
+   ],
+   "enjeux": [
+    "Sécurité des procédés et risques industriels",
+    "Substances dangereuses (REACH) et pollution",
+    "Décarbonation de procédés très énergivores",
+    "Plastiques et économie circulaire",
+    "Accès aux produits et éthique (pharmacie)"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E3",
+    "E5",
+    "S1",
+    "S4",
+    "G1"
+   ],
+   "indicateurs": [
+    "tCO₂e par tonne produite",
+    "Taux de fréquence des accidents",
+    "Rejets dans l'air et l'eau",
+    "Part de matières biosourcées ou recyclées"
+   ],
+   "referentiels": [
+    "REACH et CLP",
+    "Réglementation ICPE et Seveso",
+    "SEQE-UE (quotas carbone) et MACF",
+    "ISO 14001, 45001, 50001",
+    "Responsible Care"
+   ],
+   "besoins": [
+    "Plan de décarbonation des sites et efficacité énergétique",
+    "Conformité substances et substitution",
+    "Prévention des risques et culture sécurité",
+    "Réponse aux exigences des clients et des investisseurs"
+   ],
+   "missions": [
+    "Suivre les consommations d'énergie et les plans d'efficacité des sites",
+    "Mettre à jour un inventaire des substances préoccupantes",
+    "Préparer des indicateurs sécurité et environnement pour le reporting",
+    "Contribuer à un projet d'éco-conception ou de recyclage"
+   ],
+   "questions": [
+    "Quels sont les principaux leviers de décarbonation de vos sites ?",
+    "Comment pilotez-vous la substitution des substances préoccupantes ?",
+    "Comment la sécurité et l'environnement sont-ils organisés ensemble ?"
+   ]
+  },
+  {
+   "id": "industrie",
+   "nom": "Industrie, matériaux et équipements",
+   "div": [
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "16",
+    "17",
+    "18",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "31",
+    "32",
+    "33"
+   ],
+   "enjeux": [
+    "Décarbonation de l'énergie et des procédés",
+    "Matières premières, recyclage et éco-conception",
+    "Santé et sécurité au travail",
+    "Pollution et déchets industriels",
+    "Chaîne d'approvisionnement et minerais"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E5",
+    "S1",
+    "S2"
+   ],
+   "indicateurs": [
+    "tCO₂e par unité produite",
+    "kWh par unité produite",
+    "Taux de fréquence des accidents",
+    "Taux de valorisation des déchets"
+   ],
+   "referentiels": [
+    "BEGES",
+    "Audit énergétique ou ISO 50001 selon la consommation",
+    "SEQE-UE et MACF pour les sites et intrants concernés",
+    "Règlement écoconception (ESPR)",
+    "ISO 14001, 45001"
+   ],
+   "besoins": [
+    "Réduire la consommation d'énergie et électrifier",
+    "Répondre aux questionnaires RSE et carbone des grands clients",
+    "Éco-concevoir les produits",
+    "Renforcer la sécurité et la qualité de vie au travail"
+   ],
+   "missions": [
+    "Réaliser ou mettre à jour le bilan carbone d'un site",
+    "Construire un plan de sobriété énergétique chiffré",
+    "Préparer un audit ISO 14001 ou ISO 50001",
+    "Calculer l'empreinte d'un produit (ACV simplifiée)"
+   ],
+   "questions": [
+    "Quels clients vous demandent des données carbone et dans quel format ?",
+    "Quels sont vos projets énergie pour les deux prochaines années ?",
+    "Comment l'environnement est-il intégré à la conception des produits ?"
+   ]
+  },
+  {
+   "id": "transport-equip",
+   "nom": "Automobile, aéronautique et ferroviaire",
+   "div": [
+    "29",
+    "30"
+   ],
+   "enjeux": [
+    "Émissions à l'usage des véhicules (scope 3 aval dominant)",
+    "Électrification et nouvelles motorisations",
+    "Batteries, métaux critiques et devoir de vigilance",
+    "Emploi et compétences pendant la transition",
+    "Économie circulaire des véhicules"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E5",
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "indicateurs": [
+    "Émissions moyennes des produits vendus",
+    "Part de matières recyclées",
+    "Part des fournisseurs évalués",
+    "Heures de formation par salarié"
+   ],
+   "referentiels": [
+    "Normes CO₂ européennes des véhicules",
+    "Règlement batteries",
+    "Devoir de vigilance",
+    "SBTi",
+    "IATF 16949, ISO 14001"
+   ],
+   "besoins": [
+    "Mesurer les émissions des produits sur leur cycle de vie",
+    "Sécuriser la chaîne d'approvisionnement en métaux",
+    "Accompagner les salariés dans la transformation des métiers",
+    "Développer le recyclage et le réemploi des pièces"
+   ],
+   "missions": [
+    "Collecter les données carbone des fournisseurs",
+    "Réaliser une analyse de cycle de vie d'une pièce",
+    "Cartographier les risques sur les minerais",
+    "Préparer des indicateurs sociaux sur la formation et les compétences"
+   ],
+   "questions": [
+    "Quelle part de vos émissions vient de l'usage de vos produits ?",
+    "Comment sécurisez-vous l'approvisionnement en métaux critiques ?",
+    "Comment préparez-vous les compétences de demain ?"
+   ]
+  },
+  {
+   "id": "numerique",
+   "nom": "Numérique, télécoms et édition",
+   "div": [
+    "58",
+    "61",
+    "62",
+    "63"
+   ],
+   "enjeux": [
+    "Empreinte environnementale du numérique (terminaux, centres de données)",
+    "Protection des données et cybersécurité",
+    "Éthique de l'intelligence artificielle",
+    "Inclusion, diversité et attractivité des talents",
+    "Sobriété des services et écoconception"
+   ],
+   "esrs": [
+    "E1",
+    "E5",
+    "S1",
+    "S4",
+    "G1"
+   ],
+   "indicateurs": [
+    "tCO₂e par utilisateur ou par salarié",
+    "PUE des centres de données",
+    "Taux de femmes dans les équipes techniques",
+    "Durée de vie moyenne des équipements"
+   ],
+   "referentiels": [
+    "Loi REEN (numérique responsable)",
+    "RGPD",
+    "Règlement européen sur l'IA",
+    "Référentiel général d'écoconception de services numériques (RGESN)",
+    "Label Numérique Responsable"
+   ],
+   "besoins": [
+    "Mesurer l'empreinte du parc informatique et des services",
+    "Écoconcevoir les sites et applications",
+    "Répondre aux exigences RSE des clients dans les appels d'offres",
+    "Améliorer la diversité et l'inclusion"
+   ],
+   "missions": [
+    "Réaliser l'inventaire carbone du parc et des usages numériques",
+    "Auditer un site selon le RGESN",
+    "Rédiger la partie RSE d'une réponse à appel d'offres",
+    "Construire un plan diversité et inclusion"
+   ],
+   "questions": [
+    "Avez-vous mesuré l'empreinte de vos services numériques ?",
+    "Vos clients vous demandent-ils des preuves RSE dans les appels d'offres ?",
+    "Comment l'éthique de l'IA est-elle encadrée chez vous ?"
+   ]
+  },
+  {
+   "id": "energie",
+   "nom": "Énergie",
+   "div": [
+    "35"
+   ],
+   "enjeux": [
+    "Trajectoire de décarbonation du mix",
+    "Sécurité d'approvisionnement et prix pour les clients",
+    "Biodiversité et acceptabilité des projets",
+    "Sécurité des installations",
+    "Précarité énergétique"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E4",
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "indicateurs": [
+    "gCO₂ par kWh produit",
+    "Part des énergies renouvelables",
+    "Taux de fréquence des accidents",
+    "Nombre de clients accompagnés"
+   ],
+   "referentiels": [
+    "SEQE-UE",
+    "Taxonomie verte (activités énergie)",
+    "Certificats d'économies d'énergie (CEE)",
+    "Études d'impact environnemental"
+   ],
+   "besoins": [
+    "Démontrer l'alignement taxonomie des investissements",
+    "Concerter avec les territoires et protéger la biodiversité",
+    "Accompagner les clients dans la sobriété",
+    "Publier un reporting très exigé par les investisseurs"
+   ],
+   "missions": [
+    "Calculer la part alignée taxonomie d'un portefeuille de projets",
+    "Préparer un dossier de concertation locale",
+    "Suivre les mesures biodiversité d'un projet",
+    "Contribuer au rapport de durabilité"
+   ],
+   "questions": [
+    "Comment les projets sont-ils concertés avec les riverains ?",
+    "Quelle part de vos investissements est alignée sur la taxonomie ?",
+    "Quelles actions menez-vous contre la précarité énergétique ?"
+   ]
+  },
+  {
+   "id": "eau-dechets",
+   "nom": "Eau, déchets et dépollution",
+   "div": [
+    "36",
+    "37",
+    "38",
+    "39"
+   ],
+   "enjeux": [
+    "Préservation de la ressource en eau",
+    "Valorisation des déchets et économie circulaire",
+    "Émissions de méthane et de CO₂ des installations",
+    "Santé et sécurité des opérateurs",
+    "Relations avec les collectivités"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E3",
+    "E5",
+    "S1",
+    "S3"
+   ],
+   "indicateurs": [
+    "Rendement des réseaux d'eau",
+    "Taux de valorisation des déchets",
+    "tCO₂e évitées",
+    "Taux de fréquence des accidents"
+   ],
+   "referentiels": [
+    "Loi AGEC et filières REP",
+    "Directive eaux résiduaires urbaines",
+    "Taxonomie verte",
+    "ISO 14001, 45001"
+   ],
+   "besoins": [
+    "Démontrer l'impact positif auprès des collectivités clientes",
+    "Prouver la valorisation réelle des déchets",
+    "Réduire les accidents du travail",
+    "Préparer le reporting taxonomie"
+   ],
+   "missions": [
+    "Construire les indicateurs d'impact d'un contrat public",
+    "Réaliser un bilan matières d'un site",
+    "Animer une campagne sécurité",
+    "Préparer un dossier de réponse à une délégation de service public"
+   ],
+   "questions": [
+    "Comment démontrez-vous votre impact aux collectivités ?",
+    "Quels sont vos indicateurs de valorisation ?",
+    "Comment la sécurité des opérateurs est-elle suivie ?"
+   ]
+  },
+  {
+   "id": "btp",
+   "nom": "Construction, architecture et ingénierie",
+   "div": [
+    "41",
+    "42",
+    "43",
+    "71"
+   ],
+   "enjeux": [
+    "Carbone des matériaux et des chantiers (RE2020)",
+    "Déchets de chantier et réemploi",
+    "Sécurité sur les chantiers",
+    "Sous-traitance et travail illégal",
+    "Rénovation énergétique et adaptation des bâtiments"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E4",
+    "E5",
+    "S1",
+    "S2"
+   ],
+   "indicateurs": [
+    "kgCO₂e par m² construit",
+    "Taux de valorisation des déchets de chantier",
+    "Taux de fréquence des accidents",
+    "Part de matériaux biosourcés ou réemployés"
+   ],
+   "referentiels": [
+    "RE2020",
+    "Filière REP des produits et matériaux du bâtiment",
+    "Qualification RGE",
+    "Décret tertiaire",
+    "ISO 14001, 45001"
+   ],
+   "besoins": [
+    "Calculer le carbone des projets et proposer des variantes bas-carbone",
+    "Organiser le tri et le réemploi sur les chantiers",
+    "Réduire les accidents",
+    "Répondre aux critères RSE des marchés publics"
+   ],
+   "missions": [
+    "Réaliser l'analyse de cycle de vie d'un bâtiment",
+    "Mettre en place un plan de gestion des déchets de chantier",
+    "Préparer la partie RSE d'une réponse à un marché public",
+    "Construire un tableau de bord sécurité"
+   ],
+   "questions": [
+    "Comment intégrez-vous la RE2020 dès la conception ?",
+    "Quelle part des déchets de chantier est valorisée ?",
+    "Quels critères RSE retrouvez-vous dans vos appels d'offres ?"
+   ]
+  },
+  {
+   "id": "commerce",
+   "nom": "Commerce et distribution",
+   "div": [
+    "45",
+    "46",
+    "47"
+   ],
+   "enjeux": [
+    "Émissions des produits vendus et du transport",
+    "Achats responsables et droits humains",
+    "Emballages, gaspillage et invendus",
+    "Énergie des magasins et entrepôts",
+    "Information des consommateurs et allégations"
+   ],
+   "esrs": [
+    "E1",
+    "E5",
+    "S2",
+    "S4",
+    "G1"
+   ],
+   "indicateurs": [
+    "Part du scope 3 achats",
+    "Taux de gaspillage ou d'invendus",
+    "kWh par m² de surface de vente",
+    "Part de produits labellisés"
+   ],
+   "referentiels": [
+    "Loi AGEC",
+    "Loi Climat et Résilience",
+    "Décret tertiaire",
+    "Directive ECGT",
+    "Devoir de vigilance pour les plus grands"
+   ],
+   "besoins": [
+    "Engager les fournisseurs sur le carbone et les droits humains",
+    "Réduire les invendus et les emballages",
+    "Sécuriser les allégations environnementales",
+    "Baisser la consommation d'énergie des sites"
+   ],
+   "missions": [
+    "Évaluer les fournisseurs avec une grille RSE",
+    "Suivre les invendus et les dons",
+    "Auditer les allégations des fiches produits",
+    "Suivre les consommations énergétiques des magasins (décret tertiaire)"
+   ],
+   "questions": [
+    "Comment évaluez-vous vos fournisseurs ?",
+    "Que deviennent vos invendus ?",
+    "Comment vérifiez-vous les allégations environnementales de vos produits ?"
+   ]
+  },
+  {
+   "id": "transport",
+   "nom": "Transport et logistique",
+   "div": [
+    "49",
+    "50",
+    "51",
+    "52",
+    "53"
+   ],
+   "enjeux": [
+    "Décarbonation des flottes et des carburants",
+    "Pollution de l'air et bruit",
+    "Santé, sécurité et conditions de travail des conducteurs",
+    "Optimisation logistique et transport combiné",
+    "Demandes de données carbone des chargeurs"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "S1",
+    "S4"
+   ],
+   "indicateurs": [
+    "gCO₂e par tonne-kilomètre",
+    "Part de véhicules à faibles émissions",
+    "Taux de fréquence des accidents",
+    "Taux de remplissage"
+   ],
+   "referentiels": [
+    "Information CO₂ des prestations de transport (obligatoire en France)",
+    "Programme EVE et label Objectif CO₂",
+    "SEQE-UE pour le maritime et l'aérien",
+    "Norme ISO 14083"
+   ],
+   "besoins": [
+    "Calculer et fournir l'information CO₂ aux clients",
+    "Planifier le renouvellement de la flotte",
+    "Réduire l'accidentologie",
+    "Optimiser les tournées"
+   ],
+   "missions": [
+    "Calculer les émissions par client selon ISO 14083",
+    "Préparer une candidature au label Objectif CO₂",
+    "Étudier le passage à une motorisation alternative pour une ligne",
+    "Animer un programme d'écoconduite"
+   ],
+   "questions": [
+    "Comment calculez-vous l'information CO₂ pour vos clients ?",
+    "Quel est votre plan de renouvellement de flotte ?",
+    "Comment suivez-vous la sécurité des conducteurs ?"
+   ]
+  },
+  {
+   "id": "tourisme",
+   "nom": "Hôtellerie, restauration et tourisme",
+   "div": [
+    "55",
+    "56",
+    "79"
+   ],
+   "enjeux": [
+    "Gaspillage alimentaire et approvisionnement local",
+    "Énergie et eau des établissements",
+    "Conditions de travail et fidélisation des équipes",
+    "Émissions liées aux déplacements des clients",
+    "Accessibilité et ancrage territorial"
+   ],
+   "esrs": [
+    "E1",
+    "E3",
+    "E5",
+    "S1",
+    "S4"
+   ],
+   "indicateurs": [
+    "kg de déchets alimentaires par couvert",
+    "kWh et m³ par nuitée",
+    "Taux de rotation du personnel",
+    "Part d'achats locaux"
+   ],
+   "referentiels": [
+    "Loi AGEC (biodéchets, vaisselle réemployable)",
+    "Clé Verte, Écolabel européen",
+    "Décret tertiaire pour les grands établissements"
+   ],
+   "besoins": [
+    "Réduire le gaspillage alimentaire",
+    "Baisser l'énergie et l'eau",
+    "Fidéliser les salariés",
+    "Valoriser une démarche par un label"
+   ],
+   "missions": [
+    "Peser et réduire le gaspillage alimentaire sur un mois",
+    "Préparer un dossier Clé Verte",
+    "Construire un plan de sobriété énergie et eau",
+    "Créer un parcours d'intégration des saisonniers"
+   ],
+   "questions": [
+    "Mesurez-vous le gaspillage alimentaire ?",
+    "Avez-vous un label environnemental ou en visez-vous un ?",
+    "Comment fidélisez-vous vos équipes ?"
+   ]
+  },
+  {
+   "id": "finance",
+   "nom": "Banque, assurance et finance",
+   "div": [
+    "64",
+    "65",
+    "66"
+   ],
+   "enjeux": [
+    "Émissions financées (scope 3 catégorie 15)",
+    "Intégration ESG dans le crédit et l'investissement",
+    "Risques climatiques des portefeuilles et des assurés",
+    "Inclusion financière et protection des clients",
+    "Éthique, lutte anti-corruption et conformité"
+   ],
+   "esrs": [
+    "E1",
+    "S4",
+    "G1"
+   ],
+   "indicateurs": [
+    "tCO₂e financées par million d'euros",
+    "Part des encours alignés taxonomie (GAR)",
+    "Part des fonds classés durables",
+    "Taux de formation éthique et conformité"
+   ],
+   "referentiels": [
+    "SFDR (révision en cours)",
+    "Taxonomie verte",
+    "Article 29 de la loi Énergie-Climat",
+    "Exigences ESG de la BCE et de l'ACPR",
+    "Méthode PCAF"
+   ],
+   "besoins": [
+    "Mesurer les émissions financées",
+    "Collecter les données ESG des entreprises clientes",
+    "Évaluer les risques climatiques physiques et de transition",
+    "Classer les produits financiers selon SFDR"
+   ],
+   "missions": [
+    "Collecter et contrôler les données ESG d'un portefeuille",
+    "Calculer les émissions financées avec la méthode PCAF",
+    "Préparer une analyse de risque climatique physique",
+    "Contribuer au rapport article 29"
+   ],
+   "questions": [
+    "Comment collectez-vous les données ESG de vos clients ?",
+    "Comment mesurez-vous les émissions financées ?",
+    "Comment vous préparez-vous à la révision de SFDR ?"
+   ]
+  },
+  {
+   "id": "immobilier",
+   "nom": "Immobilier et services aux bâtiments",
+   "div": [
+    "68",
+    "81"
+   ],
+   "enjeux": [
+    "Énergie et carbone des bâtiments en exploitation",
+    "Rénovation et décret tertiaire",
+    "Adaptation climatique (chaleur, inondation)",
+    "Biodiversité et artificialisation des sols",
+    "Confort et santé des occupants"
+   ],
+   "esrs": [
+    "E1",
+    "E4",
+    "S4"
+   ],
+   "indicateurs": [
+    "kWh par m² et par an",
+    "kgCO₂e par m²",
+    "Part du parc rénové",
+    "Part des actifs exposés aux risques climatiques"
+   ],
+   "referentiels": [
+    "Décret tertiaire (plateforme OPERAT)",
+    "Décret BACS",
+    "DPE",
+    "Taxonomie verte",
+    "Certifications HQE, BREEAM, Label ISR immobilier"
+   ],
+   "besoins": [
+    "Atteindre les objectifs du décret tertiaire",
+    "Planifier la rénovation du parc",
+    "Évaluer l'exposition aux risques climatiques",
+    "Certifier les bâtiments"
+   ],
+   "missions": [
+    "Déclarer les consommations sur OPERAT et analyser les écarts",
+    "Construire un plan pluriannuel de travaux",
+    "Réaliser une cartographie des risques climatiques du parc",
+    "Préparer une certification environnementale"
+   ],
+   "questions": [
+    "Où en êtes-vous des objectifs du décret tertiaire ?",
+    "Comment priorisez-vous les rénovations ?",
+    "Avez-vous évalué l'exposition de votre parc aux risques climatiques ?"
+   ]
+  },
+  {
+   "id": "conseil",
+   "nom": "Conseil, services aux entreprises et sièges de groupe",
+   "div": [
+    "69",
+    "70",
+    "72",
+    "73",
+    "74",
+    "75",
+    "77",
+    "78",
+    "80",
+    "82"
+   ],
+   "enjeux": [
+    "Éthique, déontologie et conformité",
+    "Bien-être, charge de travail et fidélisation",
+    "Déplacements professionnels",
+    "Impact des recommandations faites aux clients",
+    "Diversité et égalité professionnelle"
+   ],
+   "esrs": [
+    "E1",
+    "S1",
+    "G1"
+   ],
+   "indicateurs": [
+    "tCO₂e par salarié",
+    "Taux de rotation du personnel",
+    "Index de l'égalité professionnelle",
+    "Part des missions à impact"
+   ],
+   "referentiels": [
+    "Loi Sapin II (grandes entreprises)",
+    "Index de l'égalité professionnelle",
+    "Plan de mobilité employeur",
+    "Questionnaires RSE des clients (EcoVadis)"
+   ],
+   "besoins": [
+    "Répondre aux exigences RSE des clients",
+    "Réduire les déplacements et l'empreinte des bureaux",
+    "Améliorer l'attractivité et la qualité de vie au travail",
+    "Développer une offre de conseil durable"
+   ],
+   "missions": [
+    "Réaliser le bilan carbone des bureaux et des déplacements",
+    "Préparer le questionnaire EcoVadis",
+    "Construire une politique voyages responsables",
+    "Contribuer à une nouvelle offre de services RSE"
+   ],
+   "questions": [
+    "Vos clients vous évaluent-ils sur la RSE ?",
+    "Comment réduisez-vous les déplacements ?",
+    "Quelle offre durable proposez-vous à vos clients ?"
+   ]
+  },
+  {
+   "id": "sante",
+   "nom": "Santé et médico-social",
+   "div": [
+    "86",
+    "87",
+    "88"
+   ],
+   "enjeux": [
+    "Empreinte carbone des soins (achats de médicaments et de dispositifs)",
+    "Déchets d'activités de soins",
+    "Conditions de travail et absentéisme",
+    "Accès aux soins et qualité de l'accompagnement",
+    "Énergie des bâtiments"
+   ],
+   "esrs": [
+    "E1",
+    "E5",
+    "S1",
+    "S4"
+   ],
+   "indicateurs": [
+    "tCO₂e par lit ou par patient",
+    "Tonnes de déchets de soins",
+    "Taux d'absentéisme",
+    "Taux de satisfaction des usagers"
+   ],
+   "referentiels": [
+    "BEGES (plus de 500 salariés dans le privé, plus de 250 agents dans le public)",
+    "Décret tertiaire",
+    "Certification HAS (critères développement durable)",
+    "Plan de mobilité"
+   ],
+   "besoins": [
+    "Réduire l'empreinte des achats de santé",
+    "Mieux trier les déchets",
+    "Améliorer la qualité de vie au travail",
+    "Préparer les critères développement durable de la certification"
+   ],
+   "missions": [
+    "Réaliser le bilan carbone d'un service",
+    "Mettre en place une filière de tri ou de réemploi",
+    "Construire un plan qualité de vie au travail",
+    "Préparer les preuves de la certification HAS"
+   ],
+   "questions": [
+    "Comment le développement durable est-il intégré au projet d'établissement ?",
+    "Quels achats pèsent le plus dans votre empreinte ?",
+    "Comment luttez-vous contre l'absentéisme ?"
+   ]
+  },
+  {
+   "id": "public",
+   "nom": "Secteur public, enseignement et associations",
+   "div": [
+    "84",
+    "85",
+    "94",
+    "99"
+   ],
+   "enjeux": [
+    "Exemplarité et achats publics responsables",
+    "Énergie et patrimoine bâti",
+    "Mobilité des agents et des usagers",
+    "Égalité, inclusion et accessibilité",
+    "Transparence et participation citoyenne"
+   ],
+   "esrs": [
+    "E1",
+    "S1",
+    "S3",
+    "G1"
+   ],
+   "indicateurs": [
+    "tCO₂e par agent",
+    "Part des marchés avec clause environnementale ou sociale",
+    "kWh par m²",
+    "Part des agents formés à la transition"
+   ],
+   "referentiels": [
+    "BEGES des collectivités de plus de 50 000 habitants et des établissements publics de plus de 250 agents",
+    "Schéma de promotion des achats socialement et écologiquement responsables (SPASER)",
+    "Décret tertiaire",
+    "Loi Climat et Résilience (clauses environnementales)"
+   ],
+   "besoins": [
+    "Mettre en œuvre les clauses environnementales des marchés",
+    "Réduire l'énergie du patrimoine",
+    "Former les agents à la transition écologique",
+    "Construire et suivre un plan climat"
+   ],
+   "missions": [
+    "Préparer le SPASER ou en suivre les indicateurs",
+    "Réaliser le bilan carbone d'une structure",
+    "Concevoir une formation à la transition écologique",
+    "Suivre un plan climat-air-énergie"
+   ],
+   "questions": [
+    "Comment les achats intègrent-ils des critères environnementaux et sociaux ?",
+    "Quel est votre plan de réduction pour le patrimoine ?",
+    "Comment les agents sont-ils formés ?"
+   ]
+  },
+  {
+   "id": "culture",
+   "nom": "Médias, culture, sport et loisirs",
+   "div": [
+    "59",
+    "60",
+    "90",
+    "91",
+    "92",
+    "93"
+   ],
+   "enjeux": [
+    "Déplacements des publics et des équipes",
+    "Écoconception des productions et des événements",
+    "Diversité, représentation et inclusion",
+    "Conditions de travail des intermittents et des équipes",
+    "Influence et sensibilisation du public"
+   ],
+   "esrs": [
+    "E1",
+    "E5",
+    "S1",
+    "S4"
+   ],
+   "indicateurs": [
+    "tCO₂e par production ou par spectateur",
+    "Taux de réemploi des décors",
+    "Part de productions écoconçues",
+    "Indicateurs de diversité à l'écran ou sur scène"
+   ],
+   "referentiels": [
+    "Bilan carbone exigé par le CNC pour les aides",
+    "Écoprod",
+    "Norme ISO 20121 (événements)",
+    "Plan de sobriété du ministère de la Culture"
+   ],
+   "besoins": [
+    "Mesurer l'empreinte des productions et des événements",
+    "Écoconcevoir décors, costumes et déplacements",
+    "Répondre aux conditions des financeurs publics",
+    "Sensibiliser les publics"
+   ],
+   "missions": [
+    "Calculer le bilan carbone d'une production ou d'un événement",
+    "Organiser le réemploi des décors",
+    "Préparer un dossier d'aide avec volet environnemental",
+    "Créer une charte d'événement responsable"
+   ],
+   "questions": [
+    "Mesurez-vous l'empreinte de vos productions ?",
+    "Comment les financeurs vous demandent-ils de rendre compte ?",
+    "Comment la diversité est-elle prise en compte ?"
+   ]
+  },
+  {
+   "id": "services",
+   "nom": "Services aux particuliers",
+   "div": [
+    "95",
+    "96",
+    "97"
+   ],
+   "enjeux": [
+    "Produits utilisés et santé des salariés",
+    "Énergie et eau",
+    "Réparation et allongement de la durée de vie",
+    "Ancrage local et emploi",
+    "Déchets"
+   ],
+   "esrs": [
+    "E1",
+    "E2",
+    "E5",
+    "S1"
+   ],
+   "indicateurs": [
+    "kWh par m²",
+    "Taux de produits écolabellisés",
+    "Nombre d'objets réparés",
+    "Taux d'accidents"
+   ],
+   "referentiels": [
+    "Bonus réparation (filières REP)",
+    "Écolabels",
+    "Prévention des risques chimiques"
+   ],
+   "besoins": [
+    "Choisir des produits moins dangereux",
+    "Réduire énergie et déchets",
+    "Valoriser la réparation",
+    "Fidéliser les équipes"
+   ],
+   "missions": [
+    "Faire l'inventaire des produits et proposer des alternatives",
+    "Mettre en place le tri",
+    "Préparer l'adhésion au bonus réparation",
+    "Construire un plan d'action simple et chiffré"
+   ],
+   "questions": [
+    "Quels produits utilisez-vous au quotidien ?",
+    "Êtes-vous labellisé réparateur ?",
+    "Quelles actions avez-vous déjà engagées ?"
+   ]
+  }
+ ],
+ "presets": [
+  {
+   "titre": "Sociétés à mission près de Lyon",
+   "f": {
+    "departement": "69",
+    "est_societe_mission": true
+   }
+  },
+  {
+   "titre": "Grandes entreprises du Rhône",
+   "f": {
+    "departement": "69",
+    "categorie_entreprise": "GE"
+   }
+  },
+  {
+   "titre": "ETI du Rhône avec index égalité publié",
+   "f": {
+    "departement": "69",
+    "categorie_entreprise": "ETI",
+    "egapro_renseignee": true
+   }
+  },
+  {
+   "titre": "Entreprises de l'ESS du Rhône",
+   "f": {
+    "departement": "69",
+    "est_ess": true
+   }
+  },
+  {
+   "titre": "BTP certifié RGE dans le Rhône",
+   "f": {
+    "departement": "69",
+    "section_activite_principale": "F",
+    "est_rge": true
+   }
+  },
+  {
+   "titre": "Sociétés à mission en France",
+   "f": {
+    "est_societe_mission": true
+   }
+  },
+  {
+   "titre": "Grandes entreprises industrielles en France",
+   "f": {
+    "categorie_entreprise": "GE",
+    "section_activite_principale": "C"
+   }
+  },
+  {
+   "titre": "Grandes banques et assurances",
+   "f": {
+    "categorie_entreprise": "GE",
+    "section_activite_principale": "K"
+   }
+  }
+ ]
+}
