@@ -1,0 +1,33 @@
+name: Actualités RSE du jour
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: maj-donnees
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Lire les flux et mettre à jour data/actualites.json
+        run: node tools/maj-actualites.mjs
+      - name: Enregistrer s'il y a du nouveau
+        run: |
+          if git diff --quiet data/actualites.json; then echo "Rien de nouveau aujourd'hui."; exit 0; fi
+          git config user.name "robot-actualites"
+          git config user.email "robot-actualites@users.noreply.github.com"
+          git add data/actualites.json
+          git commit -m "Actualités RSE du $(date +%d/%m/%Y)"
+          git pull --rebase
+          git push
