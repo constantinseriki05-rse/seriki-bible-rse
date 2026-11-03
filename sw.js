@@ -2,7 +2,7 @@
    Il rend l'application installable sur Android et PC et la fait fonctionner hors ligne.
    Stratégie « réseau d'abord » : avec Internet, on obtient toujours la dernière version, qui est aussitôt
    gardée en réserve ; sans Internet, l'application s'ouvre avec la dernière version enregistrée. */
-const CACHE = 'seriki-v21';
+const CACHE = 'seriki-v22';
 const CORE = ['./', './index.html', './css/app.css', './js/app.js', './manifest.webmanifest',
   './data/bible.json', './data/terrain.json', './data/labo.json', './data/metiers.json', './data/entreprises.json',
   './data/actualites.json', './data/offres.json', './data/sources-actualites.json', './data/cours/exemple-csrd.json',
