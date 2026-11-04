@@ -1,0 +1,1064 @@
+{
+ "miseAJour": "2026-11-04",
+ "competences": [
+  {
+   "id": "reg",
+   "nom": "Réglementation et reporting",
+   "niveaux": [
+    "Connaître les principaux textes (CSRD, BEGES, vigilance)",
+    "Identifier les obligations d'une entreprise et organiser une collecte",
+    "Coordonner un reporting complet et préparer l'audit"
+   ]
+  },
+  {
+   "id": "carbone",
+   "nom": "Bilan carbone et climat",
+   "niveaux": [
+    "Comprendre les scopes et les facteurs d'émission",
+    "Calculer un bilan et identifier les postes majeurs",
+    "Construire une trajectoire et un plan de transition chiffré"
+   ]
+  },
+  {
+   "id": "dm",
+   "nom": "Double matérialité et analyse des enjeux",
+   "niveaux": [
+    "Expliquer les deux matérialités",
+    "Coter des impacts, risques et opportunités",
+    "Conduire l'analyse complète et la faire valider"
+   ]
+  },
+  {
+   "id": "projet",
+   "nom": "Gestion de projet",
+   "niveaux": [
+    "Comprendre les étapes d'un projet",
+    "Planifier, répartir les rôles et suivre un projet",
+    "Piloter plusieurs projets, budgets et risques"
+   ]
+  },
+  {
+   "id": "indicateurs",
+   "nom": "Indicateurs ESG et tableaux de bord",
+   "niveaux": [
+    "Comprendre les indicateurs E, S et G",
+    "Construire un tableau de bord avec des fiches indicateurs",
+    "Analyser la performance et en tirer des recommandations"
+   ]
+  },
+  {
+   "id": "envi",
+   "nom": "Analyse environnementale",
+   "niveaux": [
+    "Identifier les impacts d'une activité",
+    "Réaliser un diagnostic environnemental",
+    "Proposer et chiffrer des plans d'amélioration"
+   ]
+  },
+  {
+   "id": "achats",
+   "nom": "Achats responsables et chaîne de valeur",
+   "niveaux": [
+    "Connaître les risques fournisseurs",
+    "Construire une grille d'évaluation fournisseurs",
+    "Piloter une politique d'achats responsables"
+   ]
+  },
+  {
+   "id": "circulaire",
+   "nom": "Économie circulaire",
+   "niveaux": [
+    "Connaître les principes (réemploi, recyclage, écoconception)",
+    "Analyser des flux de matières et de déchets",
+    "Concevoir un plan d'économie circulaire"
+   ]
+  },
+  {
+   "id": "social",
+   "nom": "Social, droits humains et QVCT",
+   "niveaux": [
+    "Connaître les obligations sociales principales",
+    "Analyser des indicateurs sociaux",
+    "Construire un plan d'amélioration avec les partenaires sociaux"
+   ]
+  },
+  {
+   "id": "finance",
+   "nom": "Finance durable et taxonomie",
+   "niveaux": [
+    "Distinguer activité éligible et alignée",
+    "Analyser l'éligibilité d'activités économiques",
+    "Calculer et documenter les indicateurs taxonomie"
+   ]
+  },
+  {
+   "id": "budget",
+   "nom": "Gestion budgétaire et arbitrage",
+   "niveaux": [
+    "Lire un budget",
+    "Calculer un retour sur investissement et suivre des dépenses",
+    "Comparer plusieurs scénarios et convaincre une direction"
+   ]
+  },
+  {
+   "id": "comm",
+   "nom": "Communication et conduite du changement",
+   "niveaux": [
+    "Préparer un support clair",
+    "Présenter des résultats et animer un atelier",
+    "Convaincre une direction et embarquer les équipes"
+   ]
+  }
+ ],
+ "metiers": [
+  {
+   "id": "charge-mission-rse",
+   "titre": "Chargé de mission RSE",
+   "famille": "Pilotage RSE",
+   "mission": "Participer au déploiement de la stratégie RSE de l'entreprise et coordonner les actions environnementales, sociales et de gouvernance.",
+   "missions": [
+    "Collecter les données environnementales et sociales",
+    "Participer au reporting RSE et aux questionnaires clients (EcoVadis, CDP)",
+    "Suivre les indicateurs de performance",
+    "Coordonner les actions de sensibilisation",
+    "Accompagner les services opérationnels",
+    "Préparer les audits et les supports pour la direction"
+   ],
+   "competences": [
+    "reg",
+    "indicateurs",
+    "projet",
+    "comm"
+   ],
+   "soft": [
+    "Organisation",
+    "Esprit de synthèse",
+    "Pédagogie",
+    "Travail en équipe"
+   ],
+   "livrables": [
+    "Rapport ou chapitre RSE",
+    "Tableau de bord des indicateurs",
+    "Plan d'action annuel",
+    "Supports de sensibilisation"
+   ],
+   "outils": [
+    "Excel",
+    "Power BI",
+    "Logiciel de reporting ESG",
+    "Plateformes EcoVadis et CDP"
+   ],
+   "evolution": "Chef de projet RSE, puis responsable RSE.",
+   "cas": [
+    "reporting-esg",
+    "csrd-donnees",
+    "double-materialite"
+   ]
+  },
+  {
+   "id": "charge-projet-dd",
+   "titre": "Chargé de projet développement durable",
+   "famille": "Pilotage RSE",
+   "mission": "Conduire des projets précis de transition (énergie, déchets, mobilité, biodiversité) de leur cadrage à leur évaluation.",
+   "missions": [
+    "Cadrer les projets et leurs objectifs",
+    "Planifier et coordonner les acteurs",
+    "Suivre le budget et les indicateurs",
+    "Rendre compte à la direction"
+   ],
+   "competences": [
+    "projet",
+    "envi",
+    "budget",
+    "comm"
+   ],
+   "soft": [
+    "Rigueur",
+    "Sens de la négociation",
+    "Autonomie"
+   ],
+   "livrables": [
+    "Note de cadrage",
+    "Planning et matrice RACI",
+    "Bilan de projet"
+   ],
+   "outils": [
+    "Outils de gestion de projet",
+    "Excel"
+   ],
+   "evolution": "Chef de projet RSE ou responsable environnement.",
+   "cas": [
+    "economie-circulaire",
+    "iso14001",
+    "bilan-carbone"
+   ]
+  },
+  {
+   "id": "chef-projet-rse",
+   "titre": "Chef de projet RSE",
+   "famille": "Pilotage RSE",
+   "mission": "Piloter un chantier structurant de la démarche RSE (analyse de matérialité, bilan carbone, label, achats responsables) avec plusieurs directions.",
+   "missions": [
+    "Piloter le chantier et son budget",
+    "Animer un comité de pilotage",
+    "Coordonner les contributeurs",
+    "Gérer les prestataires",
+    "Mesurer les résultats"
+   ],
+   "competences": [
+    "projet",
+    "dm",
+    "budget",
+    "comm"
+   ],
+   "soft": [
+    "Leadership",
+    "Influence sans autorité",
+    "Gestion des priorités"
+   ],
+   "livrables": [
+    "Feuille de route",
+    "Comptes rendus de comité",
+    "Matrice de matérialité",
+    "Bilan du chantier"
+   ],
+   "outils": [
+    "Outils de gestion de projet",
+    "Excel",
+    "Outils collaboratifs"
+   ],
+   "evolution": "Responsable RSE.",
+   "cas": [
+    "double-materialite",
+    "bilan-carbone",
+    "achats-responsables"
+   ]
+  },
+  {
+   "id": "responsable-rse",
+   "titre": "Responsable RSE",
+   "famille": "Pilotage RSE",
+   "mission": "Construire la stratégie RSE, la porter au comité de direction et en piloter la mise en œuvre et le reporting.",
+   "missions": [
+    "Définir la stratégie et la feuille de route",
+    "Arbitrer les priorités et le budget",
+    "Animer la gouvernance RSE",
+    "Superviser le reporting et la conformité",
+    "Représenter l'entreprise auprès des parties prenantes"
+   ],
+   "competences": [
+    "reg",
+    "dm",
+    "budget",
+    "comm",
+    "indicateurs"
+   ],
+   "soft": [
+    "Vision stratégique",
+    "Capacité de conviction",
+    "Diplomatie"
+   ],
+   "livrables": [
+    "Stratégie RSE",
+    "Rapport de durabilité",
+    "Notes au comité de direction"
+   ],
+   "outils": [
+    "Logiciel de reporting ESG",
+    "Tableaux de bord"
+   ],
+   "evolution": "Directeur du développement durable ou de la RSE.",
+   "cas": [
+    "double-materialite",
+    "csrd-donnees",
+    "reporting-esg"
+   ]
+  },
+  {
+   "id": "consultant-strategie-durable",
+   "titre": "Consultant en stratégie durable",
+   "famille": "Conseil",
+   "mission": "Accompagner plusieurs entreprises clientes dans leur diagnostic, leur stratégie et leur conformité RSE.",
+   "missions": [
+    "Réaliser des diagnostics et des analyses de matérialité",
+    "Construire des stratégies et des feuilles de route",
+    "Animer des ateliers",
+    "Rédiger des livrables pour les clients",
+    "Contribuer aux propositions commerciales"
+   ],
+   "competences": [
+    "dm",
+    "reg",
+    "projet",
+    "comm"
+   ],
+   "soft": [
+    "Adaptabilité",
+    "Aisance orale",
+    "Capacité de synthèse"
+   ],
+   "livrables": [
+    "Rapports de diagnostic",
+    "Présentations de restitution",
+    "Propositions commerciales"
+   ],
+   "outils": [
+    "PowerPoint",
+    "Excel",
+    "Outils d'animation d'ateliers"
+   ],
+   "evolution": "Manager, puis associé ou création de cabinet.",
+   "cas": [
+    "double-materialite",
+    "bilan-carbone",
+    "taxonomie"
+   ]
+  },
+  {
+   "id": "analyste-esg",
+   "titre": "Analyste ESG",
+   "famille": "Finance durable",
+   "mission": "Évaluer la performance ESG d'entreprises ou de portefeuilles pour des investisseurs, des banques ou des agences de notation.",
+   "missions": [
+    "Collecter et analyser les données ESG",
+    "Noter les entreprises selon une méthodologie",
+    "Suivre les controverses",
+    "Contribuer aux rapports réglementaires (SFDR, taxonomie)"
+   ],
+   "competences": [
+    "finance",
+    "indicateurs",
+    "reg"
+   ],
+   "soft": [
+    "Esprit critique",
+    "Rigueur",
+    "Curiosité"
+   ],
+   "livrables": [
+    "Notes d'analyse",
+    "Bases de données ESG",
+    "Rapports d'investissement responsable"
+   ],
+   "outils": [
+    "Excel avancé",
+    "Bases de données financières et ESG"
+   ],
+   "evolution": "Gérant ISR, responsable de la recherche ESG.",
+   "cas": [
+    "taxonomie",
+    "reporting-esg"
+   ]
+  },
+  {
+   "id": "charge-reporting",
+   "titre": "Chargé de reporting extra-financier",
+   "famille": "Reporting",
+   "mission": "Produire un reporting de durabilité fiable, conforme et vérifiable.",
+   "missions": [
+    "Tenir le protocole de reporting",
+    "Collecter et contrôler les données",
+    "Rédiger les chapitres du rapport",
+    "Travailler avec les auditeurs",
+    "Calculer les indicateurs taxonomie"
+   ],
+   "competences": [
+    "reg",
+    "indicateurs",
+    "finance"
+   ],
+   "soft": [
+    "Rigueur",
+    "Sens du détail",
+    "Respect des délais"
+   ],
+   "livrables": [
+    "Protocole de reporting",
+    "Rapport de durabilité",
+    "Dossiers de preuves"
+   ],
+   "outils": [
+    "Logiciel de reporting ESG",
+    "Excel",
+    "Outils de balisage XBRL"
+   ],
+   "evolution": "Responsable reporting, responsable RSE.",
+   "cas": [
+    "csrd-donnees",
+    "reporting-esg",
+    "taxonomie"
+   ]
+  },
+  {
+   "id": "charge-decarbonation",
+   "titre": "Chargé de mission décarbonation",
+   "famille": "Climat et énergie",
+   "mission": "Mesurer les émissions de gaz à effet de serre et piloter leur réduction.",
+   "missions": [
+    "Réaliser le bilan carbone",
+    "Construire la trajectoire de réduction",
+    "Chiffrer et suivre les actions",
+    "Engager les fournisseurs sur le scope 3"
+   ],
+   "competences": [
+    "carbone",
+    "budget",
+    "projet"
+   ],
+   "soft": [
+    "Rigueur",
+    "Pédagogie",
+    "Persévérance"
+   ],
+   "livrables": [
+    "Bilan GES",
+    "Plan de transition",
+    "Suivi des réductions"
+   ],
+   "outils": [
+    "Tableurs carbone",
+    "Base Empreinte de l'ADEME",
+    "Logiciels de comptabilité carbone"
+   ],
+   "evolution": "Responsable climat, responsable RSE.",
+   "cas": [
+    "bilan-carbone",
+    "economie-circulaire"
+   ]
+  },
+  {
+   "id": "charge-circulaire",
+   "titre": "Chargé d'économie circulaire",
+   "famille": "Ressources et déchets",
+   "mission": "Réduire les déchets et la consommation de ressources par l'écoconception, le réemploi et le recyclage.",
+   "missions": [
+    "Analyser les flux de matières et de déchets",
+    "Proposer des solutions de réemploi et de recyclage",
+    "Accompagner l'écoconception des produits",
+    "Suivre les obligations AGEC et emballages"
+   ],
+   "competences": [
+    "circulaire",
+    "envi",
+    "projet"
+   ],
+   "soft": [
+    "Créativité",
+    "Sens du terrain",
+    "Capacité à fédérer"
+   ],
+   "livrables": [
+    "Diagnostic des flux",
+    "Plan d'économie circulaire",
+    "Fiches d'écoconception"
+   ],
+   "outils": [
+    "Outils d'analyse de cycle de vie",
+    "Excel"
+   ],
+   "evolution": "Responsable environnement, responsable RSE.",
+   "cas": [
+    "economie-circulaire",
+    "iso14001"
+   ]
+  },
+  {
+   "id": "acheteur-responsable",
+   "titre": "Responsable achats responsables",
+   "famille": "Achats",
+   "mission": "Intégrer les critères environnementaux, sociaux et éthiques dans la politique et les processus d'achat.",
+   "missions": [
+    "Cartographier les risques fournisseurs",
+    "Rédiger la charte et les clauses RSE",
+    "Évaluer et accompagner les fournisseurs",
+    "Suivre les obligations de vigilance et de traçabilité"
+   ],
+   "competences": [
+    "achats",
+    "reg",
+    "comm"
+   ],
+   "soft": [
+    "Négociation",
+    "Fermeté",
+    "Sens du partenariat"
+   ],
+   "livrables": [
+    "Politique achats responsables",
+    "Grille d'évaluation fournisseurs",
+    "Plan de vigilance (volet achats)"
+   ],
+   "outils": [
+    "Plateformes d'évaluation fournisseurs",
+    "Outils achats"
+   ],
+   "evolution": "Directeur achats, responsable RSE.",
+   "cas": [
+    "achats-responsables"
+   ]
+  },
+  {
+   "id": "charge-biodiversite",
+   "titre": "Chargé de mission biodiversité",
+   "famille": "Nature",
+   "mission": "Évaluer les impacts et dépendances de l'entreprise à la nature et piloter les actions de préservation.",
+   "missions": [
+    "Diagnostiquer les sites et leurs enjeux écologiques",
+    "Évaluer les dépendances aux services écosystémiques",
+    "Proposer des mesures d'évitement et de réduction",
+    "Contribuer au reporting nature (ESRS E4, TNFD)"
+   ],
+   "competences": [
+    "envi",
+    "reg",
+    "comm"
+   ],
+   "soft": [
+    "Curiosité scientifique",
+    "Dialogue avec les acteurs locaux"
+   ],
+   "livrables": [
+    "Diagnostic biodiversité",
+    "Plan d'action biodiversité"
+   ],
+   "outils": [
+    "Cartographie (SIG)",
+    "Bases de données naturalistes"
+   ],
+   "evolution": "Responsable environnement ou capital naturel.",
+   "cas": [
+    "biodiversite"
+   ]
+  },
+  {
+   "id": "charge-qvct",
+   "titre": "Chargé de mission QVCT",
+   "famille": "Social",
+   "mission": "Améliorer la qualité de vie et les conditions de travail en lien avec les ressources humaines et les partenaires sociaux.",
+   "missions": [
+    "Analyser les indicateurs sociaux (absentéisme, accidents, turnover)",
+    "Conduire des enquêtes auprès des salariés",
+    "Construire et suivre un plan d'action",
+    "Animer le dialogue avec les représentants du personnel"
+   ],
+   "competences": [
+    "social",
+    "indicateurs",
+    "comm"
+   ],
+   "soft": [
+    "Écoute",
+    "Discrétion",
+    "Médiation"
+   ],
+   "livrables": [
+    "Diagnostic QVCT",
+    "Plan d'amélioration",
+    "Indicateurs sociaux"
+   ],
+   "outils": [
+    "Outils d'enquête",
+    "SIRH",
+    "Excel"
+   ],
+   "evolution": "Responsable QVCT, responsable RH.",
+   "cas": [
+    "qvct"
+   ]
+  },
+  {
+   "id": "responsable-environnement",
+   "titre": "Responsable environnement",
+   "famille": "Environnement",
+   "mission": "Garantir la conformité environnementale des sites et piloter le système de management environnemental.",
+   "missions": [
+    "Assurer la veille et la conformité réglementaire",
+    "Piloter le système ISO 14001",
+    "Suivre les consommations, rejets et déchets",
+    "Préparer les audits et les contrôles"
+   ],
+   "competences": [
+    "envi",
+    "reg",
+    "projet"
+   ],
+   "soft": [
+    "Rigueur",
+    "Réactivité",
+    "Sens du terrain"
+   ],
+   "livrables": [
+    "Analyse environnementale",
+    "Registre réglementaire",
+    "Plan d'action environnemental"
+   ],
+   "outils": [
+    "Logiciels QHSE",
+    "Excel"
+   ],
+   "evolution": "Responsable QHSE, responsable RSE.",
+   "cas": [
+    "iso14001",
+    "economie-circulaire",
+    "biodiversite"
+   ]
+  },
+  {
+   "id": "consultant-carbone",
+   "titre": "Consultant en bilan carbone",
+   "famille": "Conseil",
+   "mission": "Réaliser des bilans de gaz à effet de serre et des plans de transition pour des clients.",
+   "missions": [
+    "Collecter les données chez le client",
+    "Calculer les émissions et les incertitudes",
+    "Restituer les résultats",
+    "Proposer des plans de réduction"
+   ],
+   "competences": [
+    "carbone",
+    "comm",
+    "budget"
+   ],
+   "soft": [
+    "Pédagogie",
+    "Rigueur",
+    "Autonomie"
+   ],
+   "livrables": [
+    "Rapport de bilan GES",
+    "Plan de transition",
+    "Présentation de restitution"
+   ],
+   "outils": [
+    "Méthode Bilan Carbone",
+    "Base Empreinte",
+    "Tableurs carbone"
+   ],
+   "evolution": "Manager climat, responsable décarbonation.",
+   "cas": [
+    "bilan-carbone"
+   ]
+  },
+  {
+   "id": "responsable-dd-agro",
+   "titre": "Responsable développement durable en agroalimentaire",
+   "famille": "Pilotage RSE",
+   "mission": "Définir et déployer la stratégie de développement durable d'un groupe agroalimentaire, de l'amont agricole aux emballages, avec les sites, les achats et le marketing.",
+   "missions": [
+    "Construire la feuille de route RSE et la décliner dans les sites",
+    "Piloter la décarbonation, en particulier le scope 3 agricole et les emballages",
+    "Animer l'approvisionnement durable et les filières",
+    "Conduire une autoévaluation ISO 26000 et 26030 et préparer un label",
+    "Suivre le gaspillage alimentaire, l'eau et les déchets",
+    "Rédiger le reporting et répondre aux clients de la distribution"
+   ],
+   "competences": [
+    "reg",
+    "carbone",
+    "achats",
+    "projet"
+   ],
+   "soft": [
+    "Leadership",
+    "Vision systémique",
+    "Diplomatie",
+    "Sens du terrain"
+   ],
+   "livrables": [
+    "Feuille de route RSE",
+    "Autoévaluation ISO 26030",
+    "Plan de décarbonation",
+    "Rapport de durabilité"
+   ],
+   "outils": [
+    "Excel",
+    "Power BI",
+    "Outils ACV et Agribalyse",
+    "Plateformes clients (EcoVadis)"
+   ],
+   "evolution": "Directeur RSE d'un groupe agroalimentaire.",
+   "cas": [
+    "bilan-carbone",
+    "achats-responsables",
+    "reporting-esg"
+   ]
+  },
+  {
+   "id": "chef-projet-environnement",
+   "titre": "Chef de projet environnement industriel",
+   "famille": "Environnement",
+   "mission": "Accompagner les sites industriels d'un groupe dans la maîtrise de leurs obligations environnementales et de leurs risques, et déployer les standards du groupe.",
+   "missions": [
+    "Assurer la veille et la conformité réglementaire (ICPE, eau, déchets, air)",
+    "Réaliser des audits internes de sites et suivre les plans d'action",
+    "Rédiger des standards et les déployer",
+    "Accompagner les projets d'investissement (eau, énergie, déchets)",
+    "Animer le réseau des responsables environnement des sites",
+    "Préparer les inspections et les certifications ISO 14001"
+   ],
+   "competences": [
+    "envi",
+    "reg",
+    "projet",
+    "indicateurs"
+   ],
+   "soft": [
+    "Rigueur",
+    "Pédagogie",
+    "Autonomie",
+    "Capacité à convaincre"
+   ],
+   "livrables": [
+    "Registre réglementaire",
+    "Rapport d'audit de site",
+    "Standard groupe",
+    "Plan d'action environnemental"
+   ],
+   "outils": [
+    "Registre réglementaire",
+    "Logiciels HSE",
+    "Excel",
+    "Power BI"
+   ],
+   "evolution": "Responsable environnement groupe, directeur HSE.",
+   "cas": [
+    "iso14001"
+   ]
+  },
+  {
+   "id": "chef-projet-rse-territoires",
+   "titre": "Chef de projet RSE des territoires, du sport et des réseaux",
+   "famille": "Pilotage RSE",
+   "mission": "Accompagner une fédération, un réseau d'agences ou de clubs, ou une collectivité dans sa démarche RSE : référentiels, labels, outils, réseaux de référents et actions solidaires.",
+   "missions": [
+    "Construire un référentiel RSE et un label pour le réseau",
+    "Créer des guides, questionnaires et webinaires",
+    "Animer un réseau de référents",
+    "Mesurer l'impact des actions",
+    "Organiser des actions solidaires et des partenariats",
+    "Rendre compte aux instances et aux partenaires"
+   ],
+   "competences": [
+    "projet",
+    "comm",
+    "indicateurs"
+   ],
+   "soft": [
+    "Animation",
+    "Écoute",
+    "Créativité",
+    "Organisation"
+   ],
+   "livrables": [
+    "Référentiel et label",
+    "Guide pratique",
+    "Programme de webinaires",
+    "Bilan d'impact"
+   ],
+   "outils": [
+    "Outils de questionnaire",
+    "Canva",
+    "Outils de visio",
+    "Excel"
+   ],
+   "evolution": "Responsable RSE d'une fédération ou d'un réseau.",
+   "cas": [
+    "reporting-esg"
+   ]
+  },
+  {
+   "id": "charge-etudes-environnement",
+   "titre": "Chargé d'études environnement et réglementation",
+   "famille": "Environnement",
+   "mission": "Réaliser et coordonner les études environnementales et les dossiers réglementaires de projets d'infrastructures et d'aménagement.",
+   "missions": [
+    "Réaliser les états initiaux et les études d'impact",
+    "Préparer les dossiers d'autorisation environnementale, loi sur l'eau, espèces protégées",
+    "Coordonner les experts (écologie, hydraulique, acoustique, air)",
+    "Intégrer l'environnement dans les phases de maîtrise d'œuvre",
+    "Suivre les chantiers et les mesures",
+    "Contribuer aux réponses aux appels d'offres"
+   ],
+   "competences": [
+    "envi",
+    "reg",
+    "projet"
+   ],
+   "soft": [
+    "Rigueur rédactionnelle",
+    "Esprit de synthèse",
+    "Coordination",
+    "Curiosité"
+   ],
+   "livrables": [
+    "Étude d'impact",
+    "Dossier d'autorisation",
+    "Note de repérage réglementaire",
+    "Mémoire technique"
+   ],
+   "outils": [
+    "QGIS",
+    "Suite bureautique",
+    "Bases de données naturalistes"
+   ],
+   "evolution": "Chef de projet environnement, directeur d'études.",
+   "cas": [
+    "biodiversite"
+   ]
+  },
+  {
+   "id": "responsable-exploitation-dechets",
+   "titre": "Responsable d'exploitation déchets et recyclage",
+   "famille": "Ressources et déchets",
+   "mission": "Piloter un site de tri et de recyclage ou un contrat de gestion des déchets chez un client : sécurité, production, qualité, traçabilité, équipes, budget et relation client.",
+   "missions": [
+    "Garantir la sécurité des personnes et des installations",
+    "Piloter la production, la qualité des matières et les délais",
+    "Tenir la traçabilité réglementaire (registre, Trackdéchets)",
+    "Manager les équipes de terrain",
+    "Suivre le budget et les indicateurs d'exploitation",
+    "Animer la relation avec le client et proposer des améliorations"
+   ],
+   "competences": [
+    "circulaire",
+    "envi",
+    "budget",
+    "projet"
+   ],
+   "soft": [
+    "Leadership de terrain",
+    "Réactivité",
+    "Rigueur",
+    "Sens du service"
+   ],
+   "livrables": [
+    "Registre des déchets",
+    "Revue mensuelle de prestation",
+    "Tableau de bord d'exploitation",
+    "Analyse d'accident"
+   ],
+   "outils": [
+    "Trackdéchets",
+    "Tennaxia ou logiciel déchets",
+    "Excel",
+    "Outils de GMAO"
+   ],
+   "evolution": "Directeur d'agence ou de région, directeur d'exploitation.",
+   "cas": [
+    "economie-circulaire",
+    "iso14001"
+   ]
+  },
+  {
+   "id": "charge-construction-durable",
+   "titre": "Chargé de construction durable et d'économie circulaire du BTP",
+   "famille": "Ressources et déchets",
+   "mission": "Accompagner la transition d'une entreprise du BTP, d'un maître d'ouvrage ou d'un centre de formation : bas carbone, RE2020, réemploi, déchets de chantier et ressources.",
+   "missions": [
+    "Construire et déployer un plan d'économie circulaire",
+    "Mesurer l'empreinte ressources et carbone",
+    "Organiser le réemploi et le diagnostic PEMD",
+    "Suivre les déchets de chantier et la filière REP",
+    "Former les équipes aux techniques d'écoconstruction",
+    "Piloter des projets et des partenariats"
+   ],
+   "competences": [
+    "circulaire",
+    "carbone",
+    "projet",
+    "indicateurs"
+   ],
+   "soft": [
+    "Pragmatisme",
+    "Pédagogie",
+    "Coordination",
+    "Curiosité technique"
+   ],
+   "livrables": [
+    "Plan d'économie circulaire",
+    "Bilan des émissions",
+    "Empreinte ressources",
+    "Tableau de bord"
+   ],
+   "outils": [
+    "Excel",
+    "Power BI",
+    "Base INIES",
+    "Outils ACV bâtiment"
+   ],
+   "evolution": "Responsable RSE ou directeur innovation d'une entreprise du BTP.",
+   "cas": [
+    "economie-circulaire",
+    "bilan-carbone"
+   ]
+  },
+  {
+   "id": "charge-efficacite-energetique",
+   "titre": "Chargé d'efficacité énergétique et d'immobilier durable",
+   "famille": "Climat et énergie",
+   "mission": "Réaliser ou piloter les audits, études de faisabilité et plans de performance énergétique dans l'industrie et l'immobilier tertiaire.",
+   "missions": [
+    "Réaliser des audits énergétiques et des études de faisabilité",
+    "Calculer les trajectoires du décret tertiaire et suivre OPERAT",
+    "Chiffrer les actions et monter les financements (CEE, Fonds Chaleur)",
+    "Accompagner les certifications et la gestion technique des bâtiments",
+    "Contribuer à la stratégie durable d'un patrimoine immobilier",
+    "Rédiger les rapports et présenter aux clients"
+   ],
+   "competences": [
+    "carbone",
+    "budget",
+    "projet",
+    "indicateurs"
+   ],
+   "soft": [
+    "Esprit d'analyse",
+    "Rigueur",
+    "Sens du client",
+    "Pédagogie"
+   ],
+   "livrables": [
+    "Rapport d'audit énergétique",
+    "Trajectoire décret tertiaire",
+    "Note de décision d'investissement",
+    "Plan de transition"
+   ],
+   "outils": [
+    "Excel",
+    "RETScreen",
+    "OPERAT",
+    "Outils de simulation thermique"
+   ],
+   "evolution": "Chef de projet énergie, manager de pôle, responsable immobilier durable.",
+   "cas": [
+    "eclairage-roi",
+    "bilan-carbone"
+   ]
+  },
+  {
+   "id": "coordinateur-qse",
+   "titre": "Coordinateur QSE et systèmes de management intégrés",
+   "famille": "Environnement",
+   "mission": "Construire et animer les systèmes de management qualité, sécurité, environnement et énergie, les intégrer et préparer les certifications.",
+   "missions": [
+    "Cartographier les processus et rédiger les fiches processus",
+    "Gérer la documentation du système",
+    "Conduire les audits internes et la revue de direction",
+    "Préparer les certifications ISO 9001, 14001, 45001",
+    "Maîtriser les risques HSE du site",
+    "Suivre les non-conformités et les plans d'action"
+   ],
+   "competences": [
+    "envi",
+    "reg",
+    "projet",
+    "indicateurs"
+   ],
+   "soft": [
+    "Rigueur",
+    "Pédagogie",
+    "Écoute",
+    "Organisation"
+   ],
+   "livrables": [
+    "Cartographie des processus",
+    "Fiches processus",
+    "Rapport d'audit interne",
+    "Plan d'action"
+   ],
+   "outils": [
+    "Logiciel de gestion documentaire",
+    "Excel",
+    "Outils QSE"
+   ],
+   "evolution": "Responsable QSE, directeur HSE.",
+   "cas": [
+    "iso14001"
+   ]
+  },
+  {
+   "id": "charge-communication-rse",
+   "titre": "Chargé de communication RSE et d'impact social",
+   "famille": "Pilotage RSE",
+   "mission": "Faire connaître et vivre les engagements RSE : contenus, événements, allégations conformes, outils commerciaux, labels, mécénat et mesure de l'impact social.",
+   "missions": [
+    "Construire le plan de communication RSE",
+    "Rédiger des contenus et des allégations vérifiables",
+    "Organiser des événements et des campagnes",
+    "Outiller les commerciaux",
+    "Piloter les programmes de mécénat et de fondation",
+    "Mesurer et valoriser l'impact social"
+   ],
+   "competences": [
+    "comm",
+    "projet",
+    "indicateurs"
+   ],
+   "soft": [
+    "Aisance rédactionnelle",
+    "Créativité",
+    "Rigueur",
+    "Sens relationnel"
+   ],
+   "livrables": [
+    "Plan de communication RSE",
+    "Contenus et vidéos",
+    "Dossier RSE pour les clients",
+    "Bilan d'impact"
+   ],
+   "outils": [
+    "Canva",
+    "Outils de montage vidéo",
+    "Réseaux sociaux",
+    "Excel"
+   ],
+   "evolution": "Responsable communication RSE, responsable de fondation.",
+   "cas": [
+    "reporting-esg"
+   ]
+  },
+  {
+   "id": "alternant-rse",
+   "titre": "Alternant ou stagiaire RSE",
+   "famille": "Pilotage RSE",
+   "mission": "Appuyer l'équipe RSE au quotidien : animation, collecte de données, bilan carbone, reporting, veille, événements et présentations.",
+   "missions": [
+    "Animer un réseau d'ambassadeurs et des Fresques",
+    "Organiser des événements RSE",
+    "Collecter et contrôler les données",
+    "Suivre le bilan carbone avec un prestataire",
+    "Rédiger des parties du rapport RSE",
+    "Réaliser des benchmarks et présenter en comité"
+   ],
+   "competences": [
+    "reg",
+    "comm",
+    "projet",
+    "indicateurs"
+   ],
+   "soft": [
+    "Curiosité",
+    "Organisation",
+    "Esprit d'équipe",
+    "Aisance à l'oral"
+   ],
+   "livrables": [
+    "Benchmark",
+    "Programme d'événement",
+    "Chapitre du rapport",
+    "Note au comité"
+   ],
+   "outils": [
+    "Excel",
+    "Canva",
+    "Klaxoon",
+    "PowerPoint"
+   ],
+   "evolution": "Chargé de mission RSE.",
+   "cas": [
+    "bilan-carbone",
+    "reporting-esg"
+   ]
+  }
+ ]
+}

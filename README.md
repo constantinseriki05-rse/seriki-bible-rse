@@ -129,3 +129,35 @@ Design v2 (écran d'ouverture, découverte, couleur par espace via `body[data-es
 - Animations d'apparition au défilement et d'ouverture, désactivées si « réduire les animations » est demandé.
 - Correction : conflit de nom qui empêchait le quiz de « Mon espace cours ».
 - Cache du service worker : seriki-v21.
+
+## Version 22
+
+- Mise en ligne gratuite sur GitHub Pages : https://constantinseriki05-rse.github.io/seriki-bible-rse/
+- Mentions légales (éditeur, contact seriki.bible.rse@gmail.com, hébergeur GitHub) ; `window.SERIKI_CONTACT`.
+- Cache du service worker : seriki-v22.
+
+## Version 23
+
+- Dix nouveaux parcours issus de 33 offres réelles (26 parcours, 158 leçons) : `agro`, `envindus`, `territoires`, `etudesenv`, `dechets`, `btp`, `energie`, `qse`, `comimpact`, `alternant`, et des leçons ajoutées aux parcours existants.
+- Dix nouvelles fiches dans `data/metiers.json` (24 métiers) et seize modèles `PTPL`.
+- Six outils métiers : `#outilsm--dechets|auditsite|iso26030|label|procedures|tertiaire` (données dans `kv` `outilsm`).
+- Analyse d'offre : `window.SERIKI_OF_LEC` (expressions → leçons) affiche les leçons à travailler et les parcours les plus proches.
+- Cache du service worker : seriki-v23.
+
+## Version 24
+
+- Page `#besoins` « Que voulez-vous faire ? » (`BESOINS`, 27 besoins) et bandeau sur l'accueil ; menu Agir réordonné, examen blanc dans Apprendre.
+- Icônes animées `AIC` (SVG + CSS, coupées si « réduire les animations »).
+- Nouveaux blocs de leçon : `['cas', {n, t, sect, ic, c, sit, data, ana, sol, res, liv}]` et `['doc', titre, [[rubrique, valeur]], note]`, rendus, exportés (PDF, Word) et en diaporama.
+- 30 leçons de dossiers pratiques (188 leçons) : `sdp*`, `ddp*`, `rdp*`, `egp*`, `qsp*`, `acp*`, `dcp*`, `cip`, `btp9`, `vdp`, `qdp`, `cmp`, `agp`, `enp`, `esp`, `pjp`.
+- Exemplaires remplis dans tous les parcours (`btd`, `vdd`, `qdd`, `cmd`, `agd`, `end`, `esd`, `pjd`, `ied`, `vgd`) et cas `stp`, `alp`, `csp` : 201 leçons.
+- Sommaire général `#sommaire` et sommaire de leçon `lecSommaire()` (ancres `#lb-<n>`).
+- Cache du service worker : seriki-v24.
+
+## Version 25
+
+- Simulateur `#simrse` (`SIM_SC`, `SIM_ACT`, `SIM_DEFIS` ; données `kv` `simrse`) : enjeux, indicateurs, actions annuelles, événements, comité, score, défis `#simrse--defis`, historique `#simrse--histo`.
+- Passeport `#passeport` : `passPreuves()` (leçons `pcDone`, quiz `quizHist`, simulations, travaux des outils, tableau de bord, boîte à outils, autodiagnostic) et `passNiveau()`.
+- Prochaine action : `prochainesActions()` / `blocProchaine()` sur l'accueil.
+- Outil `#outilsm--impact` (prévu, estimé, mesuré ; `OM.d.imp`).
+- Cache du service worker : seriki-v25.
