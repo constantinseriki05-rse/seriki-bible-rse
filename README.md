@@ -161,3 +161,8 @@ Design v2 (écran d'ouverture, découverte, couleur par espace via `body[data-es
 - Prochaine action : `prochainesActions()` / `blocProchaine()` sur l'accueil.
 - Outil `#outilsm--impact` (prévu, estimé, mesuré ; `OM.d.imp`).
 - Cache du service worker : seriki-v25.
+
+## Version 26
+
+- Moteurs `#moteurs--global|aqua|carbon|score` (données `kv` `moteurs` : `aq`, `ct`, `rs`) : AQUA PROCESS, CARBON TRACK LIVE, RSE SCORE et pilotage commun ; import Excel/CSV ; envoi des actions au plan (`PL.d.actions`) ; preuves dans le passeport.
+- Cache du service worker : seriki-v26.

@@ -1415,3 +1415,11 @@ details[open]>:not(summary){animation:up .45s cubic-bezier(.2,.7,.2,1) both}
 .nexti{display:flex;gap:12px;align-items:center;text-decoration:none;color:var(--ink);--c:#2357A6;transition:transform .2s}.nexti:hover{transform:translateY(-3px)}
 .nexti.main{--c:#C2532A;border-color:color-mix(in srgb,#C2532A 40%,var(--line));background:linear-gradient(120deg,color-mix(in srgb,#C2532A 10%,var(--surface)),var(--surface))}
 .nexti strong{display:block}.nexti small{display:block;color:var(--muted);line-height:1.4;margin-top:3px}.nexti .besi{flex-basis:48px;height:48px;padding:9px}
+
+/* ===== v26 : moteurs ===== */
+.motabs .pti .aic{width:22px;height:22px}
+.ctlv{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:10px 0 14px}.ctlv>div{border:1px dashed var(--line);border-radius:12px;padding:8px 12px;opacity:.6}.ctlv>div.on{border:1px solid #C2532A;opacity:1;background:color-mix(in srgb,#C2532A 7%,var(--surface))}.ctlv b{display:block;font-size:.82rem}.ctlv small{color:var(--muted);font-size:.76rem}
+.moglob{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:14px 0}
+.mog{display:flex;gap:14px;align-items:center;text-decoration:none;color:var(--ink);border-top:4px solid var(--c);transition:transform .2s}.mog:hover{transform:translateY(-3px)}.mog small{display:block;font-weight:800;letter-spacing:.06em;color:var(--c);font-size:.74rem}.mog b{display:block;font-size:1.4rem}.mog em{display:block;font-style:normal;color:var(--muted);font-size:.82rem}
+.rsres{display:grid;grid-template-columns:200px 1fr 1fr;gap:14px;align-items:center;margin:14px 0}.rsres .simsc em{font-size:.72rem;color:#1d2a24}
+@media (max-width:900px){.rsres{grid-template-columns:1fr}.ctlv{grid-template-columns:1fr}}
