@@ -1,7 +1,35 @@
 {
- "maj": "2026-11-07",
+ "maj": "2026-11-08",
  "note": "Les articles « curated: true » sont rédigés et vérifiés à la main. Les articles automatiques sont ajoutés chaque jour par le robot (tools/maj-actualites.mjs) à partir des flux de data/sources-actualites.json.",
  "articles": [
+  {
+   "id": "auto-2026-11-07-enturquiepaysdaccueildelacop31lesravages",
+   "date": "2026-11-07",
+   "titre": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
+   "resume": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de Çogulhan est cerné par deux centrales thermiques au charbon. Les derniers habitants de ce territoire sinistré par quarante ans de pollution refusent les projets d’extension visant à prolonger l’exploitation.",
+   "zone": "France",
+   "theme": "COP et négociations",
+   "importance": "haute",
+   "source": "Le Monde Planète",
+   "url": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-08"
+  },
+  {
+   "id": "auto-2026-11-07-cop31tropgrossestroplentesinefficacesles",
+   "date": "2026-11-07",
+   "titre": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le climat peuvent-elles être réformées ?",
+   "resume": "La 31ᵉ Conférence des parties sur le climat s’ouvre lundi dans la station balnéaire d’Antalya, en Turquie. Si ces grands sommets annuels restent indispensables pour faire avancer la lutte contre le réchauffement climatique, de plus en plus d’acteurs appellent à les faire évoluer.",
+   "zone": "France",
+   "theme": "COP et négociations",
+   "importance": "haute",
+   "source": "Le Monde Planète",
+   "url": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-08"
+  },
   {
    "id": "auto-2026-11-06-cop31pourstopperlespollueursilestgrandte",
    "date": "2026-11-06",
