@@ -1,7 +1,21 @@
 {
- "maj": "2026-11-14",
+ "maj": "2026-11-15",
  "note": "Les articles « curated: true » sont rédigés et vérifiés à la main. Les articles automatiques sont ajoutés chaque jour par le robot (tools/maj-actualites.mjs) à partir des flux de data/sources-actualites.json.",
  "articles": [
+  {
+   "id": "auto-2026-11-14-aantalyaenmargedelacopdesmilliersdemanif",
+   "date": "2026-11-14",
+   "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
+   "resume": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! ».",
+   "zone": "France",
+   "theme": "COP et négociations",
+   "importance": "haute",
+   "source": "Le Monde Planète",
+   "url": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-15"
+  },
   {
    "id": "auto-2026-11-14-alareunionunesecheresseexceptionnellemen",
    "date": "2026-11-14",
