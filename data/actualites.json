@@ -1,7 +1,21 @@
 {
- "maj": "2026-11-15",
+ "maj": "2026-11-16",
  "note": "Les articles « curated: true » sont rédigés et vérifiés à la main. Les articles automatiques sont ajoutés chaque jour par le robot (tools/maj-actualites.mjs) à partir des flux de data/sources-actualites.json.",
  "articles": [
+  {
+   "id": "auto-2026-11-16-audeladelarseilnousfautchangerlesreglesd",
+   "date": "2026-11-16",
+   "titre": "\"Au-delà de la RSE, il nous faut changer les règles du jeu économique\", Julia Faure",
+   "resume": "Julia Faure plaide pour une meilleure régulation pour les entreprises - Crédit : Mouvement Impact France Dans votre livre*, vous défendez l'idée que le marché accorde une \"prime au vice\" aux entreprises les moins vertueuses, et que les entreprises plus engagées ou responsables sont structurellement désavantagées par rapport à leurs concurrentes. Pouvez-vous expliquer ce que vous entendez par là ? Julia Faure. Pour co…",
+   "zone": "France",
+   "theme": "Actualité RSE",
+   "importance": "normale",
+   "source": "Novethic",
+   "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/prime-au-vice-julia-faure-changer-regles-jeu-economique",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-16"
+  },
   {
    "id": "auto-2026-11-14-aantalyaenmargedelacopdesmilliersdemanif",
    "date": "2026-11-14",
