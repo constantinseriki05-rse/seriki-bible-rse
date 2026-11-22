@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21",
+ "maj": "2026-11-22",
  "note": "Les articles « curated: true » sont rédigés et vérifiés à la main. Les articles automatiques sont ajoutés chaque jour par le robot (tools/maj-actualites.mjs) à partir des flux de data/sources-actualites.json.",
  "articles": [
   {
