@@ -1,7 +1,49 @@
 {
- "maj": "2026-11-27",
+ "maj": "2026-11-28",
  "note": "Les articles « curated: true » sont rédigés et vérifiés à la main. Les articles automatiques sont ajoutés chaque jour par le robot (tools/maj-actualites.mjs) à partir des flux de data/sources-actualites.json.",
  "articles": [
+  {
+   "id": "auto-2026-11-27-bonnespratiquescsrdlexempledelaperforman",
+   "date": "2026-11-27",
+   "titre": "Bonnes pratiques CSRD : l’exemple de la performance plurielle chez Veolia (1/3)",
+   "resume": "Veolia a opérationnalisé sa raison d'être à travers 15 indicateurs réunis dans \"la performance plurielle\". @Veolia En 2019, Veolia fait figure de pionnier et publie sa raison d’être avant que la Loi Pacte, qui ouvre la possibilité pour les entreprises de se doter d’une raison d’être conforme à leur finalité, ne soit adoptée quelques mois plus tard. Portée par l’emblématique PDG de l’époque, Antoine Frérot, elle a pou…",
+   "zone": "UE",
+   "theme": "Reporting",
+   "importance": "haute",
+   "source": "Novethic",
+   "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/bonnes-pratiques-csrd-lexemple-de-la-performance-plurielle-chez-veolia-1-3",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-28"
+  },
+  {
+   "id": "auto-2026-11-27-omnibusilacommissioneuropeenneadoptelesc",
+   "date": "2026-11-27",
+   "titre": "Omnibus I : La Commission européenne adopte les critères simplifiés de la taxonomie",
+   "resume": "La Commission européenne adopte les critères révisés de la taxonomie verte - Photo-de-Fabian-Kleisersur-Unsplash La Commission européenne poursuit son chantier de simplification de la taxonomie verte. Après avoir allégé les obligations de reporting des entreprises en 2025 dans le cadre de l'Omnibus I, la Commission a adopté jeudi 26 novembre deux actes délégués révisant les critères techniques permettant de détermine…",
+   "zone": "UE",
+   "theme": "Reporting",
+   "importance": "haute",
+   "source": "Novethic",
+   "url": "https://www.novethic.fr/finance-durable/reglementation/commission-europeenne-criteres-revises-taxonomie-2026",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-28"
+  },
+  {
+   "id": "auto-2026-11-27-sinkingafricanmegacitieswillexposesevenm",
+   "date": "2026-11-27",
+   "titre": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+   "resume": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by… The post ‘Sinking’ African megacities will expose seven million people to flooding by 2050 appeared first on Carbon Brief .",
+   "zone": "Monde",
+   "theme": "Climat",
+   "importance": "normale",
+   "source": "Carbon Brief",
+   "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+   "impact": "",
+   "curated": false,
+   "ajoute": "2026-11-28"
+  },
   {
    "id": "auto-2026-11-27-jezabelcouppeysoubeyraneconomistepourmet",
    "date": "2026-11-27",
@@ -4096,20 +4138,6 @@
    "importance": "normale",
    "source": "ONU Info Climat",
    "url": "https://news.un.org/feed/view/fr/story/2026/09/1159581",
-   "impact": "",
-   "curated": false,
-   "ajoute": "2026-11-02"
-  },
-  {
-   "id": "auto-2026-09-28-restaurerlesforetspourrenforcerlasecurit",
-   "date": "2026-09-28",
-   "titre": "Restaurer les forêts pour renforcer la sécurité alimentaire",
-   "resume": "La restauration des forêts et des paysages peut contribuer à relever simultanément les défis de la sécurité alimentaire, de la biodiversité, du climat et du développement rural, estime la FAO dans son rapport annuel. Face à l’ampleur des terres dégradées, l’organisation appelle à accélérer les efforts grâce à davantage d’investissements, une gouvernance inclusive et un engagement politique durable.",
-   "zone": "Monde",
-   "theme": "Biodiversité",
-   "importance": "normale",
-   "source": "ONU Info Climat",
-   "url": "https://news.un.org/feed/view/fr/story/2026/09/1159561",
    "impact": "",
    "curated": false,
    "ajoute": "2026-11-02"
